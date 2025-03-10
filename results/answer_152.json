@@ -1,0 +1,19 @@
+{
+  "question_number": "152",
+  "question_text": "Qual é o tratamento dos rendimentos recebidos por funcionário da Organização dos Estados Americanos (OEA)?",
+  "reference": "['O funcionário da OEA tem seus rendimentos tributados da mesma forma e condições dos funcionários do', 'PNUD, da ONU, exceto no que concerne a proventos de aposentadoria e pensões pagos pela OEA, que se', 'submetem ao imposto sobre a renda brasileiro, quando residente no Brasil.', '(Decreto nº 57.942, de 10 de março de 1966, art. 10, “b”; Instrução Normativa SRF nº 208, de 27', 'de setembro de 2002, art. 21, §§ 1º e 2º; e Parecer Normativo Cosit nº 3, de 28 de agosto de 1996)', 'Consulte a pergunta 149']",
+  "candidate": "\"Os rendimentos recebidos por funcionários da Organização dos Estados Americanos (OEA) no Brasil são tratados da seguinte forma: **Funcionários estrangeiros:** - Os rendimentos do trabalho assalariado recebidos no Brasil por pessoas físicas não residentes, provenientes de organismos internacionais como a OEA, são isentos do Imposto de Renda. citeturn0search6 **Funcionários brasileiros:** - Os rendimentos do trabalho assalariado recebidos por residentes no Brasil, provenientes de organismos internacionais, são tributáveis e devem ser declarados como \"\"Rendimentos Tributáveis Recebidos de Pessoas Físicas e do Exterior\"\". citeturn0search9 É importante que os funcionários residentes no Brasil que recebam rendimentos da OEA estejam atentos às suas obrigações fiscais, incluindo o recolhimento mensal do imposto por meio do Carnê-Leão e a declaração anual desses rendimentos no Imposto de Renda. \"",
+  "answer_relevancy": 0.8675881235812349,
+  "answer_correctness": 0.17,
+  "semantic_similarity": 0.8242377074640328,
+  "bleu": 0.021329149689929536,
+  "rouge1_precision": 0.27007299270072993,
+  "rouge1_recall": 0.3854166666666667,
+  "rouge1_fmeasure": 0.31759656652360513,
+  "rouge2_precision": 0.04411764705882353,
+  "rouge2_recall": 0.06315789473684211,
+  "rouge2_fmeasure": 0.051948051948051945,
+  "rougeL_precision": 0.17518248175182483,
+  "rougeL_recall": 0.25,
+  "rougeL_fmeasure": 0.20600858369098712
+}

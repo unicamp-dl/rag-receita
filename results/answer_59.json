@@ -1,0 +1,19 @@
+{
+  "question_number": "59",
+  "question_text": "É obrigatória a inscrição no Cadastro de Pessoas Físicas (CPF) de dependente relacionado em Declaração de Ajuste Anual?",
+  "reference": "['É obrigatória a inscrição no Cadastro de Pessoas Físicas (CPF) das pessoas físicas que constem como', 'dependente para fins do Imposto sobre a Renda da Pessoa Física.', '(Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015, art. 3º, inciso III, § 2º)']",
+  "candidate": "Sim, é obrigatória a inscrição no Cadastro de Pessoas Físicas (CPF) de qualquer dependente relacionado na Declaração de Ajuste Anual, independentemente da idade. Desde 2020, a Receita Federal exige que todos os dependentes, inclusive menores de idade, possuam CPF para serem incluídos na declaração, garantindo maior controle e evitando inconsistências nos dados. O CPF pode ser obtido gratuitamente nos canais autorizados, como o site da Receita Federal, cartórios conveniados, agências do Banco do Brasil, Caixa Econômica Federal e Correios.",
+  "answer_relevancy": 0.9580163721860364,
+  "answer_correctness": 0.25,
+  "semantic_similarity": 0.820434874571417,
+  "bleu": 0.40666896380095774,
+  "rouge1_precision": 0.26136363636363635,
+  "rouge1_recall": 0.46938775510204084,
+  "rouge1_fmeasure": 0.33576642335766427,
+  "rouge2_precision": 0.12643678160919541,
+  "rouge2_recall": 0.22916666666666666,
+  "rouge2_fmeasure": 0.16296296296296295,
+  "rougeL_precision": 0.18181818181818182,
+  "rougeL_recall": 0.32653061224489793,
+  "rougeL_fmeasure": 0.23357664233576642
+}

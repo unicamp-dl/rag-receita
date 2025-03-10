@@ -1,0 +1,19 @@
+{
+  "question_number": "173",
+  "question_text": "Pessoa física com 65 anos ou mais, não residente, tem direito à parcela de isenção referente a rendimentos de aposentadoria ou pensão recebidos de fonte no Brasil?",
+  "reference": "['Não. Apenas o residente no Brasil tem direito a essa isenção.', '(Lei nº 7.713, de 22 de dezembro de 1988, art. 1º e 6º, inciso XV)']",
+  "candidate": "\"Atualmente, a legislação brasileira não concede a parcela de isenção do Imposto de Renda para pessoas físicas com 65 anos ou mais que sejam não residentes no país e recebam rendimentos de aposentadoria ou pensão de fontes brasileiras. Historicamente, esses rendimentos estavam sujeitos a uma alíquota fixa de 25% retida na fonte, independentemente do valor recebido. No entanto, em outubro de 2024, o Supremo Tribunal Federal (STF) declarou inconstitucional a aplicação dessa alíquota única de 25% sobre aposentadorias e pensões pagas a residentes no exterior, argumentando que tal prática violava os princípios da isonomia e da progressividade tributária. citeturn0search6 Com essa decisão, os rendimentos de aposentadoria e pensão pagos a não residentes passaram a ser tributados conforme a tabela progressiva do Imposto de Renda aplicável aos residentes no Brasil. Contudo, a parcela de isenção específica para contribuintes com 65 anos ou mais, prevista no artigo 6º, inciso XV, da Lei nº 7.713/88, é destinada apenas a residentes no país. Portanto, não se aplica a não residentes, mesmo após a decisão do STF. citeturn0search3 Recomenda-se que os contribuintes nessa situação consultem um profissional especializado ou a Receita Federal para obter orientações atualizadas e específicas sobre suas obrigações fiscais e possíveis direitos relacionados aos rendimentos recebidos do Brasil enquanto residem no exterior. \"",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.5,
+  "semantic_similarity": 0.6310970134663123,
+  "bleu": 0.015450766293655126,
+  "rouge1_precision": 0.0942622950819672,
+  "rouge1_recall": 0.7931034482758621,
+  "rouge1_fmeasure": 0.16849816849816848,
+  "rouge2_precision": 0.0411522633744856,
+  "rouge2_recall": 0.35714285714285715,
+  "rouge2_fmeasure": 0.07380073800738007,
+  "rougeL_precision": 0.05737704918032787,
+  "rougeL_recall": 0.4827586206896552,
+  "rougeL_fmeasure": 0.10256410256410256
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "120",
+  "question_text": "Quem esteve ausente do Brasil por vários anos, perdendo a condição de residente, poderá regressar ao país trazendo suas economias e bens adquiridos no exterior sem qualquer incidência do imposto sobre a renda, por ser não residente e nem contribuinte residente no Brasil durante todo o período em que esteve residente no exterior?",
+  "reference": "['As pessoas físicas residentes no exterior são tributáveis no Brasil apenas quanto aos rendimentos que aqui', 'tenham sido produzidos, ou seja, por rendimentos imputáveis a fontes nacionais. De modo que, relativamente', 'aos não residentes no País, o imposto sobre a renda brasileiro não incide sobre rendimentos produzidos no', 'exterior, assim entendidos os imputáveis a fontes localizadas fora do território nacional, ainda que, como na', 'pergunta, estes venham a ser transferidos para o Brasil por pessoa física brasileira não residente no País que', 'retorne ao território nacional com ânimo definitivo, readquirindo a condição de residente na data de sua', 'chegada. Devem, porém, os bens e direitos serem informados na Ficha “Bens e Direitos” da Declaração de', 'Ajuste Anual (DAA).', '(Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional - CTN, art. 43; Instrução', 'Normativa SRF nº 208, de 27 de setembro de 2002, arts. 2º, inciso IV, 4º e 6º; e Solução de Consulta', 'Cosit nº 63, de 29 de março de 2021)']",
+  "candidate": "Sim, o contribuinte pode retificar sua Declaração de Ajuste Anual caso identifique erros ou omissões após o envio. A retificação deve ser feita utilizando o mesmo programa ou plataforma em que a declaração original foi enviada, seja o Programa Gerador da Declaração (PGD) IRPF 2024, o portal e-CAC no site da Receita Federal ou o aplicativo \"Meu Imposto de Renda\". É necessário informar o número do recibo da declaração anterior e optar pelo mesmo modelo de tributação (simplificado ou completo). Não é permitido retificar a declaração se ela estiver sob procedimento de fiscalização.",
+  "answer_relevancy": 0.3958838220530468,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.45704011261812993,
+  "bleu": 0.055380039444061294,
+  "rouge1_precision": 0.3523809523809524,
+  "rouge1_recall": 0.1989247311827957,
+  "rouge1_fmeasure": 0.2542955326460481,
+  "rouge2_precision": 0.0673076923076923,
+  "rouge2_recall": 0.03783783783783784,
+  "rouge2_fmeasure": 0.04844290657439446,
+  "rougeL_precision": 0.21904761904761905,
+  "rougeL_recall": 0.12365591397849462,
+  "rougeL_fmeasure": 0.15807560137457044
+}

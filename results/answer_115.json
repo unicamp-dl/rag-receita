@@ -1,0 +1,19 @@
+{
+  "question_number": "115",
+  "question_text": "Quem é considerado não residente no Brasil para fins de tributação pelo imposto sobre a renda da pessoa física?",
+  "reference": "['Considera-se não residente no Brasil,para fins de tributação pelo imposto sobre a renda, a pessoa física:', 'I - que não resida no Brasil em caráter permanente e não se enquadre nas hipóteses previstas na pergunta', '114;', 'II - que se retire em caráter permanente do território nacional, na data da saída, com a entrega da Declaração', 'de Saída Definitiva do País ou da Comunicação de Saída Definitiva do País;', 'III - que, na condição de não residente, ingresse no Brasil para prestar serviços como funcionária de órgão de', 'governo estrangeiro situado no País, ressalvada a brasileira que adquiriu a condição de não residente no', 'Brasil e retorne ao País com ânimo definitivo;', 'IV - que ingresse no Brasil com visto temporário:', 'a) e permaneça até 183 dias, consecutivos ou não, em um período de até doze meses;', 'b) até o dia anterior ao da obtenção de visto permanente ou de vínculo empregatício, se ocorrida antes', 'de completar 184 dias, consecutivos ou não, de permanência no Brasil, dentro de um período de até', 'doze meses;', 'V - que se ausente do Brasil em caráter temporário, a partir do dia seguinte àquele em que complete doze', 'meses consecutivos de ausência.', 'Atenção:', 'Para fins do disposto no item IV, ‘a’, caso, dentro de um período de doze meses, a pessoa física', 'não complete 184 dias, consecutivos ou não, de permanência no Brasil, novo período de até doze', 'meses será contado da data do ingresso seguinte àquele em que se iniciou a contagem anterior.', '(Lei nº 9.718, de 27 de novembro de 1998, art. 12; e Instrução Normativa SRF nº 208, de 27 de', 'setembro de 2002, art. 3º , art. 11, inciso I, e art. 11-A)', 'Consulte as perguntas 119 e 125']",
+  "candidate": "​Para fins de tributação pelo Imposto de Renda da Pessoa Física (IRPF) no Brasil, é considerado não residente o indivíduo que:​ Não resida no Brasil em caráter permanente e não se enquadre nas condições de residente estabelecidas pela legislação tributária brasileira. Se retire do território nacional em caráter permanente, a partir da data de saída, desde que tenha apresentado a Comunicação de Saída Definitiva do País. Se ausente do Brasil em caráter temporário, a partir do dia seguinte àquele em que complete 12 meses consecutivos de ausência, sem apresentar a Comunicação de Saída Definitiva do País. Ingresse no Brasil com visto temporário e permaneça até 183 dias, consecutivos ou não, em um período de até 12 meses. Na condição de não residente, ingresse no Brasil para prestar serviços como funcionário de órgão de governo estrangeiro situado no país. É importante destacar que, para indivíduos que ingressam no Brasil com visto temporário, se dentro de um período de 12 meses não completarem 184 dias de permanência, consecutivos ou não, um novo período de 12 meses será contado a partir da data do próximo ingresso no país. ​ gov.br +1 jusbrasil.com.br +1 Além disso, a pessoa física não residente que receba rendimentos de fonte situada no Brasil deve comunicar sua condição à fonte pagadora para que a retenção do imposto de renda seja efetuada corretamente. ​ jusbrasil.com.br Para informações mais detalhadas, recomenda-se consultar a Receita Federal ou um profissional especializado em direito tributário.",
+  "answer_relevancy": 0.7916829113773612,
+  "answer_correctness": 0.74,
+  "semantic_similarity": 0.8616242101218051,
+  "bleu": 0.3391902647106854,
+  "rouge1_precision": 0.7379310344827587,
+  "rouge1_recall": 0.6426426426426426,
+  "rouge1_fmeasure": 0.6869983948635634,
+  "rouge2_precision": 0.4982698961937716,
+  "rouge2_recall": 0.43373493975903615,
+  "rouge2_fmeasure": 0.463768115942029,
+  "rougeL_precision": 0.4241379310344828,
+  "rougeL_recall": 0.36936936936936937,
+  "rougeL_fmeasure": 0.39486356340288925
+}

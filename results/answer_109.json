@@ -1,0 +1,19 @@
+{
+  "question_number": "109",
+  "question_text": "Como deve ser preenchida a Declaração de Bens e Direitos da Declaração Final de Espólio?",
+  "reference": "['Na Declaração de Bens e Direitos correspondente à declaração final deve ser informada, discriminadamente,', 'em relação a cada bem ou direito, a parcela que corresponder a cada beneficiário, identificado por nome e', 'número de inscrição no Cadastro de Pessoas Físicas (CPF).', 'No item “Situação na Data da Partilha (R$)”, os bens ou direitos devem ser informados pelo valor, observada', 'a legislação pertinente, constante na última declaração apresentada pelo de cujus, atualizado até 31/12/1995,', 'ou pelo valor de aquisição, se adquiridos após essa data.', 'No item “Valor de Transferência (R$)”, deve ser informado o valor pelo qual o bem ou direito, ou cada parte', 'deste, será incluído na Declaração de Bens e Direitos do respectivo beneficiário.', '(Lei nº 9.532, de 10 de dezembro de 1997, art. 23; Instrução Normativa SRF nº 81, de 11 de outubro', 'de 2001, arts. 9º e 10; e Instrução Normativa SRF nº 84, de 11 de outubro de 2001, art. 3º, inciso', 'II)']",
+  "candidate": "​Na Declaração Final de Espólio, a ficha \"Bens e Direitos\" deve ser preenchida detalhando cada bem ou direito do falecido, especificando a parcela destinada a cada beneficiário, com seus respectivos nomes e CPFs. Na coluna \"Situação na Data da Partilha\", informe o valor do bem conforme a última declaração do falecido ou o valor de aquisição pelo espólio. Na coluna \"Valor de Transferência\", indique o valor pelo qual o bem será incluído na declaração de bens do beneficiário, seguindo as regras de transferência de bens. ​ infomoney.com.br +5 gov.br +5 cnbsp.org.br +5 Se a transferência ocorrer por valor superior ao declarado anteriormente, a diferença constitui ganho de capital tributável, sujeito à alíquota de 15% de Imposto de Renda. Nesse caso, o inventariante deve apurar o ganho de capital utilizando o programa específico da Receita Federal referente ao ano-calendário da decisão judicial ou da lavratura da escritura pública, e importar os dados para a Declaração Final de Espólio. ​ investnews.com.br +3 gov.br +3 infomoney.com.br +3 O prazo para a entrega da Declaração Final de Espólio é até o último dia útil de abril do ano seguinte ao trânsito em julgado da decisão judicial ou à lavratura da escritura pública de inventário e partilha. ​ c6bank.com.br +5 gov.br +5 infomoney.com.br +5 Para mais detalhes sobre o preenchimento da Declaração de Bens e Direitos na Declaração Final de Espólio, você pode consultar o site oficial da Receita Federal. Para uma compreensão mais aprofundada sobre o assunto, você também pode assistir ao seguinte vídeo:",
+  "answer_relevancy": 0.8897175499084492,
+  "answer_correctness": 0.32,
+  "semantic_similarity": 0.7815538415729795,
+  "bleu": 0.19224934775549907,
+  "rouge1_precision": 0.3299319727891156,
+  "rouge1_recall": 0.5480225988700564,
+  "rouge1_fmeasure": 0.41188959660297236,
+  "rouge2_precision": 0.15699658703071673,
+  "rouge2_recall": 0.26136363636363635,
+  "rouge2_fmeasure": 0.19616204690831557,
+  "rougeL_precision": 0.23809523809523808,
+  "rougeL_recall": 0.3954802259887006,
+  "rougeL_fmeasure": 0.29723991507430997
+}

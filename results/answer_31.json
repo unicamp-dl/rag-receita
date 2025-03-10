@@ -1,0 +1,19 @@
+{
+  "question_number": "31",
+  "question_text": "Quem não pode preencher ou apresentar a declaração por meio do “Meu Imposto de Renda”?",
+  "reference": "['É vedado o preenchimento e a apresentação da declaração por meio do “Meu Imposto de Renda”, consulte o', 'item II da Pergunta 026, nas hipóteses de os declarantes ou seus dependentes informados nessa declaração,', 'no ano-calendário de 2023:', 'I – terem recebido rendimentos do exterior;', 'II – terem auferido os seguintes rendimentos sujeitos à tributação exclusiva ou definitiva:', 'a) ganhos de capital na alienação de bens ou direitos;', 'b) ganhos de capital na alienação de bens, direitos e aplicações financeiras adquiridos em moeda', 'estrangeira;', 'c) ganhos de capital na alienação de moeda estrangeira mantida em espécie; ou', 'd) ganhos líquidos em operações de renda variável realizadas em bolsa de valores, de mercadorias, de', 'futuros e assemelhadas, exceto para operações no mercado à vista de ações e com fundos de', 'investimento imobiliário;', 'III – terem auferido os seguintes rendimentos isentos e não tributáveis:', 'a) relativos à parcela isenta correspondente à atividade rural;', 'b) relativos à recuperação de prejuízos em renda variável realizadas em bolsa de valores, de', 'mercadorias, de futuros e assemelhados, exceto para operações no mercado à vista de ações e com', 'fundos de investimento imobiliário ou fundos de investimento em cadeias agroindustriais;', 'c) correspondente ao lucro na venda de imóvel residencial para aquisição de outro imóvel residencial;', 'ou', 'd) correspondentes ao lucro na alienação de imóvel residencial adquirido após o ano de 1969;', 'V – terem se sujeitado:', 'a) ao imposto pago no exterior ou ao recolhimento do imposto sobre a renda na fonte de que tratam os', '§§ 1º e 2º do art. 2º da Lei nº 11.033, de 21 de dezembro de 2004; ou', 'b) ao preenchimento dos demonstrativos referentes à atividade rural, ao ganho de capital ou à renda', 'variável, exceto, nesse último caso, para operações no mercado à vista de ações e com fundos de', 'investimento imobiliário.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 5º)']",
+  "candidate": "Não podem preencher ou apresentar a declaração por meio do \"Meu Imposto de Renda\" os contribuintes que receberam rendimentos tributáveis superiores a R$ 5 milhões no ano-calendário, os que tiveram rendimentos do exterior ou exigem informações de atividades rurais, ganhos de capital, rendimentos recebidos acumuladamente com ajustes na tributação, doações para partidos políticos, fundos patrimoniais, entre outros casos específicos. Nessas situações, a declaração deve ser feita exclusivamente pelo Programa Gerador da Declaração (PGD) IRPF 2024.",
+  "answer_relevancy": 0.9843658789217415,
+  "answer_correctness": 0.18,
+  "semantic_similarity": 0.7724332935455687,
+  "bleu": 0.08077413870891272,
+  "rouge1_precision": 0.6179775280898876,
+  "rouge1_recall": 0.16176470588235295,
+  "rouge1_fmeasure": 0.25641025641025644,
+  "rouge2_precision": 0.26136363636363635,
+  "rouge2_recall": 0.06784660766961652,
+  "rouge2_fmeasure": 0.10772833723653395,
+  "rougeL_precision": 0.4044943820224719,
+  "rougeL_recall": 0.10588235294117647,
+  "rougeL_fmeasure": 0.16783216783216784
+}

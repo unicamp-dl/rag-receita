@@ -1,0 +1,19 @@
+{
+  "question_number": "86",
+  "question_text": "Como deve declarar o contribuinte incapaz?",
+  "reference": "['A declaração é feita em nome do incapaz pelo tutor, curador ou responsável por sua guarda, usando o número', 'de inscrição no Cadastro de Pessoas Físicas (CPF) do incapaz.', 'Opcionalmente, o incapaz pode ser considerado dependente do tutor, curador ou responsável por sua guarda', 'judicial, desde que o declarante inclua os rendimentos do incapaz em sua declaração.']",
+  "candidate": "\"Contribuintes considerados incapazes, ou seja, aqueles que não possuem plena capacidade civil, devem ter sua Declaração de Ajuste Anual do Imposto de Renda apresentada por seu tutor, curador ou responsável legal. A declaração deve ser realizada em nome do incapaz, utilizando seu próprio CPF. citeturn0search0 **Procedimentos para a Declaração:** 1. **Identificação do Contribuinte Incapaz:** - **CPF Próprio:** É imprescindível que o incapaz possua um Cadastro de Pessoa Física (CPF) válido, que será utilizado na declaração. 2. **Responsável pela Declaração:** - **Tutor ou Curador:** A pessoa designada legalmente como tutor ou curador é responsável por elaborar e enviar a declaração em nome do incapaz. 3. **Inclusão de Rendimentos e Bens:** - **Rendimentos:** Todos os rendimentos auferidos pelo incapaz, como pensões, aluguéis ou outros, devem ser declarados. - **Bens e Direitos:** Bens móveis e imóveis, aplicações financeiras e outros direitos pertencentes ao incapaz devem ser informados na declaração. **Opção por Inclusão como Dependente:** Alternativamente, o incapaz pode ser incluído como dependente na declaração de seu tutor ou curador, desde que este seja o responsável legal. Nesse caso: - **Rendimentos do Dependente:** Os rendimentos do incapaz devem ser somados aos do declarante para fins de tributação. citeturn0search7 - **Despesas Dedutíveis:** Despesas com educação, saúde e outras permitidas relacionadas ao dependente podem ser deduzidas, conforme a legislação vigente. **Considerações Importantes:** - **Documentação Comprobatória:** É fundamental manter todos os documentos que comprovem os rendimentos, despesas e a relação de tutela ou curatela para eventuais verificações pela Receita Federal. - **Análise de Vantajosidade:** Antes de optar por uma declaração em separado ou pela inclusão como dependente, recomenda-se simular ambas as situações para identificar a opção mais vantajosa em termos fiscais. Para informações detalhadas e atualizadas, é aconselhável consultar as orientações oficiais da Receita Federal ou buscar a assistência de um profissional especializado em contabilidade ou direito tributário. \"",
+  "answer_relevancy": 0.5702019825547925,
+  "answer_correctness": 0.56,
+  "semantic_similarity": 0.8071610619597719,
+  "bleu": 0.044425850553528115,
+  "rouge1_precision": 0.15,
+  "rouge1_recall": 0.8095238095238095,
+  "rouge1_fmeasure": 0.2531017369727047,
+  "rouge2_precision": 0.07964601769911504,
+  "rouge2_recall": 0.43548387096774194,
+  "rouge2_fmeasure": 0.1346633416458853,
+  "rougeL_precision": 0.1,
+  "rougeL_recall": 0.5396825396825397,
+  "rougeL_fmeasure": 0.1687344913151365
+}

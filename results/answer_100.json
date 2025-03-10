@@ -1,0 +1,19 @@
+{
+  "question_number": "100",
+  "question_text": "São dedutíveis nas declarações de espólio os gastos com funeral, taxas, emolumentos e honorários advocatícios relativos ao inventário?",
+  "reference": "['Não. Nas declarações de espólio, inclusive na final, são permitidas apenas as deduções previstas na', 'legislação tributária.', '(Instrução Normativa SRF nº 81, de 11 de outubro de 2001, art. 14)', 'Consulte a pergunta 098']",
+  "candidate": "\"Não, as despesas com funeral, taxas, emolumentos e honorários advocatícios relacionados ao inventário não são dedutíveis nas declarações de espólio, incluindo a declaração final. A legislação tributária brasileira não prevê a dedução desses gastos. citeturn0search0 Embora não sejam dedutíveis, os honorários advocatícios pagos no processo de inventário devem ser informados na declaração do espólio na ficha \"\"Pagamentos Efetuados\"\", utilizando o código específico para serviços advocatícios. Nessa ficha, é necessário fornecer o nome, o CPF do advogado e o valor pago. citeturn0search1 As demais despesas do inventário, como taxas e emolumentos, também devem ser declaradas na mesma ficha, utilizando o código correspondente. Isso garante a transparência e a conformidade com as obrigações fiscais, mesmo que tais despesas não reduzam o imposto devido. Portanto, é fundamental registrar corretamente essas despesas na declaração do espólio, mesmo que não resultem em deduções fiscais. \"",
+  "answer_relevancy": 0.8932227885015595,
+  "answer_correctness": 0.4,
+  "semantic_similarity": 0.7391024087338078,
+  "bleu": 0.0760556797896219,
+  "rouge1_precision": 0.13714285714285715,
+  "rouge1_recall": 0.5714285714285714,
+  "rouge1_fmeasure": 0.22119815668202766,
+  "rouge2_precision": 0.06321839080459771,
+  "rouge2_recall": 0.2682926829268293,
+  "rouge2_fmeasure": 0.10232558139534885,
+  "rougeL_precision": 0.09714285714285714,
+  "rougeL_recall": 0.40476190476190477,
+  "rougeL_fmeasure": 0.1566820276497696
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "72",
+  "question_text": "É possível autorizar o crédito da restituição em conta de terceiros?",
+  "reference": "['Não. A restituição só é creditada em conta se o declarante for seu titular ou utilizar conta conjunta.']",
+  "candidate": "\"Não, a Receita Federal exige que a restituição do Imposto de Renda seja creditada exclusivamente em uma conta bancária de titularidade do próprio contribuinte. Isso significa que não é permitido indicar uma conta de terceiros para receber a restituição. Se uma conta bancária com CPF diferente do titular da declaração for informada, a restituição não será paga, e será necessário reagendar o crédito com a Central de Atendimento do Banco do Brasil. GOV.BR Portanto, para garantir o recebimento correto da restituição, certifique-se de informar uma conta corrente, poupança ou de pagamento que esteja em seu nome. Além disso, desde 2022, é possível receber a restituição via Pix, desde que a chave seja o próprio CPF do titular da declaração. GOV.BR\"",
+  "answer_relevancy": 0.4742190150640336,
+  "answer_correctness": 0.73,
+  "semantic_similarity": 0.6637582838036125,
+  "bleu": 0.02042946039568498,
+  "rouge1_precision": 0.10714285714285714,
+  "rouge1_recall": 0.7894736842105263,
+  "rouge1_fmeasure": 0.18867924528301885,
+  "rouge2_precision": 0.02877697841726619,
+  "rouge2_recall": 0.2222222222222222,
+  "rouge2_fmeasure": 0.050955414012738856,
+  "rougeL_precision": 0.09285714285714286,
+  "rougeL_recall": 0.6842105263157895,
+  "rougeL_fmeasure": 0.16352201257861634
+}

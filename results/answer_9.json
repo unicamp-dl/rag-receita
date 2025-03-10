@@ -1,0 +1,19 @@
+{
+  "question_number": "9",
+  "question_text": "O contribuinte deve apresentar uma Declaração de Ajuste Anual para cada fonte pagadora dos rendimentos que auferir?",
+  "reference": "['Não. O contribuinte deve apresentar somente uma Declaração de Ajuste Anual, independentemente do', 'número de fontes pagadoras, informando todos os rendimentos recebidos durante o ano-calendário de 2023.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024)', 'Consulte a pergunta 001']",
+  "candidate": "Não, o contribuinte não deve apresentar uma Declaração de Ajuste Anual para cada fonte pagadora. Independentemente do número de fontes pagadoras, é necessário apresentar apenas uma declaração anual, na qual todos os rendimentos recebidos ao longo do ano devem ser informados de forma consolidada. É importante destacar que, ao possuir múltiplas fontes de renda, o contribuinte deve somar todos os rendimentos tributáveis para determinar a base de cálculo do imposto devido. A omissão de qualquer fonte pagadora pode resultar em inconsistências e possíveis penalidades. Além disso, a soma dos rendimentos pode elevar a base de cálculo, influenciando na alíquota aplicada e, consequentemente, no valor do imposto a ser pago. Para evitar surpresas na hora da declaração, é recomendável que o contribuinte acompanhe mensalmente seus rendimentos e, se necessário, realize o recolhimento complementar do imposto por meio do carnê-leão, especialmente quando os valores recebidos de pessoas físicas ou do exterior não tiveram retenção na fonte.",
+  "answer_relevancy": 0.9662661159107531,
+  "answer_correctness": 0.4,
+  "semantic_similarity": 0.8288718377341657,
+  "bleu": 0.2878787818101128,
+  "rouge1_precision": 0.19540229885057472,
+  "rouge1_recall": 0.68,
+  "rouge1_fmeasure": 0.3035714285714286,
+  "rouge2_precision": 0.11560693641618497,
+  "rouge2_recall": 0.40816326530612246,
+  "rouge2_fmeasure": 0.18018018018018017,
+  "rougeL_precision": 0.1724137931034483,
+  "rougeL_recall": 0.6,
+  "rougeL_fmeasure": 0.26785714285714285
+}

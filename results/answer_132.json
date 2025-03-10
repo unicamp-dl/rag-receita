@@ -1,0 +1,19 @@
+{
+  "question_number": "132",
+  "question_text": "Como são tributados os benefícios ou resgates de previdência complementar e Fundo de Aposentadoria Programada Individual (Fapi) recebidos por não residente no Brasil, mesmo que o beneficiário tenha 65 anos ou mais?",
+  "reference": "['Sujeita-se à tributação exclusiva na fonte, à alíquota de 25%, a totalidade dos valores pagos por fonte no Brasil', 'a residentes no exterior a título de benefício ou resgate de previdência complementar e de Fundo de', 'Aposentadoria Programada Individual (Fapi).', 'Não se aplica aos rendimentos desse contribuinte a tabela progressiva, nem a isenção sobre os rendimentos', 'de aposentadoria que usufruem os residentes tributários no Brasil com 65 anos ou mais.', '(Lei nº 7.713, de 22 de dezembro de 1988, art. 6º, inciso XV; Lei nº 11.053, de 29 de dezembro de', '2004, art. 1º; Instrução Normativa SRF nº 208, de 27 de setembro de 2002, art. 42; e Solução de', 'Consulta Cosit nº 79, de 24 de março de 2015)']",
+  "candidate": "\"Sim, há um prazo para retificar a Declaração de Ajuste Anual do Imposto de Renda. O contribuinte pode apresentar uma declaração retificadora em até cinco anos a partir da data de entrega da declaração original, desde que esta não esteja sob procedimento de fiscalização. No entanto, após o término do prazo regular de entrega da declaração, não é permitido alterar o modelo de tributação escolhido originalmente (simplificado ou completo). GOV.BR Portanto, é recomendável que, ao identificar qualquer erro ou omissão na declaração, o contribuinte proceda à retificação o mais breve possível, garantindo a conformidade fiscal e evitando possíveis penalidades futuras.\"",
+  "answer_relevancy": 0.3642410202478435,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.5004612856537072,
+  "bleu": 0.03234245292096216,
+  "rouge1_precision": 0.24561403508771928,
+  "rouge1_recall": 0.21212121212121213,
+  "rouge1_fmeasure": 0.2276422764227642,
+  "rouge2_precision": 0.02654867256637168,
+  "rouge2_recall": 0.022900763358778626,
+  "rouge2_fmeasure": 0.02459016393442623,
+  "rougeL_precision": 0.14035087719298245,
+  "rougeL_recall": 0.12121212121212122,
+  "rougeL_fmeasure": 0.13008130081300812
+}

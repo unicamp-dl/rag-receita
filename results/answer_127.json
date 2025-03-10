@@ -1,0 +1,19 @@
+{
+  "question_number": "127",
+  "question_text": "Brasileiro, não residente, que retorna ao território nacional readquire de imediato a condição de residente ou deve permanecer 184 dias para readquirir essa condição?",
+  "reference": "['O brasileiro que retorna ao Brasil com ânimo definitivo de aqui residir passa a ser residente a partir da data da', 'chegada.', '(Instrução Normativa SRF nº 208, de 27 de setembro de 2002, art. 2º, inciso IV)']",
+  "candidate": "Um brasileiro que retorna ao país com ânimo definitivo readquire imediatamente a condição de residente fiscal na data de sua chegada. Não é necessário permanecer 184 dias para essa readquisição. citeturn0search0 Ao retornar, é importante regularizar a situação fiscal junto à Receita Federal. Deve-se atualizar o Cadastro de Pessoas Físicas (CPF) e, no ano seguinte ao retorno, apresentar a Declaração de Ajuste Anual do Imposto de Renda, incluindo os rendimentos e bens adquiridos no exterior. citeturn0search4 Recomenda-se consultar as orientações da Receita Federal ou buscar auxílio de um profissional especializado para garantir o cumprimento adequado das obrigações fiscais.",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.2,
+  "semantic_similarity": 0.7368750545956761,
+  "bleu": 0.1881478574691709,
+  "rouge1_precision": 0.18181818181818182,
+  "rouge1_recall": 0.5263157894736842,
+  "rouge1_fmeasure": 0.2702702702702703,
+  "rouge2_precision": 0.045871559633027525,
+  "rouge2_recall": 0.13513513513513514,
+  "rouge2_fmeasure": 0.0684931506849315,
+  "rougeL_precision": 0.13636363636363635,
+  "rougeL_recall": 0.39473684210526316,
+  "rougeL_fmeasure": 0.2027027027027027
+}

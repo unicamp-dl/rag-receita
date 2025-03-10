@@ -1,0 +1,19 @@
+{
+  "question_number": "103",
+  "question_text": "Incidem acréscimos legais quando a responsabilidade pela obrigação tributária do espólio for transferida aos herdeiros?",
+  "reference": "['Sim. Incidem acréscimos legais sobre o valor do imposto devido pelo espólio, limitada essa responsabilidade', 'ao montante do quinhão, legado ou da meação.', '(Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), art. 131, inciso II;', 'Decreto-Lei nº 5.844, de 23 de setembro de 1943, art. 50; e Regulamento do Imposto sobre a Renda', '- RIR/2018, art. 21, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018)']",
+  "candidate": "\"Sim, quando a responsabilidade pela obrigação tributária do espólio é transferida aos herdeiros, incidem os acréscimos legais sobre o valor do imposto devido. No entanto, essa responsabilidade é limitada ao montante do quinhão, legado ou meação que cada herdeiro receber. citeturn0search0 Isso significa que, se houver tributos devidos pelo espólio e não pagos até a data da partilha ou adjudicação dos bens, os herdeiros responderão por esses débitos, acrescidos de juros e multas, até o limite do valor que lhes couber na herança. É importante que o inventariante e os herdeiros estejam atentos às obrigações tributárias do espólio para evitar a acumulação de encargos adicionais. \"",
+  "answer_relevancy": 0.8062954525815732,
+  "answer_correctness": 0.31,
+  "semantic_similarity": 0.7787192859764824,
+  "bleu": 0.29534359244592495,
+  "rouge1_precision": 0.2857142857142857,
+  "rouge1_recall": 0.40963855421686746,
+  "rouge1_fmeasure": 0.33663366336633666,
+  "rouge2_precision": 0.16101694915254236,
+  "rouge2_recall": 0.23170731707317074,
+  "rouge2_fmeasure": 0.19,
+  "rougeL_precision": 0.23529411764705882,
+  "rougeL_recall": 0.3373493975903614,
+  "rougeL_fmeasure": 0.2772277227722772
+}

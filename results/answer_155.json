@@ -1,0 +1,19 @@
+{
+  "question_number": "155",
+  "question_text": "Qual é o tratamento tributário dos rendimentos auferidos por funcionário da Rede de Informação Tecnológica Latino-Americana (Ritla) do Sistema Econômico Latino-Americano (Sela)?",
+  "reference": "['O funcionário da Secretaria do Comitê de Ação para o Estabelecimento da Rede de Informação Tecnológica', 'Latino-Americana (Ritla), do Sistema Econômico Latino-Americano (Sela), em nível de direção, técnico e', 'administrativo, que não seja brasileiro, nem residente no Brasil, está isento do imposto sobre a renda quanto', 'aos salários e vencimentos a ele pago pelo Sela, em decorrência de suas funções específicas.', '(Decreto nº 87.563, de 13 de setembro de 1982, art. XV, “b”)']",
+  "candidate": "\"Os rendimentos recebidos por funcionários da Rede de Informação Tecnológica Latino-Americana (RITLA) do Sistema Econômico Latino-Americano (SELA) no Brasil são tratados da seguinte forma: **Funcionários estrangeiros:** - Os rendimentos do trabalho assalariado recebidos no Brasil por pessoas físicas não residentes, provenientes de organismos internacionais como a RITLA/SELA, são isentos do Imposto de Renda. **Funcionários brasileiros ou residentes no Brasil:** - Os rendimentos do trabalho assalariado recebidos por residentes no Brasil, provenientes de organismos internacionais como a RITLA/SELA, são tributáveis e devem ser declarados como \"\"Rendimentos Tributáveis Recebidos de Pessoas Físicas e do Exterior\"\". É fundamental que os funcionários residentes no Brasil que recebam rendimentos da RITLA/SELA cumpram suas obrigações fiscais, incluindo o recolhimento mensal do imposto por meio do Carnê-Leão e a declaração anual desses rendimentos no Imposto de Renda. Para mais detalhes, consulte a Instrução Normativa SRF nº 208/2002. \"",
+  "answer_relevancy": 0.8056049081323833,
+  "answer_correctness": 0.15,
+  "semantic_similarity": 0.7804759947234302,
+  "bleu": 0.0754744452699377,
+  "rouge1_precision": 0.31901840490797545,
+  "rouge1_recall": 0.5842696629213483,
+  "rouge1_fmeasure": 0.4126984126984127,
+  "rouge2_precision": 0.1419753086419753,
+  "rouge2_recall": 0.26136363636363635,
+  "rouge2_fmeasure": 0.184,
+  "rougeL_precision": 0.2085889570552147,
+  "rougeL_recall": 0.38202247191011235,
+  "rougeL_fmeasure": 0.2698412698412698
+}

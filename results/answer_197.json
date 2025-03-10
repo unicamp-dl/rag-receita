@@ -1,0 +1,19 @@
+{
+  "question_number": "197",
+  "question_text": "Os valores das gratificações, prêmios, participações etc., pagos a atleta profissional, em decorrência dos resultados obtidos em competições esportivas, são tributáveis?",
+  "reference": "['Sim. Os valores pagos pelo empregador a título de luvas, prêmios, bichos, direito de arena, publicidade em', 'camisas etc., como retribuição pelo contrato de serviços profissionais, por vitórias, empates, títulos e troféus', 'conquistados, possuem caráter remuneratório e, como tal, são considerados rendimentos do trabalho', 'assalariado devendo compor, juntamente com os salários pagos ou creditados em cada mês, a renda mensal', 'sujeita à incidência na fonte e na Declaração de Ajuste Anual.', '(Lei nº 9.615, de 24 de março de 1998; e Instrução Normativa RFB nº 1.500, de 29 de outubro de', '2014, art. 3º)']",
+  "candidate": "Sim, os valores recebidos por atletas profissionais a título de gratificações, prêmios, participações e similares, decorrentes de resultados obtidos em competições esportivas, são considerados rendimentos tributáveis e estão sujeitos à incidência de Imposto de Renda. citeturn0search0 A legislação brasileira estabelece que esses prêmios, quando pagos pelo empregador ou por entidades como comitês olímpicos, federações esportivas, clubes, empresas e outros patrocinadores, são tributados de acordo com a tabela progressiva do Imposto de Renda, aplicável a qualquer remuneração de trabalhador. citeturn0search5 No entanto, há uma exceção específica para atletas olímpicos e paralímpicos: desde agosto de 2024, valores recebidos como premiação pela conquista de medalhas em Jogos Olímpicos e Paralímpicos, pagos pelo Comitê Olímpico do Brasil (COB) e pelo Comitê Paralímpico Brasileiro (CPB), estão isentos de tributação pelo Imposto de Renda. Essa medida foi implementada para reconhecer e incentivar o desempenho dos atletas brasileiros nessas competições. citeturn0search1 Portanto, enquanto a regra geral prevê a tributação de prêmios e gratificações recebidos por atletas profissionais, as premiações específicas por conquistas em Jogos Olímpicos e Paralímpicos, pagas pelo COB e CPB, são isentas de Imposto de Renda desde 2024.",
+  "answer_relevancy": 0.9069854761250755,
+  "answer_correctness": 0.33,
+  "semantic_similarity": 0.6368398072172134,
+  "bleu": 0.13679266962162623,
+  "rouge1_precision": 0.22072072072072071,
+  "rouge1_recall": 0.44144144144144143,
+  "rouge1_fmeasure": 0.29429429429429427,
+  "rouge2_precision": 0.06787330316742081,
+  "rouge2_recall": 0.13636363636363635,
+  "rouge2_fmeasure": 0.09063444108761329,
+  "rougeL_precision": 0.13963963963963963,
+  "rougeL_recall": 0.27927927927927926,
+  "rougeL_fmeasure": 0.18618618618618618
+}

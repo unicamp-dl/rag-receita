@@ -1,0 +1,19 @@
+{
+  "question_number": "51",
+  "question_text": "Contribuinte que tenha optado pelo pagamento do imposto à vista deve retificar a declaração, caso pretenda efetuar o pagamento em quotas?",
+  "reference": "['Sim. A pessoa física que tenha optado pelo pagamento do imposto em quota única deve retificar a declaração', 'para assim poder recolher o imposto parceladamente, até o limite de oito quotas.', 'A pessoa física pode, também, fazer tal alteração, mediante acesso ao site da RFB na Internet, opção “O que', 'você procura?” (acesso a partir do menu principal); “Meu Imposto de Renda”.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 12, § 1º, inciso II)']",
+  "candidate": "Sim, caso o contribuinte tenha optado pelo pagamento do imposto à vista e deseje parcelar o valor em quotas, ele deve retificar a declaração dentro do prazo de vencimento da primeira quota. Na retificação, deve selecionar a opção de pagamento parcelado e gerar novos DARFs correspondentes às parcelas. O parcelamento pode ser feito em até oito quotas mensais, desde que cada parcela seja de, no mínimo, R$ 50,00, e o imposto total seja superior a R$ 100,00. As quotas, exceto a primeira, serão acrescidas de juros com base na taxa Selic.",
+  "answer_relevancy": 0.7820769443959446,
+  "answer_correctness": 0.15,
+  "semantic_similarity": 0.7612326992495069,
+  "bleu": 0.2057593563676763,
+  "rouge1_precision": 0.4020618556701031,
+  "rouge1_recall": 0.4482758620689655,
+  "rouge1_fmeasure": 0.4239130434782609,
+  "rouge2_precision": 0.14583333333333334,
+  "rouge2_recall": 0.16279069767441862,
+  "rouge2_fmeasure": 0.15384615384615388,
+  "rougeL_precision": 0.25773195876288657,
+  "rougeL_recall": 0.28735632183908044,
+  "rougeL_fmeasure": 0.2717391304347826
+}

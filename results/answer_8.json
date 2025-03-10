@@ -1,0 +1,19 @@
+{
+  "question_number": "8",
+  "question_text": "A posse ou a propriedade de bens e direitos relativos à atividade rural de valor superior a R$ 800.000,00, exceto terra nua, obriga o contribuinte à apresentação da Declaração de Ajuste Anual do exercício de 2024?",
+  "reference": "['Os bens vinculados à atividade rural, tais como maquinários, semoventes, safra em estoque, não integram o', 'limite para efeito de obrigatoriedade de apresentação da Declaração de Ajuste Anual, exceto para aqueles', 'contribuintes que mantiveram tais bens na Declaração de Bens e Direitos da referida declaração de ajuste.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 2º)']",
+  "candidate": "Sim, a posse ou propriedade de bens e direitos relacionados à atividade rural, exceto terra nua, com valor superior a R$ 800.000,00 em 31 de dezembro de 2023, obriga o contribuinte a apresentar a Declaração de Ajuste Anual referente ao exercício de 2024. A obrigatoriedade de declaração está vinculada ao valor total dos bens e direitos possuídos, independentemente de estarem relacionados à atividade rural ou urbana. Portanto, se o valor total dos bens e direitos, excluindo a terra nua, ultrapassar R$ 800.000,00, a apresentação da declaração é obrigatória. Para mais informações, consulte o manual \"Perguntas e Respostas IRPF 2024\" da Receita Federal.",
+  "answer_relevancy": 0.7353737884736322,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.7801474761883966,
+  "bleu": 0.0748569775397282,
+  "rouge1_precision": 0.3153153153153153,
+  "rouge1_recall": 0.5147058823529411,
+  "rouge1_fmeasure": 0.39106145251396646,
+  "rouge2_precision": 0.13636363636363635,
+  "rouge2_recall": 0.22388059701492538,
+  "rouge2_fmeasure": 0.16949152542372883,
+  "rougeL_precision": 0.2072072072072072,
+  "rougeL_recall": 0.3382352941176471,
+  "rougeL_fmeasure": 0.25698324022346364
+}

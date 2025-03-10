@@ -1,0 +1,19 @@
+{
+  "question_number": "145",
+  "question_text": "Qual é o tratamento tributário dos rendimentos recebidos por empregado de empresas estatais estrangeiras situadas no Brasil?",
+  "reference": "['Os empregados de empresas estatais estrangeiras situadas no Brasil não fazem jus ao tratamento', 'diferenciado concedido àqueles vinculados a embaixadas, consulados e repartições oficiais de outros países.', 'Assim, submetem-se à tributação pelas mesmas regras aplicáveis aos demais contribuintes, de acordo com', 'a sua condição de residente ou de não residente no Brasil.', 'Consulte as perguntas 128 e 129']",
+  "candidate": "As fontes pagadoras que deixarem de fornecer o comprovante de rendimentos ou o fornecerem com inexatidão estão sujeitas a multa de R$ 41,43 por documento não entregue ou com erro. Além disso, se a omissão ou erro resultar em falta de recolhimento de imposto ou em declaração inexata à Receita Federal, a empresa poderá ser autuada e sujeitar-se a penalidades mais severas, incluindo multas adicionais e juros sobre o valor não recolhido corretamente.",
+  "answer_relevancy": 0.433514881479745,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.4522418289884057,
+  "bleu": 0.005165389768990163,
+  "rouge1_precision": 0.24691358024691357,
+  "rouge1_recall": 0.3076923076923077,
+  "rouge1_fmeasure": 0.273972602739726,
+  "rouge2_precision": 0.025,
+  "rouge2_recall": 0.03125,
+  "rouge2_fmeasure": 0.02777777777777778,
+  "rougeL_precision": 0.14814814814814814,
+  "rougeL_recall": 0.18461538461538463,
+  "rougeL_fmeasure": 0.1643835616438356
+}

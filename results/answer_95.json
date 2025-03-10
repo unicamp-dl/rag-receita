@@ -1,0 +1,19 @@
+{
+  "question_number": "95",
+  "question_text": "Se o espólio não estava obrigado a apresentar as declarações inicial e intermediárias, havendo bens a inventariar, é obrigatória a apresentação da Declaração Final de Espólio?",
+  "reference": "['Sim, a apresentação da Declaração Final de Espólio é obrigatória sempre que houver bens a inventariar.', '(Instrução Normativa SRF nº 81, de 11 de outubro de 2001, art. 3º, § 4º)']",
+  "candidate": "\"Sim, mesmo que o espólio não tenha sido obrigado a apresentar as declarações inicial e intermediárias, a apresentação da Declaração Final de Espólio é obrigatória quando há bens a inventariar. A Declaração Final de Espólio deve ser entregue após a conclusão do processo de inventário e partilha dos bens entre os herdeiros. Nessa declaração, é necessário informar detalhadamente a destinação dos bens e direitos aos respectivos beneficiários, encerrando as obrigações fiscais do falecido. citeturn0search0 Portanto, independentemente da obrigatoriedade das declarações anteriores, a Declaração Final de Espólio é sempre necessária para formalizar a transferência dos bens e regularizar a situação fiscal do espólio. \"",
+  "answer_relevancy": 0.8413450650774025,
+  "answer_correctness": 0.22,
+  "semantic_similarity": 0.7963911132654253,
+  "bleu": 0.2841369087997154,
+  "rouge1_precision": 0.184,
+  "rouge1_recall": 0.6764705882352942,
+  "rouge1_fmeasure": 0.289308176100629,
+  "rouge2_precision": 0.10483870967741936,
+  "rouge2_recall": 0.3939393939393939,
+  "rouge2_fmeasure": 0.16560509554140126,
+  "rougeL_precision": 0.16,
+  "rougeL_recall": 0.5882352941176471,
+  "rougeL_fmeasure": 0.25157232704402516
+}

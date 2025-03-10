@@ -1,0 +1,19 @@
+{
+  "question_number": "196",
+  "question_text": "Os prêmios obtidos em concursos e competições artísticas, científicas, desportivas e literárias são tributáveis?",
+  "reference": "['Sim. Na hipótese da ocorrência de concursos artísticos, desportivos, científicos, literários ou a outros títulos', 'assemelhados, com distribuição de prêmios efetuada por pessoa jurídica a pessoa física, quando houver', 'vinculação quanto à avaliação do desempenho dos participantes, hipótese na qual tais prêmios assumem o', 'aspecto de remuneração do trabalho, independentemente se distribuídos em dinheiro ou sob a forma de bens', 'e serviços, o imposto sobre a renda incide na fonte, calculado de acordo com a tabela progressiva mensal, a', 'título de antecipação do devido na Declaração de Ajuste Anual (DAA).', 'No caso de não ocorrência da vinculação quanto à avaliação do desempenho dos participantes, consultar as', 'perguntas 311 e 313.', '(Parecer Normativo CST nº 173, de 26 de setembro de 1974; e Parecer Normativo CST nº 62, de', '31 de agosto de 1976)']",
+  "candidate": "Sim, os prêmios obtidos em concursos e competições artísticas, científicas, desportivas e literárias são tributáveis. A forma de tributação varia conforme a natureza do prêmio e a relação entre o participante e o organizador do concurso: 1. **Prêmios vinculados à avaliação de desempenho**: Quando o prêmio está relacionado à avaliação do desempenho do participante, assumindo caráter de remuneração pelo trabalho, o Imposto de Renda incide na fonte, calculado de acordo com a tabela progressiva mensal. Esse valor é considerado antecipação do devido na Declaração de Ajuste Anual. citeturn0search2 2. **Prêmios não vinculados à avaliação de desempenho**: - **Distribuídos em bens e serviços**: Nessa situação, o Imposto de Renda incide exclusivamente na fonte, à alíquota de 20%. citeturn0search2 - **Distribuídos em dinheiro**: O imposto é calculado conforme a tabela progressiva mensal, sendo uma antecipação do devido na Declaração de Ajuste Anual. citeturn0search2 É importante destacar que, independentemente da forma de distribuição do prêmio, a fonte pagadora é responsável pela retenção e recolhimento do Imposto de Renda correspondente. O beneficiário deve incluir essas informações em sua Declaração de Ajuste Anual, conforme a natureza do prêmio recebido.",
+  "answer_relevancy": 0.8553009951193796,
+  "answer_correctness": 0.5,
+  "semantic_similarity": 0.7693863562659902,
+  "bleu": 0.036119716772986026,
+  "rouge1_precision": 0.4131455399061033,
+  "rouge1_recall": 0.567741935483871,
+  "rouge1_fmeasure": 0.47826086956521735,
+  "rouge2_precision": 0.19811320754716982,
+  "rouge2_recall": 0.2727272727272727,
+  "rouge2_fmeasure": 0.22950819672131148,
+  "rougeL_precision": 0.27230046948356806,
+  "rougeL_recall": 0.3741935483870968,
+  "rougeL_fmeasure": 0.31521739130434784
+}

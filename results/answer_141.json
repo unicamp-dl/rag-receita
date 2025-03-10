@@ -1,0 +1,19 @@
+{
+  "question_number": "141",
+  "question_text": "É compensável no Brasil o imposto pago sobre rendimentos recebidos na Alemanha, nos Estados Unidos da América e no Reino Unido?",
+  "reference": "['Sim. A reciprocidade de tratamento permite a compensação no Brasil do imposto pago, observado o limite de', 'compensação.', 'Alemanha: o Acordo para Evitar a Dupla Tributação em Matéria de Impostos sobre a Renda e o Capital', 'firmado entre o Brasil e a Alemanha deixou de aplicar-se aos rendimentos auferidos ou pagos, creditados ou', 'remetidos a partir de 1º de janeiro de 2006. Entretanto, o Ato Declaratório Interpretativo SRF nº 16, de 22 de', 'dezembro de 2005, declara compensável com o imposto devido no Brasil o imposto pago na República Federal', 'da Alemanha sobre rendimentos auferidos naquele país, observados os limites a que se referem os arts. 15,', '§ 1º, e 16, §§ 1º, 2º e 6º, da Instrução Normativa SRF nº 208, de 27 de setembro de 2002.', 'Estados Unidos da América: a legislação federal dos Estados Unidos da América permite a dedução do', 'tributo reconhecidamente pago no Brasil sobre receitas e rendimentos auferidos e tributados no Brasil, o que', 'configura a reciprocidade de tratamento. O imposto pago nos Estados Unidos da América pode ser', 'compensado com o imposto devido no Brasil, observados os limites a que se referem os arts. 15, § 1º, e 16,', '§§ 1º, 2º e 6º, da Instrução Normativa SRF nº 208, de 2002.', 'Reino Unido: a legislação do Reino Unido permite a dedução do imposto sobre a renda comprovadamente', 'pago no Brasil sobre rendimentos auferidos e tributados no Brasil, o que configura a reciprocidade de', 'tratamento. O imposto pago no Reino Unido pode ser compensado com o imposto no Brasil, observados os', 'limites a que se referem os arts. 15, § 1º, e 16, §§ 1º, 2º e 6º, da Instrução Normativa SRF nº 208, de 2002.', 'Atenção:', 'A reciprocidade de tratamento não se comunica aos tributos pagos aos estados-membros e', 'municípios.', '(Ato Declaratório SRF nº 28, de 26 de abril de 2000; Ato Declaratório SRF nº 48, de 27 de junho de', '2000; Ato Declaratório Executivo SRF nº 72, de 22 de dezembro de 2005; e Ato Declaratório', 'Interpretativo nº 16, de 22 de dezembro de 2005)', 'Consulte as perguntas 139 e 140']",
+  "candidate": "O contribuinte que sofreu retenção na fonte sobre verbas recebidas em razão de Planos de Demissão Voluntária (PDV) deve declarar esses valores corretamente na ficha de \"Rendimentos Isentos e Não Tributáveis\", pois essas verbas são isentas do Imposto de Renda, conforme previsto na legislação. Caso tenha declarado esses rendimentos como tributáveis e pago imposto indevidamente, ele pode retificar sua declaração para corrigir essa informação e, se houver saldo a restituir, solicitar a restituição por meio do programa PER/DCOMP no e-CAC da Receita Federal.",
+  "answer_relevancy": 0.44479442758124127,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.5386428989155625,
+  "bleu": 0.014806108988791266,
+  "rouge1_precision": 0.4536082474226804,
+  "rouge1_recall": 0.11859838274932614,
+  "rouge1_fmeasure": 0.18803418803418803,
+  "rouge2_precision": 0.03125,
+  "rouge2_recall": 0.008108108108108109,
+  "rouge2_fmeasure": 0.012875536480686695,
+  "rougeL_precision": 0.27835051546391754,
+  "rougeL_recall": 0.07277628032345014,
+  "rougeL_fmeasure": 0.1153846153846154
+}

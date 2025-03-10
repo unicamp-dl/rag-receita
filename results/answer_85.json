@@ -1,0 +1,19 @@
+{
+  "question_number": "85",
+  "question_text": "Como deve declarar o contribuinte menor emancipado?",
+  "reference": "['Apresenta declaração em seu nome com número de inscrição no Cadastro de Pessoas Físicas (CPF) próprio.', 'Se preencher os requisitos para permanecer como dependente, pode apresentá-la em conjunto com um dos', 'pais.']",
+  "candidate": "Um menor emancipado, apesar de adquirir capacidade civil plena, deve apresentar a Declaração de Ajuste Anual do Imposto de Renda em seu próprio nome, utilizando seu CPF, caso se enquadre em alguma das situações que obrigam a apresentação da declaração. Alternativamente, se ainda preencher os requisitos para ser considerado dependente, pode optar por ser incluído na declaração de um dos pais ou responsáveis legais. Nessa situação, todos os rendimentos e bens do menor emancipado devem ser informados na declaração do responsável. É importante avaliar qual opção é mais vantajosa em termos fiscais, considerando as possíveis deduções e a soma dos rendimentos. Para informações detalhadas e atualizadas, recomenda-se consultar as orientações oficiais da Receita Federal ou buscar a assistência de um profissional especializado em contabilidade ou direito tributário.",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.4,
+  "semantic_similarity": 0.7317682943239441,
+  "bleu": 0.026048591492696036,
+  "rouge1_precision": 0.1597222222222222,
+  "rouge1_recall": 0.6052631578947368,
+  "rouge1_fmeasure": 0.25274725274725274,
+  "rouge2_precision": 0.06293706293706294,
+  "rouge2_recall": 0.24324324324324326,
+  "rouge2_fmeasure": 0.1,
+  "rougeL_precision": 0.1111111111111111,
+  "rougeL_recall": 0.42105263157894735,
+  "rougeL_fmeasure": 0.1758241758241758
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "181",
+  "question_text": "Qual é o tratamento aplicável às importâncias recebidas a título de residência médica ou por estágio remunerado em hospitais, laboratórios, centro de pesquisa e universidades, para complementação de estudo ou treinamento e aperfeiçoamento?",
+  "reference": "['Essas importâncias são consideradas rendimentos do trabalho, ainda que não haja vínculo empregatício e', 'obrigatoriedade de desconto para o INSS, estando sujeitas à retenção na fonte e à tributação na Declaração', 'de Ajuste Anual (DAA).', 'No caso específico das bolsas de estudo recebidas pelos médicos-residentes, em função do disposto no art.', '26 da Lei nº 9.250, de 26 de dezembro de 1995 (a seguir transcrito), há previsão de isenção do imposto sobre', 'a renda, desde que atendidas às condições impostas no citado dispositivo legal:', '“Art. 26. Ficam isentas do imposto de renda as bolsas de estudo e de pesquisa caracterizadas como', 'doação, quando recebidas exclusivamente para proceder a estudos ou pesquisas e desde que os', 'resultados dessas atividades não representem vantagem para o doador, nem importem', 'contraprestação de serviços.', 'Parágrafo único.  Não caracterizam contraprestação de serviços nem vantagem para o doador, para', 'efeito da isenção referida no caput, as bolsas de estudo recebidas pelos médicos-residentes, nem as', 'bolsas recebidas pelos servidores das redes públicas de educação profissional, científica e', 'tecnológica que participem das atividades do Pronatec, nos termos do § 1º do art. 9º da Lei nº 12.513,', 'de 26 de outubro de 2011.”', '(Lei nº 9.250, de 26 de dezembro de 1995, art. 26 e parágrafo único; e Regulamento do Imposto', 'sobre a Renda - RIR/2018, art. 35, inciso VII, alínea “a” e § 15, aprovado pelo Decreto nº 9.580, de', '22 de novembro de 2018)']",
+  "candidate": "\"As importâncias recebidas por residência médica ou estágio remunerado em hospitais, laboratórios, centros de pesquisa e universidades, destinadas à complementação de estudos ou treinamento, são geralmente consideradas rendimentos tributáveis, pois configuram contraprestação por serviços prestados. Portanto, devem ser incluídas na Declaração de Ajuste Anual do Imposto de Renda da Pessoa Física. Entretanto, se tais importâncias forem caracterizadas como bolsas de estudo ou pesquisa, sem exigência de contraprestação de serviços e com o objetivo de promover o aperfeiçoamento do beneficiário, elas podem ser isentas de tributação. Um exemplo são as bolsas relacionadas a atividades do Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec). É importante avaliar as condições específicas de cada caso para determinar corretamente o tratamento tributário aplicável. Recomenda-se consultar a legislação vigente e, se necessário, buscar orientação profissional para assegurar o correto cumprimento das obrigações fiscais.\"",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.32,
+  "semantic_similarity": 0.8175139514949312,
+  "bleu": 0.041912378062329975,
+  "rouge1_precision": 0.48214285714285715,
+  "rouge1_recall": 0.30111524163568776,
+  "rouge1_fmeasure": 0.3707093821510298,
+  "rouge2_precision": 0.18562874251497005,
+  "rouge2_recall": 0.11567164179104478,
+  "rouge2_fmeasure": 0.14252873563218393,
+  "rougeL_precision": 0.23809523809523808,
+  "rougeL_recall": 0.14869888475836432,
+  "rougeL_fmeasure": 0.1830663615560641
+}

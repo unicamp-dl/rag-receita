@@ -1,0 +1,19 @@
+{
+  "question_number": "19",
+  "question_text": "O contribuinte que optar pelo desconto simplificado pode excluir os honorários advocatícios pagos referentes a rendimentos recebidos acumuladamente, por decisão judicial?",
+  "reference": "['Sim. O contribuinte, independentemente da opção pelo desconto simplificado ou não, pode informar como', 'rendimento tributável o valor recebido, excluindo os honorários pagos na proporção dos rendimentos', 'tributáveis.', 'Consulte, ainda, as perguntas 229, 248, 249, 251 e 439']",
+  "candidate": "\"Sim, o contribuinte que optar pelo desconto simplificado pode excluir os honorários advocatícios pagos referentes a rendimentos recebidos acumuladamente (RRA) por decisão judicial. Independentemente da forma de tributação escolhida—simplificada ou completa—, é permitido deduzir os honorários advocatícios pagos, desde que esses valores tenham sido necessários para o recebimento dos rendimentos e não tenham sido reembolsados. Essa dedução deve ser informada na ficha \"\"Rendimentos Recebidos Acumuladamente\"\" da declaração do Imposto de Renda. GOV.BR É importante destacar que, ao optar pelo desconto simplificado, o contribuinte substitui todas as deduções legais pelo abatimento padrão de 20% sobre os rendimentos tributáveis, limitado a um valor específico. No entanto, a exclusão dos honorários advocatícios pagos em ações judiciais relacionadas a RRA é permitida mesmo nessa modalidade, pois trata-se de uma redução do valor do rendimento tributável, e não de uma dedução adicional. GOV.BR Portanto, ao declarar rendimentos recebidos acumuladamente, o contribuinte pode excluir os honorários advocatícios pagos, independentemente de ter optado pelo desconto simplificado ou pelas deduções legais.\"",
+  "answer_relevancy": 0.9026836896935343,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.7631979966238793,
+  "bleu": 0.03175858795572756,
+  "rouge1_precision": 0.164021164021164,
+  "rouge1_recall": 0.7045454545454546,
+  "rouge1_fmeasure": 0.26609442060085836,
+  "rouge2_precision": 0.0797872340425532,
+  "rouge2_recall": 0.3488372093023256,
+  "rouge2_fmeasure": 0.12987012987012989,
+  "rougeL_precision": 0.10582010582010581,
+  "rougeL_recall": 0.45454545454545453,
+  "rougeL_fmeasure": 0.17167381974248924
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "125",
+  "question_text": "Como é considerada a pessoa física que se retire em caráter temporário do Brasil ou, se em caráter permanente, sem a apresentação da Comunicação de Saída Definitiva do País?",
+  "reference": "['A pessoa física que se retire do Brasil em caráter temporário ou, se em caráter permanente, sem a', 'apresentação da Comunicação de Saída Definitiva do País, é considerada:', 'I - como residente no Brasil, durante os primeiros 12 (doze) meses consecutivos de ausência;', 'II - como não residente, a partir do dia seguinte àquele em que complete doze meses consecutivos de', 'ausência.', '(Instrução Normativa SRF nº 208, de 27 de setembro de 2002, arts. 2º, inciso V, e 3º, inciso II e V)', 'Consulte as perguntas 114, 115, 116, 117, 119 e 121']",
+  "candidate": "A pessoa física que se retira do Brasil em caráter temporário ou, em caráter permanente, sem apresentar a Comunicação de Saída Definitiva do País, é considerada residente fiscal no Brasil até completar 12 meses consecutivos de ausência. Após esse período, é considerada não residente a partir do dia seguinte ao término desses 12 meses. citeturn0search0 É importante destacar que, enquanto for considerada residente fiscal, a pessoa física deve cumprir todas as obrigações tributárias no Brasil, incluindo a apresentação da Declaração de Imposto de Renda e o pagamento de tributos sobre rendimentos, mesmo que recebidos no exterior. citeturn0search3 Para evitar a dupla tributação e regularizar a situação fiscal, recomenda-se apresentar a Comunicação de Saída Definitiva do País à Receita Federal antes de completar 12 meses de ausência. citeturn0search0",
+  "answer_relevancy": 0.8732660843795852,
+  "answer_correctness": 0.5,
+  "semantic_similarity": 0.8574931460383179,
+  "bleu": 0.5666275164631922,
+  "rouge1_precision": 0.42,
+  "rouge1_recall": 0.6176470588235294,
+  "rouge1_fmeasure": 0.5,
+  "rouge2_precision": 0.28187919463087246,
+  "rouge2_recall": 0.4158415841584158,
+  "rouge2_fmeasure": 0.33599999999999997,
+  "rougeL_precision": 0.35333333333333333,
+  "rougeL_recall": 0.5196078431372549,
+  "rougeL_fmeasure": 0.4206349206349206
+}

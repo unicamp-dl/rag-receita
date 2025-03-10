@@ -1,0 +1,19 @@
+{
+  "question_number": "136",
+  "question_text": "Qual é o tratamento tributário dos rendimentos recebidos no Brasil e no exterior por estrangeiro que transfira residência para o Brasil?",
+  "reference": "['Existindo acordo ou tratado para evitar a dupla tributação firmado entre o Brasil e o país de onde provenham', 'esses rendimentos, a tributação é conciliada com a prevista nesses atos.', 'O tratamento tributário previsto na legislação brasileira é o seguinte:', 'I - quando caracterizada a condição de residente no Brasil, os rendimentos oriundos de fontes do exterior', 'estão sujeitos ao recolhimento mensal obrigatório (carnê-leão) com tributação na Declaração de Ajuste Anual', '(DAA) ou à apuração do ganho de capital, conforme descrito na pergunta 129;', 'II - os rendimentos recebidos do exterior antes de caracterizada a condição de residente no País não estão', 'sujeitos à tributação no Brasil;', 'III - não cabe a compensação na declaração de ajuste de imposto pago sob as formas de tributação exclusiva', 'de fonte ou tributação definitiva;', 'IV - enquanto não caracterizada a condição de residência para fins do imposto sobre a renda no Brasil, caso', 'a pessoa física aufira rendimentos no País, esses valores são tributados como rendimentos auferidos por não', 'residentes, conforme descrito na pergunta 128, até a data do implemento da condição de residente.', '(Lei nº 9.779, de 19 de janeiro de 1999, art. 7º; Lei nº 9.718, de 23 de novembro de 1998, art. 12;', 'Regulamento do Imposto sobre a Renda – RIR/2018, arts. 17, 741 e 1.042, aprovado pelo Decreto', 'nº 9.580, de 22 de novembro de 2018; e Instrução Normativa nº 208, de 27 de setembro de 2002,', 'art. 16, § 1º)', 'Consulte as perguntas 114, 115, 128, 129 e 131']",
+  "candidate": "Quando a declaração retificadora for relativa a exercícios anteriores, o contribuinte deve utilizar o Programa Gerador da Declaração (PGD) correspondente ao ano-calendário a ser retificado ou acessar o portal e-CAC no site da Receita Federal, caso o ano seja compatível com essa opção. Durante a retificação, é necessário informar o número do recibo da declaração original e manter o mesmo modelo de tributação (completo ou simplificado), pois essa opção não pode ser alterada após o prazo de entrega. Se a declaração original estiver sob fiscalização, a retificação não será permitida.",
+  "answer_relevancy": 0.38681090259760326,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.5047647232014136,
+  "bleu": 0.01578290770550875,
+  "rouge1_precision": 0.44036697247706424,
+  "rouge1_recall": 0.17266187050359713,
+  "rouge1_fmeasure": 0.248062015503876,
+  "rouge2_precision": 0.06481481481481481,
+  "rouge2_recall": 0.02527075812274368,
+  "rouge2_fmeasure": 0.03636363636363636,
+  "rougeL_precision": 0.3119266055045872,
+  "rougeL_recall": 0.1223021582733813,
+  "rougeL_fmeasure": 0.17571059431524547
+}

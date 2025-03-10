@@ -1,0 +1,19 @@
+{
+  "question_number": "193",
+  "question_text": "Qual é o tratamento tributário dos rendimentos recebidos por representante comercial autônomo?",
+  "reference": "['Os rendimentos recebidos por representante comercial autônomo que exerce exclusivamente a mediação', 'para a realização de negócios mercantis, nos termos do art. 1º da Lei nº 4.886, de 9 de dezembro de 1965,', 'quando praticada por conta de terceiros, são tributados na pessoa física. É irrelevante, para os efeitos do', 'imposto sobre a renda, a existência de registro, como empresário ou empresa individual, na Junta Comercial', 'e no Cadastro Nacional da Pessoa Jurídica (CNPJ).', 'Alerte-se que, no caso de o representante comercial executar os negócios mercantis por conta própria, ele', 'adquire a condição de comerciante, independentemente de qualquer requisito formal, ocorrendo, neste caso,', 'para efeitos tributários, equiparação da empresa individual a pessoa jurídica, por força do disposto no art. 162', 'do Regulamento do Imposto sobre a Renda – RIR/2018, aprovado pelo Decreto nº 9.580, de 22 de novembro', 'de 2018, sendo seus rendimentos tributados nessa condição.', '(Ato Declaratório Normativo CST nº 25, de 13 de dezembro de 1989)']",
+  "candidate": "Os rendimentos recebidos por representante comercial autônomo são considerados rendimentos tributáveis. Devem ser informados na Declaração de Ajuste Anual do Imposto de Renda da Pessoa Física e estão sujeitos à tributação conforme a tabela progressiva vigente.​",
+  "answer_relevancy": 0.8767879269042331,
+  "answer_correctness": 0.14,
+  "semantic_similarity": 0.7616952844062985,
+  "bleu": 0.13439793493070715,
+  "rouge1_precision": 0.6428571428571429,
+  "rouge1_recall": 0.15168539325842698,
+  "rouge1_fmeasure": 0.24545454545454545,
+  "rouge2_precision": 0.3170731707317073,
+  "rouge2_recall": 0.07344632768361582,
+  "rouge2_fmeasure": 0.11926605504587157,
+  "rougeL_precision": 0.47619047619047616,
+  "rougeL_recall": 0.11235955056179775,
+  "rougeL_fmeasure": 0.18181818181818182
+}

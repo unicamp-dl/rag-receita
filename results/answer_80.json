@@ -1,0 +1,19 @@
+{
+  "question_number": "80",
+  "question_text": "Como deve declarar o contribuinte divorciado que tenha se casado novamente?",
+  "reference": "['Apresenta declaração na condição de casado, em separado ou, opcionalmente, em conjunto com o cônjuge.']",
+  "candidate": "\"Se você se divorciou e casou novamente no mesmo ano-calendário, deve apresentar sua Declaração de Ajuste Anual na condição de casado. Nessa situação, é possível optar por declarar em separado ou em conjunto com o novo cônjuge. A declaração em conjunto abrange todos os rendimentos de ambos os cônjuges, incluindo aqueles provenientes de bens com cláusulas de incomunicabilidade ou inalienabilidade. Essa opção substitui a obrigatoriedade de apresentação da declaração individual pelo outro cônjuge. citeturn0search2 Caso opte por declarar em separado, cada cônjuge deve incluir em sua declaração os rendimentos próprios e, se houver, a parcela correspondente dos rendimentos produzidos por bens comuns ou em condomínio. É importante lembrar que dependentes comuns não podem ser incluídos simultaneamente nas declarações de ambos os cônjuges; apenas um deles pode declarar o dependente. citeturn0search9 A escolha entre a declaração conjunta ou separada deve considerar as particularidades financeiras do casal, pois cada opção pode resultar em diferentes implicações fiscais. Recomenda-se avaliar qual forma é mais vantajosa em termos de deduções e tributação. \"",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.15,
+  "semantic_similarity": 0.6959317608957916,
+  "bleu": 0.1090009697802911,
+  "rouge1_precision": 0.08762886597938144,
+  "rouge1_recall": 0.9444444444444444,
+  "rouge1_fmeasure": 0.16037735849056606,
+  "rouge2_precision": 0.05699481865284974,
+  "rouge2_recall": 0.6470588235294118,
+  "rouge2_fmeasure": 0.10476190476190476,
+  "rougeL_precision": 0.08247422680412371,
+  "rougeL_recall": 0.8888888888888888,
+  "rougeL_fmeasure": 0.15094339622641506
+}

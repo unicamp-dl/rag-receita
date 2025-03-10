@@ -1,0 +1,19 @@
+{
+  "question_number": "107",
+  "question_text": "Qual é o prazo para a apresentação da Declaração Final de Espólio?",
+  "reference": "['A Declaração Final de Espólio deve ser apresentada até o dia 31 de maio de 2024 nas hipóteses em que:', 'I - a decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, ocorreu até o ano-', 'calendário de 2023 e que tenha transitado em julgado até o último dia do mês de fevereiro do ano-calendário', 'de 2024;', 'II - a lavratura da escritura pública de inventário e partilha ocorreu no ano-calendário de 2023;', 'III - o trânsito em julgado da decisão judicial de partilha, sobrepartilha ou adjudicação dos bens inventariados', 'ocorreu entre 1º de março de 2023 e o último dia do mês de fevereiro do ano-calendário de 2024.', 'O prazo para o pagamento do imposto apurado é o mesmo do prazo para a apresentação da Declaração Final', 'de Espólio, não podendo ser parcelado.', 'Atenção:', 'Se o trânsito em julgado da decisão judicial de partilha, sobrepartilha ou adjudicação dos bens', 'inventariados ocorrer entre 1º de março de 2024 e o último dia do mês de fevereiro do ano-', 'calendário de 2025, a Declaração Final de Espólio deverá ser apresentada até o último dia útil do', 'mês de abril de 2025.', '(Lei nº 9.532, de 10 de dezembro de 1997 art. 23; Lei nº 13.105, de 16 de março de 2015 – Código', 'de Processo Civil, arts. 610 e 611; e Instrução Normativa SRF nº 81, de 11 de outubro de 2001, art.', '6º)']",
+  "candidate": "\"A **Declaração Final de Espólio** deve ser apresentada nos seguintes prazos, conforme a situação específica: 1. **Decisão Judicial Transitada em Julgado até o Último Dia de Fevereiro:** - **Prazo:** Até o último dia útil de abril do mesmo ano. - **Exemplo:** Se a decisão judicial da partilha transitou em julgado até 28 de fevereiro de 2025, a declaração deve ser entregue até 30 de abril de 2025. 2. **Decisão Judicial Transitada em Julgado entre 1º de Março e 31 de Dezembro:** - **Prazo:** Até o último dia útil de abril do ano seguinte. - **Exemplo:** Se a decisão judicial da partilha transitou em julgado em 15 de março de 2025, a declaração deve ser entregue até 30 de abril de 2026. 3. **Lavratura da Escritura Pública de Inventário e Partilha:** - **Prazo:** Até o último dia útil de abril do ano seguinte ao da lavratura. - **Exemplo:** Se a escritura pública foi lavrada em 2025, a declaração deve ser entregue até 30 de abril de 2026. É importante observar que, em casos excepcionais, como situações de pandemia, a Receita Federal pode prorrogar esses prazos. Portanto, é recomendável verificar as instruções vigentes no ano específico em que a declaração será apresentada. Para mais informações, consulte a página oficial da Receita Federal sobre Declaração de Espólio: citeturn0search0 \"",
+  "answer_relevancy": 0.9639734109243819,
+  "answer_correctness": 0.58,
+  "semantic_similarity": 0.8985733499991151,
+  "bleu": 0.1629944673128894,
+  "rouge1_precision": 0.5407725321888412,
+  "rouge1_recall": 0.4701492537313433,
+  "rouge1_fmeasure": 0.5029940119760479,
+  "rouge2_precision": 0.30603448275862066,
+  "rouge2_recall": 0.26591760299625467,
+  "rouge2_fmeasure": 0.28456913827655306,
+  "rougeL_precision": 0.3218884120171674,
+  "rougeL_recall": 0.2798507462686567,
+  "rougeL_fmeasure": 0.29940119760479045
+}

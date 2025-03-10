@@ -1,0 +1,19 @@
+{
+  "question_number": "140",
+  "question_text": "O imposto pago no exterior pode ser compensado apenas com o imposto apurado na Declaração de Ajuste Anual?",
+  "reference": "['Não. O imposto sobre a renda pago no exterior pode ser compensado tanto na apuração mensal do imposto', 'quanto na Declaração de Ajuste Anual (DAA), desde que haja acordo ou tratado firmado entre o país de origem', 'dos rendimentos e o Brasil ou tratamento de reciprocidade no país de origem e o imposto não seja', 'compensado ou restituído no exterior.', '(Regulamento do Imposto sobre a Renda - RIR/2018, arts. 115 e 1.042, aprovado pelo Decreto nº', '9.580, de 22 de novembro de 2018; Instrução Normativa SRF nº 208, de 27 de setembro de 2002,', 'art. 16, §§ 1º, 4º, 6º e 8º; e Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 65, §', '2º)', 'Consulte a pergunta 139']",
+  "candidate": "\"Sim, o contribuinte com 65 anos ou mais que não utilizou, em sua declaração original, a parcela de isenção mensal relativa aos proventos de aposentadoria ou pensão pode retificar a declaração para incluir esse benefício. A legislação brasileira prevê que aposentados e pensionistas a partir dessa idade têm direito a uma parcela isenta de Imposto de Renda sobre seus proventos, limitada a R$ 1.903,98 por mês, totalizando R$ 24.751,74 anuais, incluindo o 13º salário. GOV.BR Para corrigir a omissão, é necessário enviar uma Declaração Retificadora, mantendo o mesmo modelo (simplificado ou completo) da declaração original. A retificação pode ser realizada a qualquer momento dentro do prazo de cinco anos, contados a partir do primeiro dia do exercício seguinte ao qual se refere a declaração. No entanto, recomenda-se efetuar a retificação o mais breve possível para evitar possíveis complicações com a Receita Federal. GOV.BR Ao preencher a declaração retificadora, o contribuinte deve informar a parcela isenta na ficha \"\"Rendimentos Isentos e Não Tributáveis\"\", utilizando o código específico para \"\"Parcela isenta de proventos de aposentadoria, reserva remunerada, reforma e pensão de declarante com 65 anos ou mais\"\". O valor que exceder o limite de isenção deve ser declarado na ficha \"\"Rendimentos Tributáveis Recebidos de Pessoa Jurídica\"\". GOV.BR\"",
+  "answer_relevancy": 0.4063831378755471,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.6518430032548808,
+  "bleu": 0.018562638803761536,
+  "rouge1_precision": 0.2024793388429752,
+  "rouge1_recall": 0.3712121212121212,
+  "rouge1_fmeasure": 0.2620320855614973,
+  "rouge2_precision": 0.029045643153526972,
+  "rouge2_recall": 0.05343511450381679,
+  "rouge2_fmeasure": 0.03763440860215054,
+  "rougeL_precision": 0.11570247933884298,
+  "rougeL_recall": 0.21212121212121213,
+  "rougeL_fmeasure": 0.14973262032085563
+}

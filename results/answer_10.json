@@ -1,0 +1,19 @@
+{
+  "question_number": "10",
+  "question_text": "Dependente que possui depósito em conta de poupança em valor superior a R$ 800.000,00 está obrigado a declarar?",
+  "reference": "['Está obrigado a apresentar a Declaração de Ajuste Anual (DAA), o contribuinte que, em 31 de dezembro de', '2023, teve a posse ou a propriedade de bens e direitos, inclusive terra nua, de valor total superior a', 'R$ 800.000,00. Portanto, o titular de depósito em conta poupança com saldo superior a R$ 800.000,00 está', 'obrigado a apresentar a declaração.', 'Fica dispensada de apresentar a DAA, a pessoa física que, embora se enquadre em qualquer das hipóteses', 'de obrigatoriedade, conste como dependente em declaração apresentada por outra pessoa física, na qual', 'tenham sido informados seus rendimentos, bens e direitos, caso os possua.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 2º, inciso V)']",
+  "candidate": "Sim, um dependente que possui um saldo em conta poupança superior a R$ 800.000,00 está obrigado a apresentar a Declaração de Ajuste Anual do Imposto de Renda. De acordo com as normas da Receita Federal, a obrigatoriedade de declarar aplica-se a qualquer pessoa física que, em 31 de dezembro do ano-calendário, possua a posse ou a propriedade de bens ou direitos, inclusive terra nua, com valor total superior a R$ 800.000,00. citeturn0search1 No caso de dependentes, se estes possuírem bens ou direitos que os enquadrem nas situações de obrigatoriedade, eles devem ser incluídos na declaração do responsável, informando todos os seus rendimentos, bens e direitos. Alternativamente, o dependente pode apresentar a própria declaração, caso em que não poderá ser considerado dependente na declaração de outra pessoa. citeturn0search4 Portanto, se o dependente possui um saldo em poupança que, somado a outros bens ou direitos, ultrapassa R$ 800.000,00, é necessário declarar esses valores, seja na declaração do responsável ou em uma declaração própria do dependente.",
+  "answer_relevancy": 0.844709779631389,
+  "answer_correctness": 0.46,
+  "semantic_similarity": 0.8435523739175552,
+  "bleu": 0.20742102632660836,
+  "rouge1_precision": 0.46596858638743455,
+  "rouge1_recall": 0.6793893129770993,
+  "rouge1_fmeasure": 0.5527950310559007,
+  "rouge2_precision": 0.26842105263157895,
+  "rouge2_recall": 0.3923076923076923,
+  "rouge2_fmeasure": 0.31875000000000003,
+  "rougeL_precision": 0.2617801047120419,
+  "rougeL_recall": 0.3816793893129771,
+  "rougeL_fmeasure": 0.31055900621118016
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "179",
+  "question_text": "São tributáveis as importâncias recebidas por parlamentares a título de remuneração, inclusive por motivo de convocação extraordinária da casa legislativa?",
+  "reference": "['As importâncias recebidas por parlamentares a título de remuneração são tributáveis na fonte e na Declaração', 'de Ajuste Anual (DAA).', 'Entretanto, em decorrência do disposto no art. 19 da Lei nº 10.522, de 19 de julho de 2002, e do Ato', 'Declaratório (AD) PGFN nº 3, de 18 de setembro de 2008, não são tributados os pagamentos efetuados sob', 'as rubricas de parcela indenizatória devida aos parlamentares em face de convocação para sessão legislativa', 'extraordinária, observados os termos do AD PGFN.', '(Lei nº 7.713, de 22 de dezembro de 1988, arts. 2º e 3º, § 1º; Instrução Normativa RFB nº 1.500, de', '29 de outubro de 2014, art. 62, caput, inciso XIII; AD PGFN nº 3 de 18 de setembro de 2008; e', 'Parecer PGFN/PGA/Nº 1.888/2008)']",
+  "candidate": "\"Sim, as remunerações recebidas por parlamentares, incluindo aquelas por motivo de convocação extraordinária das casas legislativas, são tributáveis e sujeitas ao Imposto de Renda. **Tributação das Remunerações Parlamentares:** - **Imposto de Renda:** Os subsídios mensais dos parlamentares estão sujeitos à retenção do Imposto de Renda na fonte, seguindo as mesmas regras aplicáveis aos demais contribuintes. Isso significa que deputados, senadores, vereadores e outros agentes políticos têm o IR descontado diretamente de seus vencimentos. A Receita Federal confirma que essas remunerações são tributáveis, e os parlamentares devem apresentar a Declaração de Ajuste Anual do Imposto de Renda, incluindo esses rendimentos. citeturn0search6 **Convocação Extraordinária:** - **Vedação de Pagamento Adicional:** Desde a Emenda Constitucional nº 50/2006, é vedado o pagamento de qualquer parcela indenizatória ou adicional aos parlamentares em razão de convocações extraordinárias. Isso significa que, mesmo quando convocados fora do período legislativo regular, os parlamentares não recebem remuneração extra por essas sessões. citeturn0search11 Portanto, as remunerações regulares dos parlamentares são tributáveis pelo Imposto de Renda, e não há pagamentos adicionais por convocações extraordinárias desde a alteração constitucional mencionada. \"",
+  "answer_relevancy": 0.8125865804570546,
+  "answer_correctness": 0.38,
+  "semantic_similarity": 0.8026406043703078,
+  "bleu": 0.07246894744057186,
+  "rouge1_precision": 0.2857142857142857,
+  "rouge1_recall": 0.40816326530612246,
+  "rouge1_fmeasure": 0.3361344537815126,
+  "rouge2_precision": 0.09569377990430622,
+  "rouge2_recall": 0.136986301369863,
+  "rouge2_fmeasure": 0.11267605633802816,
+  "rougeL_precision": 0.19523809523809524,
+  "rougeL_recall": 0.2789115646258503,
+  "rougeL_fmeasure": 0.2296918767507003
+}

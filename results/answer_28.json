@@ -1,0 +1,19 @@
+{
+  "question_number": "28",
+  "question_text": "Como acessar a Declaração de Ajuste Anual (DAA) Pré-Preenchida?",
+  "reference": "['O contribuinte pode utilizar a Declaração de Ajuste Anual (DAA) Pré-Preenchida, desde que inicie uma nova', 'declaração:', '1) por meio do computador, no IRPF 2024, a partir da tela de entrada do programa, aba “Nova”, selecionando', 'a opção “Iniciar Declaração a partir da Pré-Preenchida” (necessário conta com Identidade Digital gov.br nos', 'níveis Ouro ou Prata); ou', '2) mediante acesso ao “Meu Imposto de Renda” de que trata o item II da Pergunta 026, seguindo os seguintes', 'passos, a partir da tela inicial do e-CAC:', '- entrar com a conta gov.br (utilizando Identidade Digital Ouro ou Prata);', '- clicar no Menu “Declarações e Demonstrativos”;', '- no item “DIRPF – Declaração do Imposto sobre a Renda da Pessoa Física, selecionar “Meu Imposto de', 'Renda”;', '- secionar “2023” em “Fazer Declaração”;', '- siga as instruções para poder iniciar a declaração com a pré-preenchida.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 6º; e Instrução Normativa RFB nº', '2.066, de 24 de fevereiro de 2022, arts. 6º a 10)']",
+  "candidate": "A Declaração de Ajuste Anual (DAA) Pré-Preenchida pode ser acessada por meio do Programa Gerador da Declaração (PGD) IRPF 2024, do portal e-CAC no site da Receita Federal ou do aplicativo \"Meu Imposto de Renda\" para dispositivos móveis. Para utilizá-la, o contribuinte deve possuir uma conta gov.br de nível prata ou ouro, garantindo maior segurança no acesso aos dados. Essa modalidade importa automaticamente informações já disponíveis na Receita Federal, como rendimentos, deduções e bens, reduzindo erros e facilitando o preenchimento da declaração.",
+  "answer_relevancy": 0.8965697828099536,
+  "answer_correctness": 0.36,
+  "semantic_similarity": 0.858629866802125,
+  "bleu": 0.24978368867909445,
+  "rouge1_precision": 0.5684210526315789,
+  "rouge1_recall": 0.2903225806451613,
+  "rouge1_fmeasure": 0.3843416370106762,
+  "rouge2_precision": 0.24468085106382978,
+  "rouge2_recall": 0.12432432432432433,
+  "rouge2_fmeasure": 0.16487455197132617,
+  "rougeL_precision": 0.3473684210526316,
+  "rougeL_recall": 0.1774193548387097,
+  "rougeL_fmeasure": 0.23487544483985767
+}

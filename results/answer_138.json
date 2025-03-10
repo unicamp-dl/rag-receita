@@ -1,0 +1,19 @@
+{
+  "question_number": "138",
+  "question_text": "Como devem ser convertidos em reais os pagamentos dedutíveis realizados em moeda estrangeira?",
+  "reference": "['Os pagamentos efetuados em moeda estrangeira devem ser convertidos em dólares dos Estados Unidos da', 'América com base na sua cotação para o dia em que forem realizados, e de dólares para reais com base no', 'valor fixado para venda pelo Banco Central do Brasil para o último dia útil da primeira quinzena do mês anterior', 'ao do pagamento das despesas no exterior.', '(Instrução Normativa SRF nº 208, de 27 de setembro de 2002, art.16, § 4º)']",
+  "candidate": "Após a entrega da declaração retificadora, o contribuinte deve verificar se houve alteração no valor do imposto devido. Caso o imposto a pagar tenha aumentado, ele deve gerar um novo DARF (Documento de Arrecadação de Receitas Federais) com a diferença e efetuar o pagamento o quanto antes para evitar juros e multa. Se o imposto a pagar tiver diminuído e já houver pagamentos realizados, o contribuinte pode solicitar a restituição ou compensação do valor pago a mais por meio do programa PER/DCOMP no e-CAC. Se houver parcelamento em andamento, as parcelas devem continuar sendo pagas normalmente, ajustando os valores conforme necessário.",
+  "answer_relevancy": 0.4180743959087736,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.47697659508908186,
+  "bleu": 0.0005544607747282186,
+  "rouge1_precision": 0.20535714285714285,
+  "rouge1_recall": 0.27710843373493976,
+  "rouge1_fmeasure": 0.23589743589743592,
+  "rouge2_precision": 0.009009009009009009,
+  "rouge2_recall": 0.012195121951219513,
+  "rouge2_fmeasure": 0.010362694300518133,
+  "rougeL_precision": 0.09821428571428571,
+  "rougeL_recall": 0.13253012048192772,
+  "rougeL_fmeasure": 0.11282051282051282
+}

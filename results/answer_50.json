@@ -1,0 +1,19 @@
+{
+  "question_number": "50",
+  "question_text": "Como proceder quanto ao pagamento do imposto após a declaração retificadora?",
+  "reference": "['1 - Quando a retificação resultar em redução do imposto declarado, observar o seguinte procedimento:', 'a) calcular o novo valor de cada quota, mantendo-se o número de quotas em que o imposto foi parcelado na', 'declaração retificada, desde que respeitado o valor mínimo;', 'b) os valores pagos a maior relativos às quotas vencidas, bem assim os acréscimos legais referentes a esses', 'valores, podem ser compensados nas quotas vincendas, ou ser objeto de pedido de restituição;', 'c) sobre o montante a ser compensado ou restituído incidem juros equivalentes à taxa Selic, tendo como termo', 'inicial o mês subsequente ao do pagamento a maior e como termo final o mês anterior ao da restituição ou da', 'compensação, adicionado de 1% no mês da restituição ou compensação.', '2 - Quando a retificação resultar em aumento do imposto declarado, observar o seguinte', 'procedimento:', 'a) calcular o novo valor de cada quota, mantendo-se o número de quotas em que o imposto foi parcelado na', 'declaração retificada;', 'b) sobre a diferença correspondente a cada quota vencida incidem acréscimos legais, calculados de acordo', 'com a legislação vigente.', '(Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, arts. 84 e 85)']",
+  "candidate": "Após a entrega da declaração retificadora, o contribuinte deve verificar se houve alteração no valor do imposto devido. Caso o imposto a pagar tenha aumentado, ele deve gerar um novo DARF (Documento de Arrecadação de Receitas Federais) com a diferença e efetuar o pagamento o quanto antes para evitar juros e multa. Se o imposto a pagar tiver diminuído e já houver pagamentos realizados, o contribuinte pode solicitar a restituição ou compensação do valor pago a mais por meio do programa PER/DCOMP no e-CAC. Se houver parcelamento em andamento, as parcelas devem continuar sendo pagas normalmente, ajustando os valores conforme necessário.",
+  "answer_relevancy": 0.8054599120405733,
+  "answer_correctness": 0.12,
+  "semantic_similarity": 0.7245029494673341,
+  "bleu": 0.057259987315337754,
+  "rouge1_precision": 0.4375,
+  "rouge1_recall": 0.22580645161290322,
+  "rouge1_fmeasure": 0.2978723404255319,
+  "rouge2_precision": 0.14414414414414414,
+  "rouge2_recall": 0.07407407407407407,
+  "rouge2_fmeasure": 0.09785932721712537,
+  "rougeL_precision": 0.25892857142857145,
+  "rougeL_recall": 0.1336405529953917,
+  "rougeL_fmeasure": 0.1762917933130699
+}

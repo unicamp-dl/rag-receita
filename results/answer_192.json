@@ -1,0 +1,19 @@
+{
+  "question_number": "192",
+  "question_text": "Como devem ser tributados os rendimentos percebidos por transportador autônomo residente na Republica do Paraguai?",
+  "reference": "['Os valores pagos, creditados, entregues, empregados ou remetidos por contratante pessoa jurídica', 'domiciliada no País, autorizada a operar transporte rodoviário internacional de carga, a beneficiário', 'transportador autônomo pessoa física residente na República do Paraguai, considerado como sociedade', 'unipessoal nesse País, quando decorrentes da prestação de serviços de transporte rodoviário internacional', 'de carga, estão sujeitos à incidência do imposto sobre a renda na fonte, calculado mediante a utilização da', 'tabela progressiva mensal.', 'O imposto incidirá sobre 10% (dez por cento) do rendimento bruto decorrente do transporte rodoviário', 'internacional de carga e deve ser retido na fonte por ocasião de cada pagamento, crédito, entrega, emprego', 'ou remessa, aplicando-se, se houver mais de um desses eventos efetuados pela mesma fonte pagadora no', 'mês de apuração, a alíquota correspondente à base de cálculo apurada após a soma dos rendimentos,', 'compensando-se o imposto retido anteriormente.', 'O imposto sobre a renda apurado deve ser recolhido até o último dia útil do primeiro decêndio do mês', 'subsequente ao da ocorrência dos fatos geradores, mediante a utilização do código de receita 0610.', '(Lei nº 11.773, de 17 de setembro de 2008, arts. 1º e 2º; Regulamento do Imposto sobre a Renda -', 'RIR/2018, art. 747, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018; e Instrução', 'Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 18)']",
+  "candidate": "Os rendimentos percebidos por transportador autônomo residente na República do Paraguai são tributáveis no Brasil, caso o serviço seja prestado no território nacional. O transportador deve informar esses rendimentos na Declaração de Ajuste Anual do Imposto de Renda da Pessoa Física e está sujeito à tributação conforme a tabela progressiva vigente.​",
+  "answer_relevancy": 0.9226906974346551,
+  "answer_correctness": 0.29,
+  "semantic_similarity": 0.7807722528731472,
+  "bleu": 0.17937244103927824,
+  "rouge1_precision": 0.6949152542372882,
+  "rouge1_recall": 0.16205533596837945,
+  "rouge1_fmeasure": 0.26282051282051283,
+  "rouge2_precision": 0.20689655172413793,
+  "rouge2_recall": 0.047619047619047616,
+  "rouge2_fmeasure": 0.07741935483870967,
+  "rougeL_precision": 0.423728813559322,
+  "rougeL_recall": 0.09881422924901186,
+  "rougeL_fmeasure": 0.16025641025641024
+}

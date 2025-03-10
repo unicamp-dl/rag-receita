@@ -1,0 +1,19 @@
+{
+  "question_number": "5",
+  "question_text": "Contribuinte que constou como responsável perante a Secretaria Especial da Receita Federal do Brasil (RFB) por Cadastro Nacional da Pessoa Jurídica (CNPJ) de Associações (bairros, creches, clubes etc.) no ano-calendário de 2023, deve apresentar a Declaração de Ajuste Anual do exercício de 2024?",
+  "reference": "['Esse contribuinte está obrigado a declarar caso se enquadre nas hipóteses previstas na pergunta 001. Não', 'é o fato de ter constado como responsável perante a Secretaria Especial da Receita Federal do Brasil (RFB)', 'por Cadastro Nacional da Pessoa Jurídica (CNPJ) de Associações (bairros, creches, clubes etc.), por si só,', 'que obriga a apresentação de Declaração de Ajuste Anual.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 2º)', 'Consulte a pergunta 001']",
+  "candidate": "Não, constar como responsável perante a Receita Federal por um Cadastro Nacional da Pessoa Jurídica (CNPJ) de associações, como bairros, creches ou clubes, no ano-calendário de 2023, não obriga o contribuinte a apresentar a Declaração de Ajuste Anual no exercício de 2024. A obrigatoriedade de declarar está vinculada ao enquadramento em outras condições específicas estabelecidas pela Receita Federal. Para mais detalhes sobre essas condições, consulte a pergunta 001 do manual Perguntas e Respostas IRPF 2024\" da Receita Federal. citeturn0search0\"",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.86,
+  "semantic_similarity": 0.8157482067330241,
+  "bleu": 0.17903383439258092,
+  "rouge1_precision": 0.5217391304347826,
+  "rouge1_recall": 0.5647058823529412,
+  "rouge1_fmeasure": 0.5423728813559322,
+  "rouge2_precision": 0.27472527472527475,
+  "rouge2_recall": 0.2976190476190476,
+  "rouge2_fmeasure": 0.28571428571428575,
+  "rougeL_precision": 0.391304347826087,
+  "rougeL_recall": 0.4235294117647059,
+  "rougeL_fmeasure": 0.4067796610169492
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "30",
+  "question_text": "Quem pode utilizar a Declaração de Ajuste Anual Pré-Preenchida?",
+  "reference": "['A Declaração de Ajuste Anual Pré-Preenchida poderá ser obtida por meio de autenticação no portal gov.br,', 'com Identidade Digital Ouro ou Prata:', 'I – do contribuinte;', 'II – do representante do contribuinte com procuração RFB ou procuração eletrônica, obedecendo ao disposto', 'nos arts. 6º a 10 da Instrução Normativa RFB nº 2.066, de 24 de fevereiro de 2022; ou', 'III – de pessoa física autorizada pelo contribuinte (consulte a Pergunta 027)', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 6º)']",
+  "candidate": "A Declaração de Ajuste Anual Pré-Preenchida pode ser utilizada por contribuintes que possuam uma conta gov.br de nível prata ou ouro. Além disso, pode ser acessada por representantes legais, procuradores cadastrados na Receita Federal ou contadores autorizados pelo contribuinte. Essa modalidade está disponível para preenchimento tanto no Programa Gerador da Declaração (PGD) IRPF 2024 quanto no portal e-CAC e no aplicativo \"Meu Imposto de Renda\".",
+  "answer_relevancy": 1.0000000000000002,
+  "answer_correctness": 0.36,
+  "semantic_similarity": 0.809015049364219,
+  "bleu": 0.22816849039973935,
+  "rouge1_precision": 0.3835616438356164,
+  "rouge1_recall": 0.2978723404255319,
+  "rouge1_fmeasure": 0.33532934131736525,
+  "rouge2_precision": 0.1388888888888889,
+  "rouge2_recall": 0.10752688172043011,
+  "rouge2_fmeasure": 0.12121212121212122,
+  "rougeL_precision": 0.2602739726027397,
+  "rougeL_recall": 0.20212765957446807,
+  "rougeL_fmeasure": 0.2275449101796407
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "27",
+  "question_text": "Quem pode apresentar a Declaração de Ajuste Anual em nome do contribuinte?",
+  "reference": "['Podem elaborar, transmitir a Declaração de Ajuste Anual (DAA), inclusive acessar os dados da DAA Pré-', 'preenchida:', '1. o representante do contribuinte com procuração RFB ou procuração eletrônica, nos termos da Instrução', 'Normativa RFB nº 2.066, de 24 de fevereiro de 2022; ou', '2. a pessoa física autorizada pelo contribuinte desde que as pessoas físicas autorizadora e autorizada', 'possuam conta com Identidade Digital gov.br nos níveis Ouro ou Prata.', 'Atenção:', 'A autorização:', 'I – pode ser concedida somente a uma única pessoa física;', 'II – é válida por até 6 (seis) meses, e poderá ser renovada;', 'III – pode ser revogada a qualquer tempo;', 'IV – está disponível para as declarações elaboradas a partir do “Meu Imposto de Renda” de que', 'trata o item II da Pergunta 026; e', 'V – permite acesso a todos os serviços relativos ao Imposto sobre a Renda da Pessoa Física (IRPF).', 'A pessoa física autorizada:', 'a) pode excluir a autorização;', 'b) não pode acumular mais do que 5 (cinco) autorizações válidas; e', 'c) não pode substabelecer a autorização recebida.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 14)']",
+  "candidate": "A Declaração de Ajuste Anual pode ser apresentada pelo próprio contribuinte ou por terceiros, como procuradores legalmente constituídos, contadores ou representantes legais nos casos previstos em lei. Se a declaração for enviada por outra pessoa, é importante que o contribuinte autorize formalmente essa representação, especialmente quando realizada por meio do e-CAC, onde pode ser necessário um certificado digital ou uma procuração eletrônica cadastrada na Receita Federal.",
+  "answer_relevancy": 0.9341365463653096,
+  "answer_correctness": 0.27,
+  "semantic_similarity": 0.7328420551651059,
+  "bleu": 0.11622111816655836,
+  "rouge1_precision": 0.47297297297297297,
+  "rouge1_recall": 0.16666666666666666,
+  "rouge1_fmeasure": 0.24647887323943662,
+  "rouge2_precision": 0.136986301369863,
+  "rouge2_recall": 0.04784688995215311,
+  "rouge2_fmeasure": 0.07092198581560283,
+  "rougeL_precision": 0.28378378378378377,
+  "rougeL_recall": 0.1,
+  "rougeL_fmeasure": 0.147887323943662
+}

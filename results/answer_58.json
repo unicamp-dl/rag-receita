@@ -1,0 +1,19 @@
+{
+  "question_number": "58",
+  "question_text": "A pessoa física não residente no Brasil está obrigada à inscrição no Cadastro de Pessoas Físicas (CPF)?",
+  "reference": "['Está obrigada a inscrever-se no CPF a pessoa física não residente que possua no Brasil bens e direitos', 'sujeitos a registro público, inclusive imóveis, veículos, embarcações, aeronaves, participações societárias,', 'contas-correntes bancárias, aplicações no mercado financeiro e aplicações no mercado de capitais.', '(Regulamento do Imposto sobre a Renda - RIR/2018, art. 32, aprovado pelo Decreto nº 9.580, de', '22 de novembro de 2018; Instrução Normativa SRF nº 208, de 27 de setembro de 2002, art. 5º; e', 'Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015, art. 3º, inciso II, alínea “d”)']",
+  "candidate": "Sim, a pessoa física não residente no Brasil está obrigada à inscrição no Cadastro de Pessoas Físicas (CPF) caso possua bens ou direitos no país, como imóveis, veículos, contas bancárias, investimentos ou participação em empresas brasileiras. Além disso, a inscrição no CPF pode ser exigida para diversas finalidades, como operações financeiras, heranças e outras obrigações fiscais. O registro pode ser feito em representações diplomáticas brasileiras no exterior, no site da Receita Federal ou por meio de procurador no Brasil.",
+  "answer_relevancy": 0.9368356963976378,
+  "answer_correctness": 0.31,
+  "semantic_similarity": 0.773618936007515,
+  "bleu": 0.18186362944936613,
+  "rouge1_precision": 0.39361702127659576,
+  "rouge1_recall": 0.3333333333333333,
+  "rouge1_fmeasure": 0.36097560975609755,
+  "rouge2_precision": 0.13978494623655913,
+  "rouge2_recall": 0.11818181818181818,
+  "rouge2_fmeasure": 0.12807881773399016,
+  "rougeL_precision": 0.24468085106382978,
+  "rougeL_recall": 0.2072072072072072,
+  "rougeL_fmeasure": 0.22439024390243903
+}

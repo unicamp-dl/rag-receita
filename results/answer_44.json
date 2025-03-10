@@ -1,0 +1,19 @@
+{
+  "question_number": "44",
+  "question_text": "Há limite de prazo para a retificação da declaração?",
+  "reference": "['Sim. Extingue-se em cinco anos o direito de o contribuinte retificar a declaração de rendimentos, inclusive', 'quanto ao valor dos bens e direitos declarados.', 'Atenção:', 'Sobre o termo inicial da contagem do prazo de 5 anos:', 'a) se não tiver havido algum imposto pago antecipadamente (Carnê-leão, Imposto complementar,', 'IRRF): 5 (cinco) anos a partir de 1º de janeiro do ano seguinte ao ano inicial de apresentação da', 'declaração;', 'b) se tiver havido algum imposto pago antecipadamente: 5 (cinco) anos a partir do ano inicial de', 'apresentação da declaração.', '(Parecer Normativo Cosit nº 6, de 4 de agosto de 2014)', 'Consulte a pergunta 069']",
+  "candidate": "\"Sim, há um prazo para retificar a Declaração de Ajuste Anual do Imposto de Renda. O contribuinte pode apresentar uma declaração retificadora em até cinco anos a partir da data de entrega da declaração original, desde que esta não esteja sob procedimento de fiscalização. No entanto, após o término do prazo regular de entrega da declaração, não é permitido alterar o modelo de tributação escolhido originalmente (simplificado ou completo). GOV.BR Portanto, é recomendável que, ao identificar qualquer erro ou omissão na declaração, o contribuinte proceda à retificação o mais breve possível, garantindo a conformidade fiscal e evitando possíveis penalidades futuras.\"",
+  "answer_relevancy": 0.7954710807739347,
+  "answer_correctness": 0.33,
+  "semantic_similarity": 0.7880194688937181,
+  "bleu": 0.06468490584192434,
+  "rouge1_precision": 0.35964912280701755,
+  "rouge1_recall": 0.36283185840707965,
+  "rouge1_fmeasure": 0.3612334801762115,
+  "rouge2_precision": 0.12389380530973451,
+  "rouge2_recall": 0.125,
+  "rouge2_fmeasure": 0.12444444444444444,
+  "rougeL_precision": 0.22807017543859648,
+  "rougeL_recall": 0.23008849557522124,
+  "rougeL_fmeasure": 0.2290748898678414
+}

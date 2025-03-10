@@ -1,0 +1,19 @@
+{
+  "question_number": "108",
+  "question_text": "Como apurar o imposto na Declaração Final de Espólio?",
+  "reference": "['A declaração final deve conter os rendimentos recebidos no período compreendido entre 1º de janeiro e a', 'data da decisão judicial da partilha, sobrepartilha ou adjudicação, ou a data da lavratura da escritura pública', 'de inventário e partilha, aplicando-se as normas previstas para o ano-calendário em que esta ocorrer, devendo', 'ser elaborada em computador mediante a utilização de programa gerador próprio.', 'O imposto sobre a renda é calculado mediante a utilização dos valores correspondentes à soma das tabelas', 'progressivas mensais relativas aos meses do período abrangido pela tributação, no ano-calendário a que', 'corresponder a declaração final, até a data da decisão judicial transitada em julgado ou da lavratura da', 'escritura pública de inventário e partilha, ainda que os rendimentos correspondam a apenas um ou alguns', 'meses desse período.', '(Lei nº 9.250, de 26 de dezembro de 1995, art. 15; Lei nº 13.105, de 16 de março de 2015 – Código', 'de Processo Civil, arts. 610 e 611; e Instrução Normativa SRF nº 81, de 11 de outubro de 2001, art.', '8º e § 1º)']",
+  "candidate": "\"Quando novos bens são descobertos após o trânsito em julgado da decisão judicial de partilha ou adjudicação, ou após a lavratura da escritura pública de inventário, é necessário realizar uma **sobrepartilha** para incluir esses bens no processo sucessório. A sobrepartilha pode ser conduzida das seguintes formas: **1. Sobrepartilha Judicial:** - **Procedimento:** Reabre-se o processo de inventário original, nos mesmos autos, para incluir os novos bens. O juiz analisará a nova partilha, assegurando que todos os herdeiros recebam suas devidas parcelas. Esse procedimento é especialmente necessário quando há herdeiros incapazes ou divergências entre as partes. **2. Sobrepartilha Extrajudicial:** - **Requisitos:** Se todos os herdeiros forem maiores, capazes e estiverem de acordo, a sobrepartilha pode ser realizada em cartório, mesmo que o inventário original tenha sido judicial. Isso é permitido desde que não haja testamento válido ou outras restrições legais. - **Procedimento:** Lavra-se uma nova escritura pública de sobrepartilha, na qual os novos bens são relacionados e distribuídos entre os herdeiros conforme acordado. O tabelião deve comunicar o juízo competente sobre a realização da sobrepartilha, especialmente se o inventário original foi judicial. É importante destacar que a sobrepartilha pode ocorrer independentemente do tempo decorrido desde a partilha original, sempre que novos bens forem identificados. A realização adequada da sobrepartilha garante a regularização da titularidade dos bens e evita futuros litígios entre os herdeiros. Para mais informações sobre o procedimento de sobrepartilha, consulte o artigo \"\"Sobrepartilha no inventário\"\" disponível em: [ibdfam.org.br](https://ibdfam.org.br/artigos/1790/Sobrepartilha%2Bno%2Binvent) Lembre-se de que a orientação de um advogado especializado é essencial para conduzir adequadamente o processo e assegurar o cumprimento das obrigações legais pertinentes. \"",
+  "answer_relevancy": 0.4508273598024816,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.663811187669568,
+  "bleu": 0.13534729403533569,
+  "rouge1_precision": 0.29900332225913623,
+  "rouge1_recall": 0.45918367346938777,
+  "rouge1_fmeasure": 0.36217303822937624,
+  "rouge2_precision": 0.07333333333333333,
+  "rouge2_recall": 0.11282051282051282,
+  "rouge2_fmeasure": 0.08888888888888889,
+  "rougeL_precision": 0.16611295681063123,
+  "rougeL_recall": 0.25510204081632654,
+  "rougeL_fmeasure": 0.20120724346076457
+}

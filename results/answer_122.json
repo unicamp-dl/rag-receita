@@ -1,0 +1,19 @@
+{
+  "question_number": "122",
+  "question_text": "Como receber uma restituição apurada na Declaração de Saída Definitiva do País?",
+  "reference": "['Na hipótese de pleitear a restituição de imposto por meio da declaração, deve ser indicado o banco, a agência', 'e o número da conta-corrente ou de poupança de sua titularidade em que pretende seja efetuado o crédito', '(ou, alternativamente, informar a chave PIX do titular da declaração).', 'O declarante que se encontre fora do Brasil deve indicar a conta bancária de sua titularidade, em qualquer', 'banco no Brasil autorizado pela Secretaria Especial da Receita Federal do Brasil (RFB) a efetuar a restituição', '(inclusive podendo optar por informar a chave PIX do titular da declaração). Caso o contribuinte não possua', 'conta bancária no Brasil, deve nomear um procurador no Brasil para receber sua restituição.', '(Instrução Normativa SRF nº 208, de 27 de setembro de 2002, art. 9º, § 8º)']",
+  "candidate": "Para receber uma restituição de Imposto de Renda apurada na Declaração de Saída Definitiva do País, é necessário informar corretamente os dados bancários na própria declaração. Indique o banco, a agência e o número da conta-corrente ou poupança de sua titularidade. A restituição será creditada diretamente nessa conta. citeturn0search2 Caso não possua uma conta bancária no Brasil, é recomendável manter uma para facilitar o recebimento da restituição. Se isso não for possível, entre em contato com a Receita Federal para orientações específicas sobre como proceder. Lembre-se de que a restituição será efetuada conforme o cronograma estabelecido pela Receita Federal, similar ao das restituições das declarações de ajuste anual. Portanto, é importante acompanhar as informações divulgadas pela Receita para saber quando a restituição será liberada. Para mais detalhes sobre a Declaração de Saída Definitiva do País, visite o site oficial da Receita Federal. citeturn0search1",
+  "answer_relevancy": 0.7116197905107704,
+  "answer_correctness": 0.27,
+  "semantic_similarity": 0.7864427186011308,
+  "bleu": 0.02497820867116426,
+  "rouge1_precision": 0.436046511627907,
+  "rouge1_recall": 0.5244755244755245,
+  "rouge1_fmeasure": 0.4761904761904762,
+  "rouge2_precision": 0.2046783625730994,
+  "rouge2_recall": 0.24647887323943662,
+  "rouge2_fmeasure": 0.22364217252396165,
+  "rougeL_precision": 0.2616279069767442,
+  "rougeL_recall": 0.3146853146853147,
+  "rougeL_fmeasure": 0.28571428571428575
+}

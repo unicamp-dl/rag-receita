@@ -1,0 +1,19 @@
+{
+  "question_number": "46",
+  "question_text": "O contribuinte pode retificar sua declaração para troca da opção da forma de tributação?",
+  "reference": "['A escolha da forma de tributação é uma opção do contribuinte, a qual se torna definitiva com a apresentação', 'da Declaração de Ajuste Anual (DAA). Desse modo, é permitida a retificação da declaração de rendimentos', 'visando à troca de opção por outra forma de tributação somente até 31 de maio de 2024.', 'Atenção:', 'O contribuinte poderá retificar a DAA apresentada, independente da opção da forma de tributação', '(utilizando as deduções legais ou utilizando o desconto simplificado), para Declaração Final de', 'Espólio (DFE) ou para Declaração de Saída Definitiva do País (DSDP), conforme o caso.', 'Da mesma forma, também é possível a retificação de DFE ou de DSDP para DAA.', 'Ressalte-se, porém, que na hipótese de o contribuinte ter apresentado:', 'a) dentro do prazo, uma DAA e após o prazo apresentar DFE ou DSDP e, posteriormente, retificar', 'esta novamente para uma DAA, deverá, necessariamente, utilizar a mesma forma de tributação da', 'última DAA apresentada dentro do prazo;', 'b) após o prazo, uma DAA original e depois apresentar DFE ou DSDP e, posteriormente, retificar', 'esta novamente para uma DAA, deverá, necessariamente, utilizar a mesma forma de tributação da', 'DAA original.', '(Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 83; e Instrução Normativa RFB', 'nº 2.178, de 5 de março de 2024, art. 9º, § 3º)']",
+  "candidate": "Sim, o contribuinte pode retificar sua declaração para trocar a opção da forma de tributação (de desconto simplificado para deduções legais ou vice-versa), desde que a retificação seja feita dentro do prazo de entrega da declaração original. Após o prazo, não é mais possível alterar a forma de tributação, podendo apenas corrigir outras informações.",
+  "answer_relevancy": 0.8740728134029746,
+  "answer_correctness": 0.57,
+  "semantic_similarity": 0.747052158067479,
+  "bleu": 0.2017916765531402,
+  "rouge1_precision": 0.7384615384615385,
+  "rouge1_recall": 0.19672131147540983,
+  "rouge1_fmeasure": 0.3106796116504854,
+  "rouge2_precision": 0.421875,
+  "rouge2_recall": 0.1111111111111111,
+  "rouge2_fmeasure": 0.1758957654723127,
+  "rougeL_precision": 0.5076923076923077,
+  "rougeL_recall": 0.13524590163934427,
+  "rougeL_fmeasure": 0.21359223300970875
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "84",
+  "question_text": "Como deve declarar o contribuinte menor?",
+  "reference": "['Apresenta declaração da seguinte maneira:', 'a) em separado: os rendimentos recebidos pelo menor são tributados em seu nome com número de inscrição', 'no Cadastro de Pessoas Físicas (CPF) próprio; ou', 'b) em conjunto: os rendimentos recebidos pelo menor devem ser tributados em conjunto com um dos pais.', 'No caso de menor sob a responsabilidade de um dos pais, em virtude de sentença ou acordo judicial, a', 'declaração em conjunto só pode ser feita com aquele que detém a guarda judicial do menor.', 'A declaração em conjunto supre a obrigatoriedade da apresentação da declaração a que porventura estiver', 'sujeito o menor.']",
+  "candidate": "\"A obrigatoriedade de apresentar a Declaração de Ajuste Anual do Imposto de Renda não está vinculada à idade do contribuinte, mas sim ao cumprimento de critérios estabelecidos pela Receita Federal. Portanto, menores de idade devem declarar o Imposto de Renda se se enquadrarem em pelo menos uma das situações que exigem a apresentação da declaração. citeturn0search6 **Situações Comuns que Podem Obrigar Menores a Declarar:** - **Rendimentos Tributáveis Acima do Limite:** Se o menor recebeu rendimentos tributáveis superiores ao limite estabelecido no ano-calendário, como pensão alimentícia ou salários. citeturn0search0 - **Posse de Bens de Valor Elevado:** Caso o menor possua, em 31 de dezembro do ano-calendário, bens ou direitos cujo valor total exceda o limite definido pela Receita Federal. citeturn0search1 **Formas de Declaração para Menores:** 1. **Declaração Própria:** O menor apresenta uma declaração em seu próprio nome e CPF, abrangendo seus rendimentos e bens. 2. **Inclusão como Dependente:** Os rendimentos e bens do menor são incluídos na declaração de um dos pais ou responsável legal, desde que este o declare como dependente. Nesse caso, os rendimentos do menor serão somados aos do responsável, o que pode resultar em alteração na base de cálculo do imposto. citeturn0search2 **Considerações Importantes:** - **Avaliação da Melhor Opção:** É recomendável simular ambas as situações—declaração própria do menor e inclusão como dependente—para determinar qual opção é mais vantajosa em termos fiscais. A inclusão como dependente permite deduções específicas, como gastos com educação e saúde, mas também pode aumentar a base tributável do responsável. citeturn0search0 - **Responsabilidade pela Declaração:** Embora o menor seja o titular da declaração quando esta é feita em seu nome, a responsabilidade pela apresentação e pelo cumprimento das obrigações fiscais recai sobre os pais ou responsáveis legais. citeturn0search8 Para informações detalhadas e atualizadas, é aconselhável consultar as orientações oficiais da Receita Federal ou buscar a assistência de um profissional especializado em contabilidade ou direito tributário. \"",
+  "answer_relevancy": 0.6937869588872948,
+  "answer_correctness": 0.6,
+  "semantic_similarity": 0.7717943560609228,
+  "bleu": 0.0010339028475902137,
+  "rouge1_precision": 0.20708446866485014,
+  "rouge1_recall": 0.6785714285714286,
+  "rouge1_fmeasure": 0.3173277661795407,
+  "rouge2_precision": 0.06830601092896176,
+  "rouge2_recall": 0.22522522522522523,
+  "rouge2_fmeasure": 0.10482180293501049,
+  "rougeL_precision": 0.10626702997275204,
+  "rougeL_recall": 0.3482142857142857,
+  "rougeL_fmeasure": 0.162839248434238
+}

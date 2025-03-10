@@ -1,0 +1,19 @@
+{
+  "question_number": "146",
+  "question_text": "Religiosos, missionários, pesquisadores e professores não residentes, trabalhando no Brasil, e recebendo proventos diretamente de entidades e empresas sediadas no exterior, são contribuintes do Imposto sobre a Renda no Brasil?",
+  "reference": "['Não. As pessoas físias não residentes no Brasil na forma da pergunta 115, que recebem proventos de fontes', 'situadas no exterior, não são contribuintes do imposto sobre a renda no Brasil.', 'Atenção:', 'Caso a pessoa física também receba rendimentos de fonte situada no Brasil, enquanto permanecer', 'na condição de não residente, esses rendimentos são tributáveis exclusivamente na fonte.', 'Consulte as perguntas 114, 115, 128, 129 e 131']",
+  "candidate": "Sim, a pessoa física não residente no Brasil está obrigada à inscrição no Cadastro de Pessoas Físicas (CPF) caso possua bens ou direitos no país, como imóveis, veículos, contas bancárias, investimentos ou participação em empresas brasileiras. Além disso, a inscrição no CPF pode ser exigida para diversas finalidades, como operações financeiras, heranças e outras obrigações fiscais. O registro pode ser feito em representações diplomáticas brasileiras no exterior, no site da Receita Federal ou por meio de procurador no Brasil.",
+  "answer_relevancy": 0.4645570417504792,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.6351817342210512,
+  "bleu": 0.05641439241984128,
+  "rouge1_precision": 0.3191489361702128,
+  "rouge1_recall": 0.379746835443038,
+  "rouge1_fmeasure": 0.34682080924855496,
+  "rouge2_precision": 0.10752688172043011,
+  "rouge2_recall": 0.1282051282051282,
+  "rouge2_fmeasure": 0.11695906432748536,
+  "rougeL_precision": 0.18085106382978725,
+  "rougeL_recall": 0.21518987341772153,
+  "rougeL_fmeasure": 0.19653179190751446
+}

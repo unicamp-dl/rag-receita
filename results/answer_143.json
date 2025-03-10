@@ -1,0 +1,19 @@
+{
+  "question_number": "143",
+  "question_text": "Qual é o tratamento tributário dos rendimentos recebidos por funcionário administrativo ou técnico de representações diplomáticas?",
+  "reference": "['1 – Funcionário não residente no Brasil', 'Na condição de não residente no Brasil, somente estão sujeitos à tributação no Brasil os rendimentos pagos', 'ou creditados a esse servidor por fonte pagadora situada no Brasil. Todos os demais rendimentos por ele', 'percebidos, pagos ou creditados por fontes estrangeiras, inclusive os correspondentes às funções oficiais', 'exercidas no Brasil, não sofrem incidência.', 'Obs.: Os rendimentos do trabalho com ou sem vínculo empregatício, de aposentadoria, de pensão e os da', 'prestação de serviços, pagos, creditados, entregues, empregados ou remetidos por pessoa física ou jurídica', 'residente ou domiciliada no Brasil para residente no exterior, estão sujeitos à tributação exclusiva à alíquota', 'de 25%.', '(Regulamento do Imposto sobre a Renda - RIR/2018, art. 20, inciso III, aprovado pelo Decreto nº', '9.580, de 22 de novembro de 2018; e Instrução Normativa SRF nº 208, de 27 de setembro de 2002,', 'art. 23, inciso II)', '2 – Funcionário residente no Brasil', 'Ainda que o Estado representado seja signatário da Convenção de Viena, os rendimentos pagos ou creditados', 'a esse servidor por fontes situadas no Brasil ou no exterior, inclusive os decorrentes de suas funções', 'específicas, sujeitam-se à tributação nas mesmas condições estabelecidas para os demais residentes no', 'Brasil, sendo irrelevante o fato de ser servidor de representação oficial estrangeira.', '(Convenção de Viena, Decreto nº 56.435, de 8 de junho de 1965, art. 37, 2; Lei nº 9.779, de 19 de', 'janeiro de 1999, art. 7º; Lei nº 13.315, de 20 de julho de 2016; Instrução Normativa SRF nº 208, de', '27 de setembro de 2002, art. 24; e Parecer Normativo nº 129, de 13 de setembro de 1973)']",
+  "candidate": "Se a fonte pagadora não fornecer o comprovante de rendimentos ou entregá-lo com inexatidão, a pessoa física deve, primeiramente, tentar obter o documento diretamente com a empresa, solicitando a correção, se necessário. Caso não consiga, pode estimar os valores com base nos contracheques, informes bancários e outros registros financeiros. Se houver imposto retido na fonte, ele pode ser conferido no e-CAC, acessando o \"Extrato da DIRF\" na aba \"Meu Imposto de Renda\". Se a fonte pagadora se recusar a fornecer o comprovante ou corrigir erros, o contribuinte pode denunciar a situação à Receita Federal.",
+  "answer_relevancy": 0.3434713184330193,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.5376124554549968,
+  "bleu": 0.04046545573829659,
+  "rouge1_precision": 0.39805825242718446,
+  "rouge1_recall": 0.13666666666666666,
+  "rouge1_fmeasure": 0.20347394540942929,
+  "rouge2_precision": 0.049019607843137254,
+  "rouge2_recall": 0.016722408026755852,
+  "rouge2_fmeasure": 0.02493765586034913,
+  "rougeL_precision": 0.2524271844660194,
+  "rougeL_recall": 0.08666666666666667,
+  "rougeL_fmeasure": 0.12903225806451613
+}

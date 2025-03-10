@@ -1,0 +1,19 @@
+{
+  "question_number": "40",
+  "question_text": "Qual é o local de apresentação da Declaração de Ajuste Anual do exercício de 2024 apresentada fora do prazo?",
+  "reference": "['A declaração, após 31 de maio de 2024, deve ser apresentada:', 'a) pela Internet, mediante utilização do programa de transmissão Receitanet;', 'b) a partir do exercício de 2017, pela Internet, no respectivo programa IRPF, na opção “Entregar Declaração”;', 'c) utilizando o “Meu Imposto de Renda (consulte as perguntas 026 a 031), na hipótese de apresentação de', 'declaração original; ou', 'd) em mídia removível, nas unidades da RFB, durante o seu horário de expediente.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 8º)']",
+  "candidate": "A Declaração de Ajuste Anual do exercício de 2024 apresentada fora do prazo deve ser transmitida exclusivamente por meio eletrônico, utilizando o Programa Gerador da Declaração (PGD) IRPF 2024, o portal e-CAC no site da Receita Federal ou o aplicativo \"Meu Imposto de Renda\" para dispositivos móveis. Após o envio, o contribuinte receberá automaticamente a Notificação de Lançamento da Multa por Atraso na Entrega da Declaração (MAED), devendo efetuar o pagamento dentro do prazo estipulado para evitar acréscimos.",
+  "answer_relevancy": 0.5938056338642129,
+  "answer_correctness": 0.33,
+  "semantic_similarity": 0.7663891563729296,
+  "bleu": 0.07153187473234769,
+  "rouge1_precision": 0.4606741573033708,
+  "rouge1_recall": 0.4019607843137255,
+  "rouge1_fmeasure": 0.4293193717277487,
+  "rouge2_precision": 0.18181818181818182,
+  "rouge2_recall": 0.15841584158415842,
+  "rouge2_fmeasure": 0.16931216931216933,
+  "rougeL_precision": 0.2696629213483146,
+  "rougeL_recall": 0.23529411764705882,
+  "rougeL_fmeasure": 0.2513089005235602
+}

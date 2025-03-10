@@ -1,0 +1,19 @@
+{
+  "question_number": "166",
+  "question_text": "Como são tributados os rendimentos auferidos no exterior por residente no Brasil que saiu do país para prestar serviço a empresa estrangeira?",
+  "reference": "['A pessoa física que se ausentou do Brasil, exceto a serviço do País, tem seus rendimentos tributados', 'conforme se enquadre como residente ou não residente no Brasil.', 'Consulte as perguntas 114, 115, 128 e 129']",
+  "candidate": "\"Os rendimentos auferidos no exterior por uma pessoa física residente no Brasil, que tenha saído do país para prestar serviços a uma empresa estrangeira, estão sujeitos à tributação no Brasil. Isso ocorre devido ao princípio da universalidade, pelo qual residentes fiscais brasileiros devem declarar e tributar rendimentos obtidos tanto no país quanto no exterior. **Tributação dos Rendimentos Recebidos do Exterior:** - **Recolhimento Mensal Obrigatório (Carnê-Leão):** Os rendimentos recebidos de fontes situadas no exterior devem ser oferecidos à tributação mensal por meio do Carnê-Leão, observando-se a tabela progressiva do Imposto de Renda vigente no período do recebimento. - **Declaração de Ajuste Anual:** Além do recolhimento mensal, tais rendimentos devem ser informados na Declaração de Ajuste Anual do Imposto de Renda da Pessoa Física, permitindo a compensação do imposto pago no exterior, desde que haja previsão legal ou acordo internacional que evite a bitributação. **Conversão de Moeda:** Os valores recebidos em moeda estrangeira devem ser convertidos para reais utilizando a cotação de compra do Banco Central do Brasil na data do recebimento do rendimento. **Compensação de Imposto Pago no Exterior:** O imposto sobre a renda pago no exterior pode ser compensado no Brasil, desde que: - Exista acordo ou convenção internacional entre o Brasil e o país de origem dos rendimentos para evitar a bitributação, ou haja reciprocidade de tratamento; - O imposto pago no exterior seja de natureza equivalente ao Imposto de Renda brasileiro; - O contribuinte possua documentação comprobatória do pagamento do imposto no exterior. A compensação está limitada ao valor do imposto devido no Brasil sobre os rendimentos provenientes do exterior. **Observações Importantes:** - **Residência Fiscal:** A manutenção da condição de residente fiscal no Brasil implica a obrigatoriedade de declarar e tributar os rendimentos auferidos no exterior. Caso o contribuinte tenha deixado o país em caráter definitivo, é necessário apresentar a Declaração de Saída Definitiva do País para regularizar sua situação fiscal. - **Acordos Internacionais:** É fundamental verificar se há acordos internacionais entre o Brasil e o país onde os serviços foram prestados, visando evitar a bitributação e definir corretamente as obrigações tributárias em cada jurisdição. Para informações mais detalhadas, consulte a [Instrução Normativa RFB nº 2.180/2024](https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=136603) e o [site da Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2024/marco/receita-federal-edita-norma-que-regulamenta-a-tributacao). \"",
+  "answer_relevancy": 0.8318234059457451,
+  "answer_correctness": 0.33,
+  "semantic_similarity": 0.7767990833599866,
+  "bleu": 0.04887545659354856,
+  "rouge1_precision": 0.059496567505720827,
+  "rouge1_recall": 0.6666666666666666,
+  "rouge1_fmeasure": 0.10924369747899158,
+  "rouge2_precision": 0.01834862385321101,
+  "rouge2_recall": 0.21052631578947367,
+  "rouge2_fmeasure": 0.03375527426160337,
+  "rougeL_precision": 0.043478260869565216,
+  "rougeL_recall": 0.48717948717948717,
+  "rougeL_fmeasure": 0.07983193277310924
+}

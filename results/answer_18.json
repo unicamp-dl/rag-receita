@@ -1,0 +1,19 @@
+{
+  "question_number": "18",
+  "question_text": "O desconto simplificado substitui a parcela de isenção referente a rendimentos de aposentadoria recebidos por contribuinte maior de 65 anos?",
+  "reference": "['Não. A parcela isenta referente a rendimentos de aposentadoria recebidos por contribuinte maior de 65 anos', 'deve ser informada na Declaração de Ajuste Anual na ficha correspondente aos Rendimentos Isentos e Não', 'Tributáveis. O desconto simplificado aplica-se apenas aos rendimentos tributáveis e substitui as deduções', 'legais cabíveis, limitado a R$ 16.754,34.', '(Lei nº 9.250, de 26 de dezembro de 1995, art.10, inciso X; e Instrução Normativa RFB nº 2.178, de', '5 de março de 2024, art. 3º, § 1º)', 'Consulte as perguntas 052 e 250']",
+  "candidate": "Não, o desconto simplificado não substitui a parcela de isenção referente aos rendimentos de aposentadoria recebidos por contribuintes com mais de 65 anos. A parcela isenta desses rendimentos deve ser informada na Declaração de Ajuste Anual na ficha correspondente aos \"Rendimentos Isentos e Não Tributáveis\". O desconto simplificado aplica-se apenas aos rendimentos tributáveis e substitui as deduções legais cabíveis, sendo limitado a um valor específico. citeturn0search0",
+  "answer_relevancy": 0.9492405684184012,
+  "answer_correctness": 0.67,
+  "semantic_similarity": 0.8520726837756956,
+  "bleu": 0.22656720908801994,
+  "rouge1_precision": 0.7692307692307693,
+  "rouge1_recall": 0.6060606060606061,
+  "rouge1_fmeasure": 0.6779661016949152,
+  "rouge2_precision": 0.6233766233766234,
+  "rouge2_recall": 0.4897959183673469,
+  "rouge2_fmeasure": 0.5485714285714286,
+  "rougeL_precision": 0.6923076923076923,
+  "rougeL_recall": 0.5454545454545454,
+  "rougeL_fmeasure": 0.6101694915254238
+}

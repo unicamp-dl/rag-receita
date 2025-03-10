@@ -1,0 +1,19 @@
+{
+  "question_number": "23",
+  "question_text": "Contribuinte que na data final da apresentação da declaração se encontra em viagem, fora de seu domicílio fiscal, tem direito à prorrogação desse prazo?",
+  "reference": "['Não. Recomenda-se que o contribuinte apresente sua declaração no prazo legal, no local onde se encontrar,', 'indicando, no campo próprio, seu domicílio fiscal permanente.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 7º)']",
+  "candidate": "Não, a legislação fiscal brasileira não prevê a prorrogação do prazo para a entrega da declaração do Imposto de Renda por motivo de viagem do contribuinte. A Receita Federal disponibiliza diversas formas de envio eletrônico da declaração, permitindo que o contribuinte a entregue mesmo estando fora de seu domicílio fiscal. Caso o contribuinte não consiga enviar dentro do prazo, estará sujeito à multa por atraso na entrega. Se houver dificuldades, recomenda-se planejar a entrega antecipada ou contar com a ajuda de um contador.",
+  "answer_relevancy": 0.8143665093002838,
+  "answer_correctness": 0.22,
+  "semantic_similarity": 0.6823957503773299,
+  "bleu": 0.010371052406975221,
+  "rouge1_precision": 0.22826086956521738,
+  "rouge1_recall": 0.4666666666666667,
+  "rouge1_fmeasure": 0.3065693430656934,
+  "rouge2_precision": 0.08791208791208792,
+  "rouge2_recall": 0.18181818181818182,
+  "rouge2_fmeasure": 0.11851851851851851,
+  "rougeL_precision": 0.15217391304347827,
+  "rougeL_recall": 0.3111111111111111,
+  "rougeL_fmeasure": 0.20437956204379562
+}

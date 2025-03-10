@@ -1,0 +1,19 @@
+{
+  "question_number": "124",
+  "question_text": "Como devem ser informadas as deduções de pagamentos efetuados em moeda estrangeira na Declaração de Saída Definitiva do País?",
+  "reference": "['As deduções referentes a pagamentos efetuados em moeda estrangeira são convertidas em dólares dos', 'Estados Unidos da América, pelo valor fixado pela autoridade monetária do país no qual as despesas foram', 'realizadas para a data do pagamento e, em seguida, em reais pela cotação do dólar fixada, para venda, pelo', 'Banco Central do Brasil para o último dia útil da primeira quinzena do mês anterior ao do pagamento.', '(Instrução Normativa SRF nº 208, de 27 de setembro de 2002, art. 9º, § 7º)']",
+  "candidate": "Para informar as deduções de pagamentos efetuados em moeda estrangeira na Declaração de Saída Definitiva do País, siga este procedimento: 1. **Conversão para dólares americanos**: Converta o valor pago na moeda estrangeira para dólares dos Estados Unidos da América (USD), utilizando a taxa de câmbio fixada pela autoridade monetária do país onde a despesa foi realizada, na data do pagamento. citeturn0search4 2. **Conversão para reais**: Após obter o valor em dólares, converta-o para reais (BRL) aplicando a taxa de câmbio de venda estabelecida pelo Banco Central do Brasil para o último dia útil da primeira quinzena do mês anterior ao do pagamento. citeturn0search4 **Exemplo prático**: - Suponha que você tenha efetuado um pagamento de 1.000 euros em 20 de março. - No dia 20 de março, a taxa de câmbio fixada pela autoridade monetária europeia (Banco Central Europeu) era de 1 euro = 1,10 dólares americanos. - Assim, 1.000 euros correspondem a 1.100 dólares americanos. - A taxa de câmbio de venda do dólar, fixada pelo Banco Central do Brasil para o último dia útil da primeira quinzena de fevereiro (mês anterior ao pagamento), era de 1 dólar = 5,00 reais. - Portanto, 1.100 dólares americanos equivalem a 5.500 reais. Dessa forma, o valor a ser informado como dedução na sua declaração é de 5.500 reais. É importante manter registros e comprovantes das taxas de câmbio utilizadas e das datas dos pagamentos, para assegurar a precisão das informações fornecidas na declaração.",
+  "answer_relevancy": 0.9699150438598158,
+  "answer_correctness": 0.33,
+  "semantic_similarity": 0.8193362155286744,
+  "bleu": 0.1877374998302472,
+  "rouge1_precision": 0.259927797833935,
+  "rouge1_recall": 0.782608695652174,
+  "rouge1_fmeasure": 0.39024390243902435,
+  "rouge2_precision": 0.15942028985507245,
+  "rouge2_recall": 0.4835164835164835,
+  "rouge2_fmeasure": 0.23978201634877383,
+  "rougeL_precision": 0.21299638989169675,
+  "rougeL_recall": 0.6413043478260869,
+  "rougeL_fmeasure": 0.3197831978319783
+}

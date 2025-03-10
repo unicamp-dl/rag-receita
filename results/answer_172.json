@@ -1,0 +1,19 @@
+{
+  "question_number": "172",
+  "question_text": "As pensões e aposentadorias recebidas do exterior são tributáveis no Brasil?",
+  "reference": "['O recebimento de tais rendimentos são tributados no Brasil por meio do recolhimento mensal (carnê-leão) na', 'data de seu recebimento e na Declaração de Ajuste Anual (DAA). Na inexistência de tratados ou reciprocidade', 'de tratamento, não é permitida a compensação do imposto pago no exterior.', 'Contudo, para se determinar a tributação correspondente a esses rendimentos, é necessário verificar a', 'existência de Acordo ou Convenção firmado entre o país de origem dos rendimentos e o Brasil para evitar a', 'dupla tributação, devendo ser observadas as disposições neles contidas.', 'Havendo Acordo ou Convenção em matéria de tributação sobre o imposto sobre a renda, a princípio, para', 'pensões e aposentadorias em geral aplica-se o artigo de “Pensões” ou “Pensões e anuidades” (ou outros', 'títulos similares).', 'Por outro lado, as pensões pagas pelo desempenho de serviços (como funções públicas que não sejam no', 'âmbito de uma atividade empresarial, comercial ou industrial) a um Estado Contratante do Acordo ou', 'Convenção devem ser tributadas observando-se as disposições dos artigos equivalentes a “Pagamentos', 'governamentais” ou “Funções públicas” (ou outros títulos similares).', 'Com relação a pensões alimentícias, consultar a pergunta 221.', '(Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, arts. 53, inciso II, § 4º, 54, 65, § 2º,', 'e 81)']",
+  "candidate": "\"Sim, as pensões e aposentadorias recebidas do exterior por residentes no Brasil são tributáveis. Esses rendimentos devem ser incluídos na base de cálculo do Imposto de Renda e estão sujeitos ao recolhimento mensal obrigatório, conhecido como carnê-leão, no momento do recebimento, além de serem declarados na Declaração de Ajuste Anual. É importante verificar se existe acordo ou tratado internacional entre o país de origem dos rendimentos e o Brasil para evitar a dupla tributação, pois, na ausência de tais acordos, não é permitida a compensação do imposto pago no exterior. citeturn0search0 Para residentes no exterior que recebem pensões e aposentadorias de fontes brasileiras, o Supremo Tribunal Federal (STF) decidiu, em outubro de 2024, que é inconstitucional a incidência de uma alíquota fixa de 25% de Imposto de Renda na fonte sobre esses rendimentos. O STF entendeu que essa alíquota única violava os princípios da isonomia, da progressividade e da capacidade contributiva, uma vez que não considerava as diferentes faixas de renda dos beneficiários. citeturn0search1 Portanto, atualmente, os residentes no exterior que recebem aposentadorias ou pensões do Brasil devem ser tributados conforme a tabela progressiva do Imposto de Renda, semelhante ao tratamento dado aos residentes no país. Isso significa que a alíquota aplicada dependerá do valor do benefício, respeitando as faixas de isenção e as alíquotas progressivas estabelecidas na legislação vigente. Recomenda-se que os contribuintes nessa situação consultem um profissional especializado ou a própria Receita Federal para obter orientações atualizadas e específicas sobre o cumprimento das obrigações fiscais relacionadas a rendimentos recebidos do exterior ou por residentes no exterior. \"",
+  "answer_relevancy": 0.9580746395834935,
+  "answer_correctness": 0.57,
+  "semantic_similarity": 0.8488769604736919,
+  "bleu": 0.10296143387512949,
+  "rouge1_precision": 0.45051194539249145,
+  "rouge1_recall": 0.5477178423236515,
+  "rouge1_fmeasure": 0.4943820224719101,
+  "rouge2_precision": 0.1917808219178082,
+  "rouge2_recall": 0.23333333333333334,
+  "rouge2_fmeasure": 0.21052631578947367,
+  "rougeL_precision": 0.2150170648464164,
+  "rougeL_recall": 0.26141078838174275,
+  "rougeL_fmeasure": 0.23595505617977527
+}

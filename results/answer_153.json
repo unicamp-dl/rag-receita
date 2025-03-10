@@ -1,0 +1,19 @@
+{
+  "question_number": "153",
+  "question_text": "Qual é o tratamento tributário dos rendimentos auferidos por funcionário dos Organismos Especializados na Organização dos Estados Americanos (OEA)?",
+  "reference": "['Os rendimentos recebidos por funcionários dos Organismos Especializados na Organização dos Estados', 'Americanos (OEA), que sejam residentes no Brasil, estão sujeitos à tributação sob a forma de recolhimento', 'mensal obrigatório (carnê-leão) no mês do recebimento e na Declaração de Ajuste Anual (DAA), exceto se', 'houver sido firmado acordo dispondo de forma diversa.', 'Atenção:', 'Os funcionários do quadro de Pessoal Internacional do Instituto Interamericano de Cooperação para', 'a Agricultura (IICA) estão isentos do imposto sobre a renda em relação aos salários e vencimentos', 'pagos  pelo IICA, uma vez que esse organismo especializado possui acordo dispondo', 'expressamente sobre a isenção do imposto sobre a renda relativo a esses rendimentos.', '(Decreto nº 57.942, de 10 de março de 1966, art. 1º; Decreto nº 67.542, de 12 de novembro de', '1970, art. 141; Decreto nº 86.365, de 15 de setembro de 1981, art. 28; Anexo ao Decreto nº 361,', 'de 10 de dezembro de 1991, art. 13; e Solução de Consulta Cosit nº 98, de 10 de maio de 2023)', 'Consulte a pergunta 148']",
+  "candidate": "\"Os rendimentos recebidos por funcionários dos Organismos Especializados da Organização dos Estados Americanos (OEA) no Brasil são tratados da seguinte forma: **Funcionários estrangeiros:** - Os rendimentos do trabalho assalariado recebidos no Brasil por pessoas físicas não residentes, provenientes de organismos internacionais como a OEA, são isentos do Imposto de Renda. **Funcionários brasileiros:** - Os rendimentos do trabalho assalariado recebidos por residentes no Brasil, provenientes de organismos internacionais, são tributáveis e devem ser declarados como \"\"Rendimentos Tributáveis Recebidos de Pessoas Físicas e do Exterior\"\". É importante que os funcionários residentes no Brasil que recebam rendimentos da OEA estejam atentos às suas obrigações fiscais, incluindo o recolhimento mensal do imposto por meio do Carnê-Leão e a declaração anual desses rendimentos no Imposto de Renda. Para mais detalhes, consulte a Instrução Normativa SRF nº 208/2002, disponível em: \"",
+  "answer_relevancy": 0.8111335829072889,
+  "answer_correctness": 0.24,
+  "semantic_similarity": 0.8509104709944094,
+  "bleu": 0.15785152804295888,
+  "rouge1_precision": 0.46357615894039733,
+  "rouge1_recall": 0.3684210526315789,
+  "rouge1_fmeasure": 0.4105571847507331,
+  "rouge2_precision": 0.17333333333333334,
+  "rouge2_recall": 0.13756613756613756,
+  "rouge2_fmeasure": 0.15339233038348082,
+  "rougeL_precision": 0.2781456953642384,
+  "rougeL_recall": 0.22105263157894736,
+  "rougeL_fmeasure": 0.24633431085043983
+}

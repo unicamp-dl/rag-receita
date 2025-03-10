@@ -1,0 +1,19 @@
+{
+  "question_number": "15",
+  "question_text": "O contribuinte que possui mais de uma fonte pagadora pode optar pelo desconto simplificado?",
+  "reference": "['Sim. O contribuinte que possui mais de uma fonte pagadora pode optar pelo desconto simplificado. Ele deve', 'preencher a Declaração de Ajuste Anual, informando nos campos pertinentes os nomes e os números de', 'inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) ou no Cadastro de Pessoas Físicas (CPF) de todas', 'as fontes, bem como indicar os rendimentos de todas as fontes e os respectivos impostos retidos.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024)', 'Consulte as perguntas 001 e 032']",
+  "candidate": "Sim, contribuintes que possuem mais de uma fonte pagadora podem optar pelo desconto simplificado na Declaração de Ajuste Anual do Imposto de Renda. Essa opção permite substituir todas as deduções legais por uma dedução padrão de 20% sobre os rendimentos tributáveis, limitada a um valor específico definido pela Receita Federal. É importante que o contribuinte informe corretamente todos os rendimentos recebidos de cada fonte pagadora ao preencher a declaração.",
+  "answer_relevancy": 0.9009822436531044,
+  "answer_correctness": 0.4,
+  "semantic_similarity": 0.8260272744552797,
+  "bleu": 0.36406106916458036,
+  "rouge1_precision": 0.4342105263157895,
+  "rouge1_recall": 0.3626373626373626,
+  "rouge1_fmeasure": 0.39520958083832336,
+  "rouge2_precision": 0.24,
+  "rouge2_recall": 0.2,
+  "rouge2_fmeasure": 0.2181818181818182,
+  "rougeL_precision": 0.34210526315789475,
+  "rougeL_recall": 0.2857142857142857,
+  "rougeL_fmeasure": 0.311377245508982
+}

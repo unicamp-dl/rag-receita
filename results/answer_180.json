@@ -1,0 +1,19 @@
+{
+  "question_number": "180",
+  "question_text": "Os rendimentos recebidos a título de bolsa por pessoa física que realiza pesquisa acadêmica e atua como orientador de trabalhos de conclusão são tributáveis?",
+  "reference": "['Sim. Os valores recebidos para proceder a estudos ou pesquisas que importem em contraprestação de', 'serviços, ou que, de alguma forma, representem vantagem para o doador em função dos resultados obtidos', 'nessas atividades, são considerados rendimentos tributáveis e estão sujeitos à retenção de imposto na fonte', 'e à tributação na Declaração de Ajuste Anual (DAA), ainda que o concedente desenvolva atividades sem fins', 'lucrativos.', '(Lei nº 9.250, de 26 de dezembro de 1995, art. 26; Regulamento do Imposto sobre a Renda -', 'RIR/2018, art. 35, inciso VII, alínea “a” e art. 36, inciso I, aprovado pelo Decreto nº 9.580, de 22 de', 'novembro de 2018; Solução de Consulta Cosit nº 81, de 31 de março de 2014; e Solução de', 'Consulta Cosit nº 140, de 21 de setembro de 2021)', 'Consulte a pergunta 283']",
+  "candidate": "\"A tributação de valores recebidos por pessoa física a título de bolsa para pesquisa acadêmica e pela atuação como orientador de trabalhos de conclusão depende da natureza desses rendimentos e das condições estabelecidas para cada atividade. **1. Bolsas de Pesquisa Acadêmica:** De acordo com o artigo 26 da Lei nº 9.250/1995, bolsas de estudo ou pesquisa são isentas de Imposto de Renda quando caracterizadas como doação, destinadas exclusivamente a estudos ou pesquisas, e desde que: - Os resultados dessas atividades não representem vantagem para o doador; - Não impliquem contraprestação de serviços. Portanto, se a bolsa de pesquisa atende a esses critérios, ela é considerada isenta de tributação. Contudo, mesmo sendo isenta, se os valores recebidos ultrapassarem R$ 40.000,00 no ano-calendário, o beneficiário está obrigado a apresentar a Declaração de Ajuste Anual, informando os valores na ficha de \"\"Rendimentos Isentos e Não Tributáveis\"\". citeturn0search0 **2. Remuneração por Orientação de Trabalhos de Conclusão:** Quando a pessoa física recebe remuneração pela orientação de trabalhos de conclusão, como monografias, dissertações ou teses, essa atividade é considerada prestação de serviço. Nesse caso, os valores recebidos caracterizam-se como rendimentos tributáveis, sujeitos ao Imposto de Renda conforme a tabela progressiva vigente. Esses rendimentos devem ser informados na Declaração de Ajuste Anual na ficha de \"\"Rendimentos Tributáveis Recebidos de Pessoa Jurídica\"\" ou \"\"Rendimentos Tributáveis Recebidos de Pessoa Física\"\", conforme a origem do pagamento. **Considerações Importantes:** - **Natureza da Atividade:** A distinção entre bolsa isenta e remuneração tributável baseia-se na natureza da atividade. Se houver exigência de contraprestação de serviços ou se a atividade resultar em vantagem para o concedente da bolsa, o valor recebido será considerado tributável. - **Documentação:** É fundamental manter a documentação que comprove a natureza dos valores recebidos, como termos de concessão de bolsa, contratos de prestação de serviços e comprovantes de pagamento, para eventual comprovação junto à Receita Federal. Em caso de dúvidas específicas ou situações particulares, recomenda-se consultar um profissional especializado em direito tributário ou diretamente a Receita Federal para orientações precisas. \"",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.61,
+  "semantic_similarity": 0.7725713035544637,
+  "bleu": 0.01866353617690187,
+  "rouge1_precision": 0.22739018087855298,
+  "rouge1_recall": 0.5986394557823129,
+  "rouge1_fmeasure": 0.32958801498127344,
+  "rouge2_precision": 0.08290155440414508,
+  "rouge2_recall": 0.2191780821917808,
+  "rouge2_fmeasure": 0.12030075187969924,
+  "rougeL_precision": 0.12403100775193798,
+  "rougeL_recall": 0.32653061224489793,
+  "rougeL_fmeasure": 0.1797752808988764
+}

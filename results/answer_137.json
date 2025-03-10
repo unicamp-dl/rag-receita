@@ -1,0 +1,19 @@
+{
+  "question_number": "137",
+  "question_text": "Qual é o tratamento tributário dos lucros e dividendos recebidos por residente no Brasil de empresa domiciliada no exterior?",
+  "reference": "['Os lucros e dividendos recebidos de empresa domiciliada no exterior, transferidos ou não para o Brasil, estão', 'sujeitos ao recolhimento mensal obrigatório (carnê-leão) e à tributação na Declaração de Ajuste Anual (DAA),', 'observados os acordos, convenções e tratados internacionais firmados entre o Brasil e o país de origem dos', 'rendimentos.', 'Atenção:', 'As regras de tributação da renda auferida por pessoas físicas residentes no País de lucros e', 'dividendos de entidades controladas e de trusts no exterior, a partir de 1º de janeiro de 2024 irão', 'seguir o disposto na Lei nº 14.754, de 12 de dezembro de 2023, e na Instrução Normativa RFB nº', '2.180, de 11 de março de 2024.', '(Regulamento do Imposto sobre a Renda – RIR/2018, art. 1.042, aprovado pelo Decreto nº 9.580,', 'de 22 de novembro de 2018; e Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art.', '53, inciso II)', 'Consulte a pergunta 139']",
+  "candidate": "\"Quando uma declaração retificadora de um contribuinte resulta em alterações que afetam a declaração do cônjuge ou companheiro, é necessário que ambos procedam com a retificação de suas respectivas declarações para assegurar a consistência e a precisão das informações fornecidas à Receita Federal. Isso é especialmente relevante em casos onde há rendimentos ou deduções compartilhados, como dependentes comuns ou bens em comunhão. Para efetuar a retificação, cada cônjuge ou companheiro deve utilizar o número do recibo de entrega da declaração original e apresentar a declaração retificadora correspondente. É importante lembrar que, após o prazo regular de entrega da declaração, não é permitido alterar o modelo de tributação escolhido originalmente (simplificado ou completo). Portanto, quaisquer ajustes necessários devem ser realizados dentro do prazo estabelecido para a entrega da declaração original. Recomenda-se que as retificações sejam efetuadas o mais breve possível, a fim de evitar inconsistências e possíveis questionamentos futuros por parte da Receita Federal.\"",
+  "answer_relevancy": 0.38430185795000354,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.5156735838749049,
+  "bleu": 0.013829526010502928,
+  "rouge1_precision": 0.23863636363636365,
+  "rouge1_recall": 0.24277456647398843,
+  "rouge1_fmeasure": 0.24068767908309455,
+  "rouge2_precision": 0.03428571428571429,
+  "rouge2_recall": 0.03488372093023256,
+  "rouge2_fmeasure": 0.034582132564841495,
+  "rougeL_precision": 0.14204545454545456,
+  "rougeL_recall": 0.14450867052023122,
+  "rougeL_fmeasure": 0.14326647564469916
+}

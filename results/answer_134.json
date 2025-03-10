@@ -1,0 +1,19 @@
+{
+  "question_number": "134",
+  "question_text": "Como é feita a tributação dos rendimentos recebidos em reclamatória trabalhista, por não residente no Brasil?",
+  "reference": "['A tributação dos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no Brasil,', 'a pessoa física residente no exterior, decorrentes de reclamatória trabalhista, é realizada na modalidade de', 'retenção exclusiva na fonte, à alíquota de 25%, incidindo uma única vez, na ocorrência do primeiro evento –', 'pagamento, crédito, entrega, emprego ou remessa, não se aplicando as regras de tributação de rendimentos', 'recebidos acumuladamente. Sendo assim, os valores tributados quando do pagamento por meio de depósito', 'em conta bancária no Brasil não sofrerão uma segunda retenção por ocasião da remessa ao exterior para o', 'próprio beneficiário.', '(Lei nº 7.713, de 22 de dezembro de 1988, art. 1º; Regulamento do Imposto sobre a Renda –', 'RIR/2018, arts. 741 e 746, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018; Instrução', 'Normativa SRF nº 208, de 27 de setembro de 2002, art. 10; e Solução de Consulta Cosit nº 337, de', '28 de dezembro de 2018)']",
+  "candidate": "Sim, o contribuinte pode retificar sua declaração para trocar a opção da forma de tributação (de desconto simplificado para deduções legais ou vice-versa), desde que a retificação seja feita dentro do prazo de entrega da declaração original. Após o prazo, não é mais possível alterar a forma de tributação, podendo apenas corrigir outras informações.",
+  "answer_relevancy": 0.42326146568965334,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.47496217299533894,
+  "bleu": 0.02912973268471526,
+  "rouge1_precision": 0.36923076923076925,
+  "rouge1_recall": 0.13714285714285715,
+  "rouge1_fmeasure": 0.2,
+  "rouge2_precision": 0.09375,
+  "rouge2_recall": 0.034482758620689655,
+  "rouge2_fmeasure": 0.050420168067226885,
+  "rougeL_precision": 0.23076923076923078,
+  "rougeL_recall": 0.08571428571428572,
+  "rougeL_fmeasure": 0.12500000000000003
+}

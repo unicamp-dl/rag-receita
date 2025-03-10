@@ -1,0 +1,19 @@
+{
+  "question_number": "20",
+  "question_text": "O contribuinte que optar pelo desconto simplificado pode excluir as despesas com condomínio, taxas, impostos, em relação a aluguéis recebidos?",
+  "reference": "['Sim. O contribuinte, independentemente da opção pelo desconto simplificado ou não, deve informar como', 'rendimento tributável o valor dos aluguéis recebidos, podendo excluir os impostos, as taxas e os emolumentos', 'incidentes sobre o bem que produzir o rendimento, desde que o ônus desses encargos tenha sido', 'exclusivamente do declarante.', '(Lei nº 7.739, de 16 de março de 1989, art. 14; e Regulamento do Imposto sobre a Renda -', 'RIR/2018, art. 689, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018)', 'Consulte a pergunta 211']",
+  "candidate": "Sim, ao optar pelo desconto simplificado na Declaração de Ajuste Anual do Imposto de Renda, o contribuinte pode deduzir despesas como condomínio, taxas e impostos relacionados aos aluguéis recebidos. Independentemente da forma de tributação escolhida, é permitido excluir do valor dos aluguéis recebidos os impostos, as taxas e os emolumentos incidentes sobre o bem que produz o rendimento, desde que o ônus desses encargos seja exclusivamente do declarante. citeturn0search8",
+  "answer_relevancy": 0.7315901426910553,
+  "answer_correctness": 0.4,
+  "semantic_similarity": 0.7858701132168008,
+  "bleu": 0.08497582648014522,
+  "rouge1_precision": 0.6351351351351351,
+  "rouge1_recall": 0.5053763440860215,
+  "rouge1_fmeasure": 0.562874251497006,
+  "rouge2_precision": 0.410958904109589,
+  "rouge2_recall": 0.32608695652173914,
+  "rouge2_fmeasure": 0.3636363636363636,
+  "rougeL_precision": 0.47297297297297297,
+  "rougeL_recall": 0.3763440860215054,
+  "rougeL_fmeasure": 0.4191616766467066
+}

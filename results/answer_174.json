@@ -1,0 +1,19 @@
+{
+  "question_number": "174",
+  "question_text": "Não residente no Brasil, ainda que se enquadre em qualquer das hipóteses de obrigatoriedade de apresentação da Declaração de Ajuste Anual para o residente no Brasil, está obrigado a apresentá-la?",
+  "reference": "['A pessoa física não residente no Brasil não pode apresentar Declaração de Ajuste Anual (DAA) no Brasil.']",
+  "candidate": "\"Não, uma pessoa física não residente no Brasil não está obrigada a apresentar a Declaração de Ajuste Anual do Imposto de Renda, mesmo que se enquadre em situações que, para residentes, exigiriam a apresentação da declaração. A obrigatoriedade da Declaração de Ajuste Anual aplica-se apenas às pessoas físicas residentes no país. Para oficializar a condição de não residente, é necessário comunicar a saída definitiva do país à Receita Federal. Isso é feito por meio da Comunicação de Saída Definitiva do País, que deve ser apresentada a partir da data de saída até o último dia de fevereiro do ano seguinte. Além disso, deve-se entregar a Declaração de Saída Definitiva do País no prazo regulamentar para a Declaração de Ajuste Anual referente ao ano-calendário da saída. citeturn0search1 Após a entrega desses documentos, a pessoa física é considerada não residente para fins fiscais e, portanto, não está sujeita às obrigações tributárias destinadas aos residentes, incluindo a apresentação da Declaração de Ajuste Anual. É importante destacar que, mesmo como não residente, caso a pessoa física obtenha rendimentos de fontes situadas no Brasil, esses rendimentos estarão sujeitos à tributação exclusiva na fonte, conforme as alíquotas específicas para não residentes. Nesses casos, a responsabilidade pelo recolhimento do imposto é da fonte pagadora no Brasil. Para mais informações, consulte o [site da Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/dsdp/nao-residente). \"",
+  "answer_relevancy": 0.8223143481533333,
+  "answer_correctness": 0.46,
+  "semantic_similarity": 0.7795632692087555,
+  "bleu": 0.19858659849836868,
+  "rouge1_precision": 0.06934306569343066,
+  "rouge1_recall": 0.9047619047619048,
+  "rouge1_fmeasure": 0.1288135593220339,
+  "rouge2_precision": 0.054945054945054944,
+  "rouge2_recall": 0.75,
+  "rouge2_fmeasure": 0.10238907849829351,
+  "rougeL_precision": 0.06569343065693431,
+  "rougeL_recall": 0.8571428571428571,
+  "rougeL_fmeasure": 0.12203389830508475
+}

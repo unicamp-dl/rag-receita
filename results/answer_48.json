@@ -1,0 +1,19 @@
+{
+  "question_number": "48",
+  "question_text": "Como proceder quando a declaração retificadora for relativa a exercícios anteriores?",
+  "reference": "['O contribuinte deve apresentar declaração preenchida no programa IRPF correspondente ao exercício que', 'deseja retificar, não sendo admitida a retificação que tenha por objetivo a troca da opção por outra forma de', 'tributação.', 'Atenção:', 'O contribuinte deve fazer o download, no site da RFB na Internet, no endereço', 'http://www.gov.br/receitafederal/pt-br, do programa relativo ao ano-calendário correspondente e', 'após preencher e retificar a declaração de acordo com as instruções vigentes para aquele ano,', 'deve apresentá-la pela Internet, mediante utilização do programa de transmissão Receitanet ou, a', 'partir do exercício de 2017, no respectivo programa IRPF na opção “Entregar Declaração”, ou,', 'ainda, em mídia removível, nas unidades da RFB.', '(Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 83)', 'Consulte as perguntas 042 e 045']",
+  "candidate": "Quando a declaração retificadora for relativa a exercícios anteriores, o contribuinte deve utilizar o Programa Gerador da Declaração (PGD) correspondente ao ano-calendário a ser retificado ou acessar o portal e-CAC no site da Receita Federal, caso o ano seja compatível com essa opção. Durante a retificação, é necessário informar o número do recibo da declaração original e manter o mesmo modelo de tributação (completo ou simplificado), pois essa opção não pode ser alterada após o prazo de entrega. Se a declaração original estiver sob fiscalização, a retificação não será permitida.",
+  "answer_relevancy": 0.761253711156684,
+  "answer_correctness": 0.27,
+  "semantic_similarity": 0.7881958945409886,
+  "bleu": 0.06266221810881521,
+  "rouge1_precision": 0.5137614678899083,
+  "rouge1_recall": 0.36363636363636365,
+  "rouge1_fmeasure": 0.4258555133079848,
+  "rouge2_precision": 0.19444444444444445,
+  "rouge2_recall": 0.13725490196078433,
+  "rouge2_fmeasure": 0.16091954022988506,
+  "rougeL_precision": 0.25688073394495414,
+  "rougeL_recall": 0.18181818181818182,
+  "rougeL_fmeasure": 0.2129277566539924
+}

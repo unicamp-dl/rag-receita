@@ -1,0 +1,19 @@
+{
+  "question_number": "162",
+  "question_text": "Qual é o tratamento tributário para a pessoa física residente no Brasil, mas que se ausentou do território nacional para prestar serviços no exterior, em relação aos rendimentos recebidos, em moeda estrangeira, de autarquias ou repartições do governo brasileiro situados no exterior?",
+  "reference": "['Os rendimentos do trabalho assalariado, pagos por autarquias ou repartições do governo brasileiro situados', 'no exterior, em moeda estrangeira, são tributados da mesma forma que os rendimentos recebidos de fonte', 'brasileira pelos residentes no Brasil, porém são considerados tributáveis apenas 25% do valor total de tais', 'rendimentos (os 75% restantes são informados como rendimentos não tributáveis).', '(Lei nº 9.250, de 26 de dezembro de 1995, art. 5º, § 3º; Regulamento do Imposto sobre a Renda -', 'RIR/2018, arts. 15, 37 e 684, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018;', 'Instrução Normativa SRF nº 208, de 27 de setembro de 2002, arts. 12, 17 e 18; e Instrução', 'Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 28)', 'Consulte as perguntas 163, 164 e 170']",
+  "candidate": "\"Para uma pessoa física residente no Brasil que se ausenta temporariamente para prestar serviços no exterior, os rendimentos recebidos em moeda estrangeira de autarquias ou repartições do governo brasileiro situadas no exterior são isentos de Imposto de Renda. Essa isenção está prevista no artigo 7º do Decreto-Lei nº 1.380/1974, que estabelece: \"\"Art 7º Estão isentos do imposto de que trata o artigo 77, da Lei número 3.470, de 28 de novembro de 1958, os rendimentos pagos a pessoas físicas residentes ou domiciliadas no Brasil, quando provenientes de autarquias ou repartições do governo brasileiro situadas no exterior.\"\" PLANALTO.GOV.BR Portanto, mesmo durante a ausência temporária, se o contribuinte mantiver a condição de residente fiscal no Brasil, esses rendimentos não estarão sujeitos à tributação pelo Imposto de Renda. É importante que o contribuinte declare tais rendimentos na ficha \"\"Rendimentos Isentos e Não Tributáveis\"\" da Declaração de Ajuste Anual do Imposto de Renda Pessoa Física, especificando a natureza e a fonte pagadora dos valores recebidos. Além disso, a Instrução Normativa SRF nº 208/2002 dispõe que a pessoa física que se ausentar do Brasil em caráter temporário e permanecer no exterior por mais de 12 meses consecutivos continuará sendo considerada residente nos primeiros 12 meses de ausência. Após esse período, será considerada não residente para fins tributários. NORMAS.RECEITA.FAZENDA.GOV.BR Portanto, durante os primeiros 12 meses de ausência, os rendimentos mencionados permanecem isentos. Após esse período, caso o contribuinte seja considerado não residente, a tributação seguirá as normas aplicáveis a não residentes. Recomenda-se que o contribuinte mantenha registros detalhados dos rendimentos recebidos e, se necessário, consulte um profissional especializado em direito tributário para orientações específicas conforme sua situação.\"",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.32,
+  "semantic_similarity": 0.7802769358062727,
+  "bleu": 0.2134620996026064,
+  "rouge1_precision": 0.2786377708978328,
+  "rouge1_recall": 0.6338028169014085,
+  "rouge1_fmeasure": 0.38709677419354843,
+  "rouge2_precision": 0.09316770186335403,
+  "rouge2_recall": 0.2127659574468085,
+  "rouge2_fmeasure": 0.12958963282937364,
+  "rougeL_precision": 0.14860681114551083,
+  "rougeL_recall": 0.3380281690140845,
+  "rougeL_fmeasure": 0.2064516129032258
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "60",
+  "question_text": "Como deve proceder o contribuinte que perdeu a cópia da Declaração de Ajuste Anual do ano anterior e não tem dados para preencher a Declaração de Bens e Direitos?",
+  "reference": "['O contribuinte pode obter a cópia da Declaração de Ajuste Anual (DAA) mediante acesso ao site da Secretaria', 'Especial da Receita Federal do Brasil (RFB) na Internet, utilizando a opção “Portal e-CAC”.', 'O acesso ao referido Portal pode se dar por meio de a) acesso gov.br (utilizando Identidade Digital Ouro ou', 'Prata; ou b) certificado digital. Uma vez identificado no Portal e-CAC, siga os seguintes passos:', '- clique no Menu “Declarações e Demonstrativos”;', '- clique no item “Cópia de Declaração”; e', '- clique em “DIRPF- Declaração do Imposto de Renda de Pessoa Física.', 'Também é possível solicitar a cópia da DAA do ano anterior na unidade da RFB de sua jurisdição fiscal.', 'Os pedidos de cópias de quaisquer documentos estão sujeitos ao recolhimento prévio de taxa específica para', 'ressarcimento de despesas, que deve ser recolhida por meio de Darf, utilizando-se do código 3292.', 'Atenção:', 'Pedido de cópia de declaração não enseja prorrogação de prazo para apresentação.']",
+  "candidate": "\"Se você perdeu a cópia da sua Declaração de Ajuste Anual do ano anterior e não possui os dados necessários para preencher a Declaração de Bens e Direitos, é possível recuperar essas informações através dos seguintes passos: Acesse o Centro Virtual de Atendimento ao Contribuinte (e-CAC): Entre no portal e-CAC da Receita Federal: https://cav.receita.fazenda.gov.br/autenticacao/login Faça o login utilizando sua conta gov.br nos níveis prata ou ouro. Caso ainda não possua, será necessário criar uma e elevar o nível de segurança. Recupere a Declaração Anterior: Após o login, selecione a opção \"\"Meu Imposto de Renda\"\". Clique em \"\"Cópia de Declaração\"\" e escolha o ano-exercício desejado para baixar a declaração correspondente. Caso não consiga acessar o e-CAC ou prefira outra forma, é possível recuperar o arquivo da declaração diretamente no seu computador, desde que o programa da Receita Federal utilizado para a declaração anterior ainda esteja instalado: Localize o Arquivo da Declaração no Computador: No seu computador, navegue até o diretório onde o programa do IRPF está instalado. O caminho padrão geralmente é: C:\\Arquivos de Programas RFB\\IRPF20XX\\transmitidas, onde \"\"20XX\"\" representa o ano da declaração. Dentro da pasta \"\"transmitidas\"\", procure pelo arquivo com extensão .DEC, que corresponde à sua declaração enviada. Se nenhuma das opções acima for viável, você pode solicitar uma cópia da declaração diretamente em uma unidade de atendimento da Receita Federal: Atendimento Presencial: Agende um horário em uma unidade da Receita Federal através do site: https://servicos.receita.fazenda.gov.br/Servicos/saga/agendamento/ No dia agendado, compareça à unidade com um documento oficial de identificação e, preferencialmente, um dispositivo de armazenamento (como um pendrive) para salvar a cópia da declaração.\"",
+  "answer_relevancy": 0.7934093592242027,
+  "answer_correctness": 0.43,
+  "semantic_similarity": 0.8405610629137025,
+  "bleu": 0.0889638026372586,
+  "rouge1_precision": 0.3136645962732919,
+  "rouge1_recall": 0.5642458100558659,
+  "rouge1_fmeasure": 0.4031936127744511,
+  "rouge2_precision": 0.12461059190031153,
+  "rouge2_recall": 0.2247191011235955,
+  "rouge2_fmeasure": 0.16032064128256512,
+  "rougeL_precision": 0.16459627329192547,
+  "rougeL_recall": 0.29608938547486036,
+  "rougeL_fmeasure": 0.21157684630738527
+}

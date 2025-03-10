@@ -1,0 +1,19 @@
+{
+  "question_number": "83",
+  "question_text": "Como deve declarar o contribuinte viúvo no decorrer do inventário?",
+  "reference": "['No curso do inventário, apresenta declaração com o número de inscrição no Cadastro de Pessoas Físicas', '(CPF) próprio, abrangendo bens e rendimentos próprios e os provenientes de bens não integrantes do', 'inventário do cônjuge falecido. O viúvo pode optar por tributar 50% dos rendimentos produzidos pelos bens', 'comuns na sua declaração ou integralmente na declaração do espólio.']",
+  "candidate": "\"Quando ocorre o falecimento de um cônjuge, o conjunto de bens, direitos e obrigações deixados por ele constitui o espólio, que permanece até a conclusão do inventário e a partilha dos bens entre os herdeiros. Durante esse período, é necessário apresentar anualmente a Declaração de Ajuste Anual do Imposto de Renda, tanto para o espólio quanto para o cônjuge sobrevivente. **Declaração do Espólio:** O inventariante, responsável pelo espólio, deve apresentar a declaração em nome do falecido, incluindo todos os rendimentos e bens pertencentes ao espólio. Isso abrange os rendimentos produzidos pelos bens comuns do casal. É possível optar por tributar 50% desses rendimentos na declaração do cônjuge sobrevivente e os outros 50% na declaração do espólio, ou tributar 100% dos rendimentos na declaração do espólio. Essa escolha deve ser mantida consistentemente durante todo o processo de inventário. citeturn0search7 **Declaração do Cônjuge Sobrevivente:** O cônjuge sobrevivente deve apresentar sua própria declaração de Imposto de Renda, incluindo: - **Rendimentos Próprios:** Como salários, aposentadorias ou pensões. - **Rendimentos de Bens Particulares:** Rendimentos provenientes de bens que não fazem parte do espólio. - **Parte dos Rendimentos dos Bens Comuns:** Caso tenha optado por tributar 50% dos rendimentos dos bens comuns na sua declaração. Além disso, o cônjuge sobrevivente deve declarar os bens que já eram de sua propriedade antes do falecimento e sua parte nos bens comuns, conforme a opção de tributação escolhida. citeturn0search7 **Considerações Importantes:** - **Dependentes:** Se houver dependentes em comum, é necessário decidir em qual declaração eles serão incluídos, evitando duplicidade. - **Despesas Deduções:** Despesas com educação, saúde e outras deduções relacionadas aos dependentes devem ser declaradas na mesma declaração em que os dependentes foram incluídos. - **Pensão por Morte:** Se o cônjuge sobrevivente recebe pensão por morte, esse rendimento deve ser incluído em sua declaração como rendimento tributável. É fundamental manter registros detalhados de todos os rendimentos, bens e despesas durante o período do inventário para assegurar a conformidade com as obrigações fiscais e evitar possíveis inconsistências. Para orientações específicas e atualizadas, recomenda-se consultar as instruções da Receita Federal ou buscar a assistência de um profissional especializado em contabilidade ou direito tributário. Para uma compreensão mais detalhada sobre o assunto, você pode assistir ao seguinte vídeo: [COMO DECLARAR O IMPOSTO DE RENDA DA PESSOA QUE FALECEU?](https://www.youtube.com/watch?v=Ao-jSd5hA1Y) \"",
+  "answer_relevancy": 0.6538889660049269,
+  "answer_correctness": 0.21,
+  "semantic_similarity": 0.8133193877378513,
+  "bleu": 0.034571331108197316,
+  "rouge1_precision": 0.12134831460674157,
+  "rouge1_recall": 0.7605633802816901,
+  "rouge1_fmeasure": 0.20930232558139536,
+  "rouge2_precision": 0.07207207207207207,
+  "rouge2_recall": 0.45714285714285713,
+  "rouge2_fmeasure": 0.1245136186770428,
+  "rougeL_precision": 0.07640449438202247,
+  "rougeL_recall": 0.4788732394366197,
+  "rougeL_fmeasure": 0.13178294573643412
+}

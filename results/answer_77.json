@@ -1,0 +1,19 @@
+{
+  "question_number": "77",
+  "question_text": "Como declara o contribuinte casado?",
+  "reference": "['O contribuinte casado apresenta declaração em separado ou, opcionalmente, em conjunto com o cônjuge.', 'Declaração em Separado', 'a) cada cônjuge deve incluir na sua declaração o total dos rendimentos próprios e 50% dos rendimentos', 'produzidos pelos bens comuns, compensando 50% do imposto pago ou retido sobre esses rendimentos,', 'independentemente de qual dos cônjuges tenha sofrido a retenção ou efetuado o recolhimento; ou', 'b) um dos cônjuges inclui na sua declaração seus rendimentos próprios e o total dos rendimentos produzidos', 'pelos bens comuns, compensando o valor do imposto pago ou retido na fonte, independentemente de qual', 'dos cônjuges tenha sofrido a retenção ou efetuado o recolhimento.', 'Os dependentes comuns não podem constar simultaneamente nas declarações de ambos os cônjuges.', 'Verifique as instruções de preenchimento da Declaração de Bens e Direitos, relativamente aos bens privativos', 'e bens comuns, constantes do Ajuda do programa IRPF 2024.', 'Declaração em conjunto', 'É apresentada em nome de um dos cônjuges, abrangendo todos os rendimentos, inclusive os provenientes', 'de bens gravados com cláusula de incomunicabilidade ou inalienabilidade, e das pensões de gozo privativo.', 'A declaração em conjunto supre a obrigatoriedade da apresentação da Declaração de Ajuste Anual (DAA) a', 'que porventura estiver sujeito o outro cônjuge.']",
+  "candidate": "\"Contribuintes casados no Brasil têm duas opções para declarar o Imposto de Renda: em separado ou em conjunto. A escolha depende da situação financeira do casal e pode influenciar no valor do imposto devido ou na restituição a receber. Declaração em Separado: Cada cônjuge apresenta sua própria declaração, informando individualmente seus rendimentos, despesas dedutíveis e bens. Nessa modalidade, é importante que os dependentes comuns sejam incluídos apenas em uma das declarações, evitando duplicidade. Além disso, os bens comuns podem ser declarados por um dos cônjuges, enquanto o outro indica na ficha \"\"Bens e Direitos\"\" que tais bens estão na declaração do parceiro, informando nome e CPF. ECONOMIA.UOL.COM.BR Declaração em Conjunto: Um dos cônjuges é designado como titular da declaração, e o outro é incluído como dependente. Nesse caso, todos os rendimentos de ambos devem ser somados, assim como as despesas dedutíveis, como gastos com educação e saúde. Essa opção pode ser vantajosa quando um dos cônjuges possui rendimentos baixos ou despesas dedutíveis significativas, pois permite uma maior redução na base de cálculo do imposto. NOTICIAS.IOB.COM.BR Quem Pode Declarar em Conjunto: Casais oficialmente casados; Pessoas que vivem em união estável há mais de cinco anos; Casais com filhos em comum, independentemente do tempo de união. CONTABEIS.COM.BR Para determinar a opção mais vantajosa, é recomendável que o casal faça simulações utilizando o programa da Receita Federal, comparando os resultados das declarações em separado e em conjunto. Isso ajudará a identificar qual modalidade resulta em menor imposto a pagar ou maior restituição a receber.\"",
+  "answer_relevancy": 0.7805076434841407,
+  "answer_correctness": 0.49,
+  "semantic_similarity": 0.8480939375400858,
+  "bleu": 1.147304506332465e-06,
+  "rouge1_precision": 0.42955326460481097,
+  "rouge1_recall": 0.5580357142857143,
+  "rouge1_fmeasure": 0.4854368932038835,
+  "rouge2_precision": 0.1413793103448276,
+  "rouge2_recall": 0.18385650224215247,
+  "rouge2_fmeasure": 0.15984405458089668,
+  "rougeL_precision": 0.21649484536082475,
+  "rougeL_recall": 0.28125,
+  "rougeL_fmeasure": 0.2446601941747573
+}

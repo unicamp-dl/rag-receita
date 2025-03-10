@@ -1,0 +1,19 @@
+{
+  "question_number": "90",
+  "question_text": "O que é espólio?",
+  "reference": "['Espólio é o conjunto de bens, direitos e obrigações da pessoa falecida. É contribuinte distinto do meeiro, dos', 'herdeiros e dos legatários.', '(Instrução Normativa SRF nº 81, de 11 de outubro de 2001, art. 2º)']",
+  "candidate": "\"Espólio é o conjunto de bens, direitos e obrigações deixados por uma pessoa após seu falecimento. Isso inclui propriedades como imóveis, veículos, investimentos financeiros, saldos bancários, além de dívidas e responsabilidades pendentes. Em termos jurídicos, o espólio representa o patrimônio total do falecido que será objeto de inventário e posterior partilha entre os herdeiros legais. citeturn0search4 A administração do espólio é realizada por meio de um processo chamado inventário, que pode ser judicial ou extrajudicial, dependendo das circunstâncias. Durante o inventário, é nomeado um inventariante, geralmente um herdeiro ou pessoa de confiança, responsável por gerenciar o espólio até a conclusão da partilha. Esse processo é fundamental para garantir que todos os bens sejam corretamente avaliados, as dívidas quitadas e a distribuição aos herdeiros seja feita de acordo com a legislação vigente ou conforme disposto em testamento, se houver. citeturn0search5 É importante destacar que, enquanto o inventário não é finalizado, o espólio é considerado uma entidade jurídica distinta, com obrigações tributárias próprias. Por exemplo, é necessário realizar declarações de Imposto de Renda específicas para o espólio durante o período de administração dos bens. citeturn0search0 A compreensão do conceito de espólio é essencial para lidar adequadamente com questões de sucessão patrimonial, garantindo uma transição justa e legal dos bens do falecido para seus herdeiros. \"",
+  "answer_relevancy": 0.7260877515547056,
+  "answer_correctness": 0.37,
+  "semantic_similarity": 0.829989493348166,
+  "bleu": 0.4624892603869298,
+  "rouge1_precision": 0.09274193548387097,
+  "rouge1_recall": 0.6216216216216216,
+  "rouge1_fmeasure": 0.16140350877192983,
+  "rouge2_precision": 0.03643724696356275,
+  "rouge2_recall": 0.25,
+  "rouge2_fmeasure": 0.0636042402826855,
+  "rougeL_precision": 0.07661290322580645,
+  "rougeL_recall": 0.5135135135135135,
+  "rougeL_fmeasure": 0.13333333333333333
+}

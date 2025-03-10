@@ -1,0 +1,19 @@
+{
+  "question_number": "42",
+  "question_text": "Como apresentar as declarações de anos anteriores?",
+  "reference": "['Utilize o programa relativo ao exercício correspondente à declaração, disponível na Internet, no site da', 'Secretaria Especial da Receita Federal do Brasil (RFB), no endereço http://www.gov.br/receitafederal/pt-br,', '(acesso a partir do menu principal, procure por “O que você procura?”; depois por \"Entregar Meu Imposto de', 'Renda”; e na sequência: “Etapas para a realização deste serviço”, “Baixar o programa”, em “Anos Anteriores”)', 'siga as orientações para download constantes no site da RFB na Internet.', 'As declarações de exercícios anteriores devem ser apresentadas pela Internet ou entregues em mídia', 'removível nas unidades da RFB.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 7º)']",
+  "candidate": "As declarações de anos anteriores podem ser apresentadas eletronicamente por meio do Programa Gerador da Declaração (PGD) específico para cada ano, disponível no site da Receita Federal, ou pelo portal e-CAC no serviço \"Meu Imposto de Renda\", se o ano desejado for compatível. Também é possível utilizar o aplicativo \"Meu Imposto de Renda\" para dispositivos móveis, dependendo do exercício a ser transmitido. Caso a declaração esteja em atraso, o envio gerará automaticamente a Notificação de Lançamento da Multa por Atraso na Entrega da Declaração (MAED), que deve ser paga dentro do prazo para evitar acréscimos.",
+  "answer_relevancy": 0.9342636014698208,
+  "answer_correctness": 0.24,
+  "semantic_similarity": 0.7719468769808191,
+  "bleu": 0.07906552205912004,
+  "rouge1_precision": 0.4818181818181818,
+  "rouge1_recall": 0.4274193548387097,
+  "rouge1_fmeasure": 0.452991452991453,
+  "rouge2_precision": 0.1559633027522936,
+  "rouge2_recall": 0.13821138211382114,
+  "rouge2_fmeasure": 0.14655172413793102,
+  "rougeL_precision": 0.23636363636363636,
+  "rougeL_recall": 0.20967741935483872,
+  "rougeL_fmeasure": 0.2222222222222222
+}

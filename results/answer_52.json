@@ -1,0 +1,19 @@
+{
+  "question_number": "52",
+  "question_text": "Contribuinte, com 65 anos ou mais, que não utilizou na declaração a parcela de isenção mensal relativa aos proventos de aposentadoria ou pensão a que tem direito, pode retificar a sua declaração para se utilizar desse benefício?",
+  "reference": "['Sim. O contribuinte pode retificar a declaração a fim de se beneficiar da isenção legal sobre os proventos de', 'aposentadoria ou pensão, até o valor permitido na legislação.', 'Atenção:', 'A parcela isenta na declaração está limitada a até R$ 1.903,98, por mês, no ano-calendário de', '2023, a partir do mês em que o contribuinte completar 65 anos.', 'Portanto, se o declarante com 65 anos ou mais receber, referente a proventos de aposentadoria,', 'reserva remunerada, reforma ou pensão, valor superior a R$ 1.903,98 ao mês, a parcela que', 'ultrapassar esse limite deverá ser informada como rendimento tributável, na ficha “Rend. Trib.', 'Receb. De Pessoa Jurídica”.', '(Lei nº 7.713, de 22 de dezembro de 1988, art. 6º, inciso XV)', 'Consulte as perguntas 018, 045 e 250']",
+  "candidate": "\"Sim, o contribuinte com 65 anos ou mais que não utilizou, em sua declaração original, a parcela de isenção mensal relativa aos proventos de aposentadoria ou pensão pode retificar a declaração para incluir esse benefício. A legislação brasileira prevê que aposentados e pensionistas a partir dessa idade têm direito a uma parcela isenta de Imposto de Renda sobre seus proventos, limitada a R$ 1.903,98 por mês, totalizando R$ 24.751,74 anuais, incluindo o 13º salário. GOV.BR Para corrigir a omissão, é necessário enviar uma Declaração Retificadora, mantendo o mesmo modelo (simplificado ou completo) da declaração original. A retificação pode ser realizada a qualquer momento dentro do prazo de cinco anos, contados a partir do primeiro dia do exercício seguinte ao qual se refere a declaração. No entanto, recomenda-se efetuar a retificação o mais breve possível para evitar possíveis complicações com a Receita Federal. GOV.BR Ao preencher a declaração retificadora, o contribuinte deve informar a parcela isenta na ficha \"\"Rendimentos Isentos e Não Tributáveis\"\", utilizando o código específico para \"\"Parcela isenta de proventos de aposentadoria, reserva remunerada, reforma e pensão de declarante com 65 anos ou mais\"\". O valor que exceder o limite de isenção deve ser declarado na ficha \"\"Rendimentos Tributáveis Recebidos de Pessoa Jurídica\"\". GOV.BR\"",
+  "answer_relevancy": 0.671705418811507,
+  "answer_correctness": 0.67,
+  "semantic_similarity": 0.878826703835129,
+  "bleu": 0.24719717067792044,
+  "rouge1_precision": 0.39669421487603307,
+  "rouge1_recall": 0.6713286713286714,
+  "rouge1_fmeasure": 0.4987012987012988,
+  "rouge2_precision": 0.1950207468879668,
+  "rouge2_recall": 0.33098591549295775,
+  "rouge2_fmeasure": 0.2454308093994778,
+  "rougeL_precision": 0.2396694214876033,
+  "rougeL_recall": 0.40559440559440557,
+  "rougeL_fmeasure": 0.3012987012987013
+}

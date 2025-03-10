@@ -1,0 +1,19 @@
+{
+  "question_number": "21",
+  "question_text": "Qual é o prazo de apresentação da Declaração de Ajuste Anual do exercício de 2024?",
+  "reference": "['A Declaração de Ajuste Anual (DAA) deve ser apresentada no período de 15 de março a 31 de maio de 2024.', 'O serviço de recepção da declaração, pela Internet, será interrompido às 23h59min59s (vinte e três horas,', 'cinquenta e nove minutos e cinquenta e nove segundos), horário de Brasília, do último dia do prazo', 'estabelecido.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 7º)']",
+  "candidate": "\"O prazo para a entrega da Declaração de Ajuste Anual do Imposto de Renda Pessoa Física (IRPF) referente ao exercício de 2024, ano-base 2023, iniciou-se em 15 de março de 2024 e encerrou-se em 31 de maio de 2024. citeturn0search2 Para o exercício de 2025, ano-base 2024, a Receita Federal ainda não divulgou oficialmente as datas para a entrega da declaração. Historicamente, o período de entrega ocorre entre março e maio. Recomenda-se que os contribuintes fiquem atentos às publicações oficiais da Receita Federal para obter informações atualizadas sobre os prazos e eventuais alterações nas regras de declaração. \"",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.4,
+  "semantic_similarity": 0.6942153240902529,
+  "bleu": 0.23751179252533117,
+  "rouge1_precision": 0.35344827586206895,
+  "rouge1_recall": 0.5125,
+  "rouge1_fmeasure": 0.4183673469387755,
+  "rouge2_precision": 0.1565217391304348,
+  "rouge2_recall": 0.22784810126582278,
+  "rouge2_fmeasure": 0.18556701030927839,
+  "rougeL_precision": 0.23275862068965517,
+  "rougeL_recall": 0.3375,
+  "rougeL_fmeasure": 0.2755102040816327
+}

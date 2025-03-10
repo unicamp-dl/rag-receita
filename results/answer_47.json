@@ -1,0 +1,19 @@
+{
+  "question_number": "47",
+  "question_text": "O contribuinte pode retificar a sua declaração, relativa ao ano-calendário de 2023, a fim de incluir ou alterar os prejuízos acumulados na atividade rural ainda que tenha optado pelo desconto simplificado?",
+  "reference": "['Sim. Entretanto, após o prazo para a apresentação da declaração, não será admitida a mudança na forma de', 'tributação de declaração já apresentada.', '(Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 83; e Instrução Normativa RFB', 'nº 2.178, de 5 de março de 2024, art. 9º, § 3º)']",
+  "candidate": "\"Sim, o contribuinte pode retificar sua Declaração de Ajuste Anual referente ao ano-calendário de 2023 para incluir ou alterar os prejuízos acumulados na atividade rural, mesmo que tenha optado pelo desconto simplificado. No entanto, é importante destacar que, após o prazo final para a entrega da declaração, não é permitido alterar a forma de tributação escolhida originalmente. Portanto, a retificação deve ser realizada mantendo o modelo de declaração inicialmente selecionado, seja ele o completo ou o simplificado. STJ.JUS.BR Além disso, o prazo para retificar a declaração é de até cinco anos, contados a partir do primeiro dia do exercício seguinte ao qual se refere a declaração. Contudo, recomenda-se que a retificação seja efetuada o mais breve possível para evitar possíveis complicações com a Receita Federal. ECONOMIA.UOL.COM.BR Portanto, se você optou pelo desconto simplificado na declaração original, poderá incluir ou alterar os prejuízos acumulados na atividade rural por meio de uma declaração retificadora, desde que mantenha a forma de tributação inicialmente escolhida.\"",
+  "answer_relevancy": 0.9528540351932332,
+  "answer_correctness": 0.14,
+  "semantic_similarity": 0.6330675453085538,
+  "bleu": 0.01328162067882461,
+  "rouge1_precision": 0.17204301075268819,
+  "rouge1_recall": 0.5079365079365079,
+  "rouge1_fmeasure": 0.2570281124497992,
+  "rouge2_precision": 0.08648648648648649,
+  "rouge2_recall": 0.25806451612903225,
+  "rouge2_fmeasure": 0.12955465587044535,
+  "rougeL_precision": 0.13978494623655913,
+  "rougeL_recall": 0.4126984126984127,
+  "rougeL_fmeasure": 0.2088353413654618
+}

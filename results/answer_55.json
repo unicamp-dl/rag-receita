@@ -1,0 +1,19 @@
+{
+  "question_number": "55",
+  "question_text": "Qual é o procedimento a ser adotado pela pessoa física quando a fonte pagadora não lhe fornecer o comprovante de rendimentos ou fornecê-lo com inexatidão?",
+  "reference": "['A fonte pagadora, pessoa física ou jurídica, deve fornecer à pessoa física beneficiária, até o último dia útil do', 'mês de fevereiro do ano subsequente àquele a que se referirem os rendimentos ou por ocasião da rescisão', 'do contrato de trabalho, se esta ocorrer antes da referida data, documentos comprobatórios, em uma via, com', 'indicação da natureza e do montante do pagamento, das deduções e do imposto retido no ano-calendário de', '2023, conforme modelo oficial.', 'No caso de retenção na fonte e não fornecimento do comprovante, o contribuinte deve comunicar o fato à', 'unidade de atendimento da Secretaria Especial da Receita Federal do Brasil (RFB) de sua jurisdição, para as', 'medidas legais cabíveis.', 'Ocorrendo inexatidão nas informações, tais como salários que não foram pagos nem creditados no ano-', 'calendário ou rendimentos tributáveis e isentos computados em conjunto, o interessado deve solicitar à fonte', 'pagadora outro comprovante preenchido corretamente.', 'Na impossibilidade de correção, por motivo de força maior, o contribuinte pode utilizar os comprovantes de', 'pagamentos mensais, ficando sujeito à comprovação de suas alegações, a critério da autoridade lançadora.', 'É permitida a disponibilização, por meio da Internet, do comprovante para a pessoa física que possua', 'endereço eletrônico e, nesse caso, fica dispensado o fornecimento da via impressa.', '(Lei nº 9.779, de 19 de janeiro de 1999, art. 16; Instrução Normativa SRF nº 698, de 20 de dezembro', 'de 2006, arts. 1º e 2º; e Instrução Normativa RFB nº 2.060, de 13 de dezembro de 2021, arts. 2º a', '4º)']",
+  "candidate": "Se a fonte pagadora não fornecer o comprovante de rendimentos ou entregá-lo com inexatidão, a pessoa física deve, primeiramente, tentar obter o documento diretamente com a empresa, solicitando a correção, se necessário. Caso não consiga, pode estimar os valores com base nos contracheques, informes bancários e outros registros financeiros. Se houver imposto retido na fonte, ele pode ser conferido no e-CAC, acessando o \"Extrato da DIRF\" na aba \"Meu Imposto de Renda\". Se a fonte pagadora se recusar a fornecer o comprovante ou corrigir erros, o contribuinte pode denunciar a situação à Receita Federal.",
+  "answer_relevancy": 0.8498015749368694,
+  "answer_correctness": 0.24,
+  "semantic_similarity": 0.7639953757925753,
+  "bleu": 0.08619641763277563,
+  "rouge1_precision": 0.5728155339805825,
+  "rouge1_recall": 0.2114695340501792,
+  "rouge1_fmeasure": 0.3089005235602094,
+  "rouge2_precision": 0.16666666666666666,
+  "rouge2_recall": 0.06115107913669065,
+  "rouge2_fmeasure": 0.0894736842105263,
+  "rougeL_precision": 0.2912621359223301,
+  "rougeL_recall": 0.10752688172043011,
+  "rougeL_fmeasure": 0.1570680628272251
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "2",
+  "question_text": "Pessoa física desobrigada pode apresentar a Declaração de Ajuste Anual (DAA)?",
+  "reference": "['Sim. A pessoa física, ainda que desobrigada, pode apresentar a Declaração de Ajuste Anual (DAA), sendo', 'vedado a um mesmo contribuinte constar simultaneamente em mais de uma Declaração de Ajuste Anual, seja', 'como titular ou dependente, exceto nos casos de alteração na relação de dependência no ano-calendário de', '2023.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 2º, § 2º)', 'Consulte as perguntas 001 e 174']",
+  "candidate": "Sim, uma pessoa física que não está obrigada a apresentar a Declaração de Ajuste Anual (DAA) pode, ainda assim, optar por entregá-la voluntariamente. No entanto, é importante observar que um mesmo contribuinte não pode constar simultaneamente em mais de uma DAA, seja como titular ou dependente, exceto nos casos de alteração na relação de dependência durante o ano-calendário. Apresentar a declaração, mesmo quando desobrigado, pode ser vantajoso em algumas situações, como para facilitar a obtenção de empréstimos, financiamentos ou passaporte. Além disso, ao preencher a declaração, o contribuinte pode verificar se tem direito à restituição de imposto, caso tenha tido retenção na fonte ao longo do ano.",
+  "answer_relevancy": 0.8357917452225027,
+  "answer_correctness": 0.6,
+  "semantic_similarity": 0.8429430174909849,
+  "bleu": 0.35697839681514276,
+  "rouge1_precision": 0.43902439024390244,
+  "rouge1_recall": 0.675,
+  "rouge1_fmeasure": 0.5320197044334977,
+  "rouge2_precision": 0.30327868852459017,
+  "rouge2_recall": 0.46835443037974683,
+  "rouge2_fmeasure": 0.3681592039800995,
+  "rougeL_precision": 0.37398373983739835,
+  "rougeL_recall": 0.575,
+  "rougeL_fmeasure": 0.4532019704433497
+}

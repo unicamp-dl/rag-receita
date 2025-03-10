@@ -1,0 +1,19 @@
+{
+  "question_number": "49",
+  "question_text": "Como proceder quando a declaração retificadora do contribuinte implicar modificações na declaração do cônjuge ou companheiro?",
+  "reference": "['O cônjuge ou companheiro também deve apresentar declaração retificadora.', 'Consulte as perguntas 042 e 045']",
+  "candidate": "\"Quando uma declaração retificadora de um contribuinte resulta em alterações que afetam a declaração do cônjuge ou companheiro, é necessário que ambos procedam com a retificação de suas respectivas declarações para assegurar a consistência e a precisão das informações fornecidas à Receita Federal. Isso é especialmente relevante em casos onde há rendimentos ou deduções compartilhados, como dependentes comuns ou bens em comunhão. Para efetuar a retificação, cada cônjuge ou companheiro deve utilizar o número do recibo de entrega da declaração original e apresentar a declaração retificadora correspondente. É importante lembrar que, após o prazo regular de entrega da declaração, não é permitido alterar o modelo de tributação escolhido originalmente (simplificado ou completo). Portanto, quaisquer ajustes necessários devem ser realizados dentro do prazo estabelecido para a entrega da declaração original. Recomenda-se que as retificações sejam efetuadas o mais breve possível, a fim de evitar inconsistências e possíveis questionamentos futuros por parte da Receita Federal.\"",
+  "answer_relevancy": 0.9481300789304382,
+  "answer_correctness": 0.0,
+  "semantic_similarity": 0.7026246494142461,
+  "bleu": 0.04139535302907061,
+  "rouge1_precision": 0.06818181818181818,
+  "rouge1_recall": 0.6666666666666666,
+  "rouge1_fmeasure": 0.12371134020618554,
+  "rouge2_precision": 0.02857142857142857,
+  "rouge2_recall": 0.29411764705882354,
+  "rouge2_fmeasure": 0.05208333333333333,
+  "rougeL_precision": 0.06818181818181818,
+  "rougeL_recall": 0.6666666666666666,
+  "rougeL_fmeasure": 0.12371134020618554
+}

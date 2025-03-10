@@ -1,0 +1,19 @@
+{
+  "question_number": "56",
+  "question_text": "Contribuinte que auferiu rendimentos diversos, mas que não possui comprovantes de todas as fontes pagadoras, declara somente os rendimentos comprovados por documentos?",
+  "reference": "['O contribuinte deve oferecer à tributação todos os rendimentos tributáveis percebidos no ano-calendário, de', 'pessoas físicas ou jurídicas, mesmo que não tenha recebido comprovante das fontes pagadoras, ou que este', 'tenha se extraviado.', 'Se o contribuinte não tem o comprovante do desconto na fonte ou do rendimento percebido, deve solicitar à', 'fonte pagadora uma via original, a fim de guardá-la para futura comprovação. Se a fonte pagadora se recusar', 'a fornecer o documento pedido, o contribuinte deve comunicar o fato à unidade de atendimento da Secretaria', 'Especial da Receita Federal do Brasil (RFB) de sua jurisdição, para que a autoridade competente tome as', 'medidas legais que se fizerem necessárias.']",
+  "candidate": "Não, o contribuinte deve declarar todos os rendimentos tributáveis auferidos no ano-calendário, mesmo que não possua comprovantes de todas as fontes pagadoras. A ausência de documentos não exime o contribuinte da obrigação de informar integralmente seus rendimentos à Receita Federal. Para isso, é recomendável que o contribuinte solicite os comprovantes faltantes diretamente às fontes pagadoras. As empresas e instituições financeiras são obrigadas a fornecer esses documentos, e a não disponibilização pode acarretar penalidades para a fonte pagadora. Caso não seja possível obter os comprovantes, o contribuinte deve reunir todas as informações disponíveis, como extratos bancários, recibos e contratos, para estimar os valores recebidos e incluí-los na declaração. É importante manter registros detalhados dessas estimativas e dos esforços realizados para obter os comprovantes, pois, em caso de divergências ou questionamentos futuros, o contribuinte deverá apresentar justificativas e evidências que respaldem as informações declaradas. Lembre-se de que a omissão de rendimentos pode resultar em multas e outras penalidades. Portanto, a precisão e a completude das informações declaradas são essenciais para evitar problemas com o fisco.",
+  "answer_relevancy": 0.7825449332589547,
+  "answer_correctness": 0.32,
+  "semantic_similarity": 0.8005592193523187,
+  "bleu": 0.09489816024706127,
+  "rouge1_precision": 0.31155778894472363,
+  "rouge1_recall": 0.5254237288135594,
+  "rouge1_fmeasure": 0.39116719242902215,
+  "rouge2_precision": 0.11616161616161616,
+  "rouge2_recall": 0.19658119658119658,
+  "rouge2_fmeasure": 0.146031746031746,
+  "rougeL_precision": 0.20603015075376885,
+  "rougeL_recall": 0.3474576271186441,
+  "rougeL_fmeasure": 0.2586750788643533
+}

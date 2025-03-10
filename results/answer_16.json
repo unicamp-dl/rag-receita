@@ -1,0 +1,19 @@
+{
+  "question_number": "16",
+  "question_text": "O contribuinte que em 2023 recebeu rendimentos tributáveis na Declaração de Ajuste Anual e obteve receita da atividade rural, mas com resultado negativo (prejuízo), pode optar pelo desconto simplificado?",
+  "reference": "['Sim, ele pode optar pelo desconto simplificado na Declaração de Ajuste Anual e informar o prejuízo na ficha', 'Atividade Rural.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 3º)', 'Consulte a pergunta 443']",
+  "candidate": "Sim, o contribuinte que, em 2023, recebeu rendimentos tributáveis e obteve receita da atividade rural com resultado negativo (prejuízo) pode optar pelo desconto simplificado na Declaração de Ajuste Anual do exercício de 2024. No entanto, ao optar pelo desconto simplificado, o contribuinte fica impedido de compensar prejuízos da atividade rural de anos-calendário anteriores ou do próprio ano-calendário de 2023. A compensação de prejuízos só é permitida quando se utiliza o modelo completo da declaração, que contempla as deduções legais. Portanto, se o contribuinte pretende compensar prejuízos da atividade rural, é necessário optar pelo modelo completo da declaração. Caso contrário, ao escolher o desconto simplificado, a compensação desses prejuízos não será possível. Para mais informações, consulte o manual \"Perguntas e Respostas IRPF 2024\" da Receita Federal.",
+  "answer_relevancy": 0.0,
+  "answer_correctness": 0.43,
+  "semantic_similarity": 0.7775013034100894,
+  "bleu": 0.25380509179908045,
+  "rouge1_precision": 0.1917808219178082,
+  "rouge1_recall": 0.6666666666666666,
+  "rouge1_fmeasure": 0.2978723404255319,
+  "rouge2_precision": 0.09655172413793103,
+  "rouge2_recall": 0.34146341463414637,
+  "rouge2_fmeasure": 0.15053763440860213,
+  "rougeL_precision": 0.1506849315068493,
+  "rougeL_recall": 0.5238095238095238,
+  "rougeL_fmeasure": 0.2340425531914893
+}

@@ -1,0 +1,19 @@
+{
+  "question_number": "160",
+  "question_text": "Qual é o tratamento tributário dos rendimentos auferidos por diretores, suplentes, dirigentes ou empregados do Novo Banco de Desenvolvimento (NDB)?",
+  "reference": "['Os diretores, suplentes, dirigentes ou empregados do Novo Banco de Desenvolvimento (NDB), incluindo os', 'peritos em missão pelo NDB, têm direito à isenção tributária em relação a salários e emolumentos pagos pelo', 'NDB. A relação de funcionários contratados que fazem jus às isenções referidas acima deverá ser informada', 'pelo NDB à Secretaria Especial da Receita Federal do Brasil (RFB) conforme modelo constante no Anexo II', 'da Instrução Normativa SRF nº 208, de 27 de setembro de 2002.', '(Decreto nº 8.624, de 29 de dezembro de 2015; e Acordo sobre o Novo Banco de Desenvolvimento,', 'art. 34, “b”)']",
+  "candidate": "\"Os rendimentos auferidos por diretores, suplentes, dirigentes ou empregados do Novo Banco de Desenvolvimento (NDB) são isentos de Imposto de Renda no Brasil. Essa isenção abrange salários e emolumentos pagos pelo NDB, incluindo peritos em missão pelo Banco. A relação dos funcionários que têm direito a essa isenção deve ser informada pelo NDB à Secretaria Especial da Receita Federal do Brasil, conforme modelo estabelecido na legislação vigente. citeturn0search3 É importante notar que, embora esses rendimentos sejam isentos de tributação, os beneficiários devem cumprir as obrigações acessórias estabelecidas pela Receita Federal, como a apresentação da Declaração de Ajuste Anual do Imposto de Renda, quando aplicável. Para informações detalhadas sobre os procedimentos e requisitos para a concessão da isenção, recomenda-se consultar a legislação específica e as orientações disponíveis no site oficial da Receita Federal do Brasil. \"",
+  "answer_relevancy": 0.4668355167756495,
+  "answer_correctness": 0.33,
+  "semantic_similarity": 0.8965955359970796,
+  "bleu": 0.3269606813744362,
+  "rouge1_precision": 0.43312101910828027,
+  "rouge1_recall": 0.6415094339622641,
+  "rouge1_fmeasure": 0.5171102661596958,
+  "rouge2_precision": 0.25,
+  "rouge2_recall": 0.37142857142857144,
+  "rouge2_fmeasure": 0.2988505747126437,
+  "rougeL_precision": 0.3057324840764331,
+  "rougeL_recall": 0.4528301886792453,
+  "rougeL_fmeasure": 0.36501901140684406
+}

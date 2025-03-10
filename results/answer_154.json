@@ -1,0 +1,19 @@
+{
+  "question_number": "154",
+  "question_text": "Qual é o tratamento tributário dos rendimentos auferidos por funcionário da Agência Espacial Europeia (AEE)?",
+  "reference": "['Não estão sujeitos ao imposto sobre a renda no Brasil os rendimentos pagos pela AEE a seus funcionários,', 'desde que estes não sejam residentes no Brasil ou aqui não permaneçam por mais de 183 dias em cada', 'exercício financeiro.', '(Decreto nº 86.084, de 8 de junho de 1981, art. IX, 2)']",
+  "candidate": "\"Os rendimentos recebidos por funcionários da Agência Espacial Europeia (AEE) no Brasil são tratados da seguinte forma: **Funcionários estrangeiros:** - Os rendimentos pagos pela AEE a funcionários que não sejam residentes no Brasil não estão sujeitos ao Imposto de Renda brasileiro. citeturn0search2 **Funcionários brasileiros ou residentes no Brasil:** - Os rendimentos do trabalho assalariado recebidos por residentes no Brasil, provenientes de organismos internacionais como a AEE, são tributáveis e devem ser declarados como \"\"Rendimentos Tributáveis Recebidos de Pessoas Físicas e do Exterior\"\". citeturn0search1 É fundamental que os funcionários residentes no Brasil que recebam rendimentos da AEE cumpram suas obrigações fiscais, incluindo o recolhimento mensal do imposto por meio do Carnê-Leão e a declaração anual desses rendimentos no Imposto de Renda. \"",
+  "answer_relevancy": 0.8224201279459352,
+  "answer_correctness": 0.2,
+  "semantic_similarity": 0.7779949685802395,
+  "bleu": 0.15016622677593214,
+  "rouge1_precision": 0.24087591240875914,
+  "rouge1_recall": 0.559322033898305,
+  "rouge1_fmeasure": 0.336734693877551,
+  "rouge2_precision": 0.13970588235294118,
+  "rouge2_recall": 0.3275862068965517,
+  "rouge2_fmeasure": 0.1958762886597938,
+  "rougeL_precision": 0.1678832116788321,
+  "rougeL_recall": 0.3898305084745763,
+  "rougeL_fmeasure": 0.23469387755102042
+}

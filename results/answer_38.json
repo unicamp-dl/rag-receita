@@ -1,0 +1,19 @@
+{
+  "question_number": "38",
+  "question_text": "Quem deve transmitir a Declaração de Ajuste Anual do exercício de 2024 com a utilização de certificado digital ou com Identidade Digital Ouro ou Prata no portal gov.br?",
+  "reference": "['Deve transmitir a Declaração de Ajuste Anual (DAA), com a utilização de certificado digital ou Identidade Digital', 'Ouro ou Prata no portal gov.br, o contribuinte que se enquadrou, no ano-calendário de 2023, em pelo menos', 'uma das seguintes situações:', 'I - recebeu rendimentos:', 'a) tributáveis sujeitos ao ajuste anual, cuja soma foi superior a R$ 5.000.000,00 (cinco milhões de reais);', 'b) isentos e não tributáveis, cuja soma foi superior a R$ 5.000.000,00 (cinco milhões de reais);', 'c) sujeitos à tributação exclusiva ou definitiva, cuja soma foi superior a R$ 5.000.000,00 (cinco milhões de', 'reais); ou', 'II - realizou pagamentos de rendimentos a pessoas jurídicas, quando constituam dedução na declaração, ou', 'a pessoas físicas, quando constituam, ou não, dedução na declaração, cuja soma foi superior a', 'R$ 5.000.000,00 (cinco milhões de reais), em cada caso ou no total.', 'A Declaração de Ajuste Anual relativa a espólio, independentemente de ser inicial ou intermediária, ou a', 'Declaração Final de Espólio, que se enquadre nas hipóteses contidas nos itens I e II deve ser apresentada,', 'em mídia removível, em uma unidade da RFB, durante o seu horário de expediente, sem a necessidade de', 'utilização de certificado digital.', 'Atenção:', 'O disposto nas orientações constantes desta resposta não se aplica à DAA elaborada com a', 'utilização de computador, mediante acesso ao “Meu Imposto de Renda” de que trata o item “II” da', 'pergunta 026.', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 7º, §§ 3º a 5º)']",
+  "candidate": "Devem transmitir a Declaração de Ajuste Anual do exercício de 2024 com a utilização de certificado digital ou com Identidade Digital Ouro ou Prata no portal gov.br os contribuintes que receberam rendimentos tributáveis acima de R$ 5 milhões no ano-calendário de 2023, aqueles que optarem pela declaração pré-preenchida, os que realizarem doações aos fundos controlados pelos Conselhos dos Direitos da Criança e do Adolescente diretamente na declaração e aqueles que desejarem acessar informações pré-preenchidas da Receita Federal para facilitar o preenchimento e minimizar erros.",
+  "answer_relevancy": 0.8138237830729113,
+  "answer_correctness": 0.27,
+  "semantic_similarity": 0.8410629822346366,
+  "bleu": 0.2538356274156607,
+  "rouge1_precision": 0.5959595959595959,
+  "rouge1_recall": 0.20344827586206896,
+  "rouge1_fmeasure": 0.3033419023136247,
+  "rouge2_precision": 0.3469387755102041,
+  "rouge2_recall": 0.11764705882352941,
+  "rouge2_fmeasure": 0.17571059431524547,
+  "rougeL_precision": 0.45454545454545453,
+  "rougeL_recall": 0.15517241379310345,
+  "rougeL_fmeasure": 0.2313624678663239
+}

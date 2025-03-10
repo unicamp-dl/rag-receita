@@ -1,0 +1,19 @@
+{
+  "question_number": "99",
+  "question_text": "Os mesmos dependentes podem constar na Declaração Final de Espólio e também na Declaração de Ajuste Anual do meeiro?",
+  "reference": "['Nas declarações de espólio, inclusive na final, podem ser considerados dependentes o cônjuge ou convivente', 'sobrevivente e demais dependentes, desde que não tenham recebido rendimentos ou, caso os tenham', 'recebido, sejam os mesmos incluídos nas declarações de espólio.', 'No caso de encerramento de espólio, a relação de dependência entre os dependentes e o espólio termina', 'com a apresentação da Declaração Final de Espólio. Os dependentes nessa declaração podem ser, nesse', 'ano, dependentes também do meeiro, desde que preencham os requisitos legais para tanto.', '(Instrução Normativa SRF nº 81, de 11 de outubro de 2001, art. 14, inciso III)', 'Consulte as perguntas 335, 347 e 350']",
+  "candidate": "\"Sim, os mesmos dependentes podem ser incluídos tanto na Declaração Final de Espólio quanto na Declaração de Ajuste Anual do meeiro, desde que atendam aos requisitos legais para dependência em ambas as declarações. Isso significa que, se os dependentes preenchem as condições estabelecidas pela legislação tributária, podem ser considerados em ambas as declarações para fins de dedução. citeturn0search0 É importante ressaltar que, na Declaração Final de Espólio, todas as deduções devem ser detalhadas, pois não é permitido optar pelo desconto simplificado. Além disso, despesas como gastos com funeral, taxas, emolumentos e honorários advocatícios relacionados ao inventário não são dedutíveis, por falta de previsão legal. citeturn0search1 Para mais informações sobre a Declaração de Espólio, você pode assistir ao vídeo a seguir: videoSAIBA TUDO SOBRE DECLARAÇÃO DE ESPÓLIOturn0search6 \"",
+  "answer_relevancy": 0.902529211749649,
+  "answer_correctness": 0.12,
+  "semantic_similarity": 0.7922536005907825,
+  "bleu": 0.2002692631687732,
+  "rouge1_precision": 0.4012738853503185,
+  "rouge1_recall": 0.5163934426229508,
+  "rouge1_fmeasure": 0.45161290322580644,
+  "rouge2_precision": 0.1794871794871795,
+  "rouge2_recall": 0.23140495867768596,
+  "rouge2_fmeasure": 0.20216606498194944,
+  "rougeL_precision": 0.17834394904458598,
+  "rougeL_recall": 0.22950819672131148,
+  "rougeL_fmeasure": 0.20071684587813618
+}

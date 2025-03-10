@@ -1,0 +1,19 @@
+{
+  "question_number": "45",
+  "question_text": "Onde deve ser apresentada a declaração retificadora?",
+  "reference": "['Até 31 de maio de 2024, a declaração retificadora deve ser enviada pela Internet, mediante a utilização do', 'PGD ou mediante acesso ao “Meu Imposto de Renda” (disponível no site da RFB na Internet ou em aplicativos', 'da RFB para dispositivos móveis, tais como tablets e smartphones).', 'Após 31 de maio de 2024, além dos meios citados acima, também pode ser apresentada em mídia removível', 'nas unidades da Secretaria Especial da Receita Federal do Brasil (RFB), sem a interrupção do pagamento do', 'imposto.', 'Atenção:', 'A transmissão da Declaração de Ajuste Anual retificadora elaborada mediante utilização do PGD', 'pode ser feita também com a utilização do programa de transmissão Receitanet, disponível no site', 'da RFB (http://www.gov.br/receitafederal/pt-br).', '(Instrução Normativa RFB nº 2.178, de 5 de março de 2024, art. 9º)']",
+  "candidate": "A declaração retificadora deve ser apresentada exclusivamente por meio eletrônico, utilizando o mesmo canal em que a declaração original foi enviada. O contribuinte pode transmiti-la pelo Programa Gerador da Declaração (PGD) IRPF do respectivo ano, pelo portal e-CAC no site da Receita Federal ou pelo aplicativo \"Meu Imposto de Renda\" para dispositivos móveis. Caso a declaração original tenha sido enviada com certificado digital ou conta gov.br de nível prata ou ouro, a retificação também deverá seguir essa mesma forma de envio.",
+  "answer_relevancy": 0.9107334113034509,
+  "answer_correctness": 0.24,
+  "semantic_similarity": 0.8186426049124214,
+  "bleu": 0.15047149445189384,
+  "rouge1_precision": 0.5483870967741935,
+  "rouge1_recall": 0.32903225806451614,
+  "rouge1_fmeasure": 0.41129032258064513,
+  "rouge2_precision": 0.21739130434782608,
+  "rouge2_recall": 0.12987012987012986,
+  "rouge2_fmeasure": 0.16260162601626016,
+  "rougeL_precision": 0.2903225806451613,
+  "rougeL_recall": 0.17419354838709677,
+  "rougeL_fmeasure": 0.21774193548387097
+}

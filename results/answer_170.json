@@ -1,0 +1,19 @@
+{
+  "question_number": "170",
+  "question_text": "Como converter para reais os valores recebidos ou pagos em moeda estrangeira?",
+  "reference": "['Os rendimentos e o imposto pago no exterior devem ser convertidos em dólares dos Estados Unidos da', 'América, pelo valor fixado pela autoridade monetária do país de origem dos rendimentos para a data do', 'recebimento ou pagamento e, em seguida, em reais mediante utilização do valor do dólar fixado para compra', 'pelo Banco Central do Brasil para o último dia útil da primeira quinzena do mês anterior ao do recebimento do', 'rendimento.', 'As deduções referentes aos pagamentos efetuados em moeda estrangeira devem ser convertidas em dólar', 'dos Estados Unidos da América seu valor fixado pela autoridade monetária do país no qual as despesas foram', 'realizadas para a data do pagamento e, em seguida, em reais mediante utilização do valor do dólar fixado', 'para venda pelo Banco Central do Brasil para o último dia útil da primeira quinzena do mês anterior ao do', 'pagamento.', '(Instrução Normativa SRF nº 208, de 27 de setembro de 2002, art. 16, §§ 2º e 4º)']",
+  "candidate": "\"Para converter valores recebidos ou pagos em moeda estrangeira para reais, é necessário seguir as diretrizes estabelecidas pela Receita Federal do Brasil. A conversão deve ser realizada utilizando as taxas de câmbio oficiais divulgadas pelo Banco Central do Brasil. **Procedimentos para conversão:** 1. **Rendimentos Recebidos em Moeda Estrangeira:** - **Data da Conversão:** Os rendimentos devem ser convertidos para reais na data do recebimento. - **Taxa de Câmbio Aplicável:** Utilize a cotação de compra da moeda estrangeira, conforme divulgada pelo Banco Central do Brasil na data em que o rendimento foi recebido. 2. **Pagamentos Efetuados em Moeda Estrangeira:** - **Data da Conversão:** Os pagamentos realizados em moeda estrangeira devem ser convertidos para reais na data do pagamento. - **Taxa de Câmbio Aplicável:** Utilize a cotação de venda da moeda estrangeira, conforme divulgada pelo Banco Central do Brasil na data em que o pagamento foi efetuado. **Observações Importantes:** - **Declaração de Bens em Moeda Estrangeira:** - Ao declarar bens ou direitos adquiridos em moeda estrangeira, informe o valor original de aquisição convertido para reais na data da compra, utilizando a cotação de venda da moeda estrangeira naquela data. - **Conversão de Moedas Diferentes do Dólar Americano:** - Para moedas estrangeiras distintas do dólar dos Estados Unidos, converta inicialmente o valor para dólares americanos utilizando a taxa de câmbio do país de origem. Em seguida, converta o valor em dólares para reais, aplicando a cotação do dólar divulgada pelo Banco Central do Brasil na data correspondente. Para obter as taxas de câmbio oficiais, consulte o site do Banco Central do Brasil ou as tabelas de conversão disponibilizadas pela Receita Federal. A correta conversão e declaração dos valores em moeda estrangeira são essenciais para o cumprimento das obrigações fiscais e para evitar possíveis penalidades. Para mais informações, acesse o portal da Receita Federal: citeturn0search0 \"",
+  "answer_relevancy": 0.8166718063777196,
+  "answer_correctness": 0.38,
+  "semantic_similarity": 0.8170527522435387,
+  "bleu": 0.08968622051963912,
+  "rouge1_precision": 0.3292307692307692,
+  "rouge1_recall": 0.6114285714285714,
+  "rouge1_fmeasure": 0.428,
+  "rouge2_precision": 0.11728395061728394,
+  "rouge2_recall": 0.21839080459770116,
+  "rouge2_fmeasure": 0.15261044176706826,
+  "rougeL_precision": 0.16923076923076924,
+  "rougeL_recall": 0.3142857142857143,
+  "rougeL_fmeasure": 0.22
+}

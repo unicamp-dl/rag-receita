@@ -1,0 +1,19 @@
+{
+  "question_number": "91",
+  "question_text": "É devido imposto sobre a renda de contribuinte que faleceu após a apresentação da declaração do exercício?",
+  "reference": "['Se houver bens a inventariar, o imposto deve ser pago pelo espólio.', 'Inexistindo bens a inventariar, o cônjuge/companheiro sobrevivente ou os dependentes não respondem pelos', 'tributos devidos pela pessoa falecida.', 'Atenção:', 'A inscrição no Cadastro de Pessoas Físicas (CPF) será enquadrada, quanto à situação cadastral,', 'em titular falecido, não ocorrendo o cancelamento desse CPF.', '(Instrução Normativa SRF nº 81, de 11 de outubro de 2001, arts. 18 a 21; e Instrução Normativa', 'RFB nº 2.172, de 9 de janeiro de 2024, art. 2º, inciso V)']",
+  "candidate": "\"Sim, é devido o Imposto de Renda referente ao ano-calendário anterior ao falecimento do contribuinte, mesmo que ele tenha falecido após a apresentação da declaração desse exercício. Se o contribuinte já havia apresentado a declaração antes de falecer, as obrigações tributárias relativas àquele exercício estão cumpridas. No entanto, caso haja imposto a pagar referente a esse período, o valor deve ser quitado utilizando os recursos do espólio, que é o conjunto de bens, direitos e obrigações deixados pelo falecido. citeturn0search1 Após o falecimento, é necessário apresentar as declarações de espólio, que são classificadas em três tipos: 1. **Declaração Inicial de Espólio**: Refere-se ao ano do falecimento. 2. **Declarações Intermediárias de Espólio**: Abrangem os anos subsequentes ao falecimento até a conclusão do inventário. 3. **Declaração Final de Espólio**: É apresentada no ano em que ocorre a decisão judicial ou escritura pública de partilha dos bens. Essas declarações são obrigatórias e devem ser apresentadas pelo inventariante ou responsável pelo espólio, conforme as regras estabelecidas pela Receita Federal. citeturn0search8 Portanto, mesmo após o falecimento do contribuinte, é fundamental cumprir com as obrigações tributárias pendentes, utilizando os recursos do espólio para efetuar eventuais pagamentos de impostos devidos. \"",
+  "answer_relevancy": 0.6605404199152068,
+  "answer_correctness": 0.21,
+  "semantic_similarity": 0.7602236634989709,
+  "bleu": 0.020193855974217332,
+  "rouge1_precision": 0.18181818181818182,
+  "rouge1_recall": 0.4375,
+  "rouge1_fmeasure": 0.2568807339449541,
+  "rouge2_precision": 0.017391304347826087,
+  "rouge2_recall": 0.042105263157894736,
+  "rouge2_fmeasure": 0.024615384615384615,
+  "rougeL_precision": 0.09523809523809523,
+  "rougeL_recall": 0.22916666666666666,
+  "rougeL_fmeasure": 0.13455657492354742
+}

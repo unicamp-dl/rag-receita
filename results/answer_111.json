@@ -1,0 +1,19 @@
+{
+  "question_number": "111",
+  "question_text": "Os bens doados em vida respondem pelas dívidas fiscais do espólio?",
+  "reference": "['Os bens doados em estrita observância à lei, bem como os bens e rendimentos privativos do cônjuge', 'sobrevivente e dos herdeiros e legatários, não respondem pelas dívidas do espólio.', 'Somente na hipótese de haver meação, herança ou legado haverá incidência tributária, limitada essa', 'responsabilidade ao montante do quinhão, do legado ou da meação.', '(Regulamento do Imposto sobre a Renda - RIR/2018, art. 21, aprovado pelo Decreto nº 9.580, de', '22 de novembro de 2018)']",
+  "candidate": "No contexto jurídico brasileiro, os bens doados em vida pelo falecido, quando realizados de acordo com a legislação vigente, não são utilizados para quitar dívidas fiscais do espólio. Isso ocorre porque tais bens já foram transferidos legalmente a terceiros antes do falecimento e, portanto, não integram o patrimônio do espólio. Consequentemente, não podem ser alcançados para satisfazer obrigações tributárias ou outras dívidas deixadas pelo falecido. ​ É importante notar que, após a partilha dos bens do espólio, cada herdeiro responde pelas dívidas do falecido na proporção da parte que lhe coube na herança, e apenas até o limite do valor dos bens herdados. Ou seja, os herdeiros não são pessoalmente responsáveis por dívidas que excedam o valor dos bens recebidos. ​ jusbrasil.com.br +2 tjdft.jus.br +2 ibdfam.org.br +2 No entanto, se houver indícios de que as doações em vida foram realizadas com a intenção de fraudar credores ou de evitar o pagamento de dívidas, essas transações podem ser objeto de questionamento judicial. Nesses casos, é possível a anulação das doações por meio de ação pauliana, permitindo que os bens retornem ao patrimônio do espólio para satisfazer as obrigações pendentes. ​ pucrs.br Portanto, embora os bens doados em vida não respondam, em regra, pelas dívidas fiscais do espólio, é fundamental que as doações sejam realizadas de forma legítima e sem a intenção de prejudicar credores, a fim de evitar possíveis implicações legais.",
+  "answer_relevancy": 0.893299465343622,
+  "answer_correctness": 0.48,
+  "semantic_similarity": 0.7648720435411054,
+  "bleu": 0.0825101291002796,
+  "rouge1_precision": 0.15693430656934307,
+  "rouge1_recall": 0.4942528735632184,
+  "rouge1_fmeasure": 0.23822714681440443,
+  "rouge2_precision": 0.04395604395604396,
+  "rouge2_recall": 0.13953488372093023,
+  "rouge2_fmeasure": 0.06685236768802229,
+  "rougeL_precision": 0.09854014598540146,
+  "rougeL_recall": 0.3103448275862069,
+  "rougeL_fmeasure": 0.14958448753462605
+}
