@@ -52,8 +52,8 @@ async def evaluate_metrics(
         reference_col="answer",
         candidate_col="candidate",
         metrics=None,
-        llm_model="gpt-4o-mini-2024-07-18",
-        embedding_model="text-embedding-3-small",
+        llm_model="gpt-4o-mini",
+        embedding_model="text-embedding-3-small", # ou text-embedding-3-large / text-embedding-ada-002
         output_json="all_results.json"
 ):
     results_dir = "results"
@@ -166,7 +166,7 @@ def main():
                         help="Nome da coluna contendo a pergunta (default=question_text).")
     parser.add_argument("--metrics", "-m", nargs="+", default=[],
                         help="Lista de métricas a serem avaliadas. Use 'all' para todas.")
-    parser.add_argument("--llm_model", type=str, default="gpt-4o-mini-2024-07-18",
+    parser.add_argument("--llm_model", type=str, default="gpt-4o-mini",
                         help="Modelo do LLM (ex: gpt-4o-mini-2024-07-18).")
     parser.add_argument("--embedding_model", type=str, default="text-embedding-3-small",
                         help="Modelo de embeddings (default=text-embedding-3-small).")
