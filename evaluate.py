@@ -3,6 +3,7 @@ import json
 import argparse
 import asyncio
 from dotenv import load_dotenv
+from tqdm import tqdm
 
 from ragas.dataset_schema import SingleTurnSample
 from ragas.metrics import (
@@ -53,7 +54,7 @@ async def evaluate_metrics(
         candidate_col="candidate",
         metrics=None,
         llm_model="gpt-4o-mini",
-        embedding_model="text-embedding-3-small", # ou text-embedding-3-large / text-embedding-ada-002
+        embedding_model="text-embedding-3-small",  # ou text-embedding-3-large / text-embedding-ada-002
         output_json="all_results.json"
 ):
     results_dir = "results"
@@ -76,7 +77,7 @@ async def evaluate_metrics(
     total_items = len(data)
     item_results = []
 
-    for idx, item in enumerate(data, start=1):
+    for idx, item in enumerate(tqdm(data, desc="Processando itens", total=total_items), start=1):
         q_number = item.get("question_number", str(idx))
         q_text = item.get("question_text", item.get(question_col, ""))
 
@@ -84,7 +85,7 @@ async def evaluate_metrics(
         candidate = item.get(candidate_col, "")
 
         if not str(candidate).strip():
-            print(f"[{idx}/{total_items}] Questão {q_number} ignorada (candidate vazio).")
+            tqdm.write(f"[{idx}/{total_items}] Questão {q_number} ignorada (candidate vazio).")
             continue
 
         sample = SingleTurnSample(
@@ -136,7 +137,7 @@ async def evaluate_metrics(
         with open(individual_filename, "w", encoding="utf-8") as f:
             json.dump(result_item, f, indent=2, ensure_ascii=False)
 
-        print(f"[{idx}/{total_items}] Questão {q_number} processada e salva em {individual_filename}.")
+        tqdm.write(f"[{idx}/{total_items}] Questão {q_number} processada e salva em {individual_filename}.")
 
     final_scores = average_metric_sums(metric_sums, count_items)
     output_data = {
@@ -148,7 +149,7 @@ async def evaluate_metrics(
     with open(all_results_filename, "w", encoding="utf-8") as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
 
-    print(f"Todos os resultados foram salvos em {all_results_filename}.")
+    tqdm.write(f"Todos os resultados foram salvos em {all_results_filename}.")
     return output_data
 
 
